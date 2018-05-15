@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 14 15:45:33 +0000 2018",
+		"id": 996053913131536400,
+		"id_str": "996053913131536384",
+		"text": "#LOONA_Fancafe #Official\n[이달의 소녀 yyxy] LOONA yyxy beauty&amp;thebeat Chuu\nhttps://t.co/B9uiUWczHc\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Fancafe",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Official",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B9uiUWczHc",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5dG/289",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47,
+			"friends_count": 76,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 146,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1588,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon May 14 15:20:43 +0000 2018",
+		"id": 996047665862410200,
+		"id_str": "996047665862410240",
+		"text": "RT @loonatheworld: 알잖아? 나 서열 1위 츄😜\n#이달의소녀 #LOONA #yyxy #이브 #츄 #고원 #OliviaHye #Yves #Chuu #GoWon #올리비아혜\nLOOΠΔ\nhttps://t.co/5CfbXI886V https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "yyxy",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						59,
+						61
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXI886V",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.loonatheworld.com/\" rel=\"nofollow\">이달의 소녀</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47,
+			"friends_count": 76,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 146,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1588,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 14 15:00:04 +0000 2018",
+			"id": 996042466309521400,
+			"id_str": "996042466309521409",
+			"text": "알잖아? 나 서열 1위 츄😜\n#이달의소녀 #LOONA #yyxy #이브 #츄 #고원 #OliviaHye #Yves #Chuu #GoWon #올리비아혜\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/EglrYKITut",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							16,
+							22
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							23,
+							29
+						]
+					},
+					{
+						"text": "yyxy",
+						"indices": [
+							30,
+							35
+						]
+					},
+					{
+						"text": "이브",
+						"indices": [
+							36,
+							39
+						]
+					},
+					{
+						"text": "츄",
+						"indices": [
+							40,
+							42
+						]
+					},
+					{
+						"text": "고원",
+						"indices": [
+							43,
+							46
+						]
+					},
+					{
+						"text": "OliviaHye",
+						"indices": [
+							47,
+							57
+						]
+					},
+					{
+						"text": "Yves",
+						"indices": [
+							58,
+							63
+						]
+					},
+					{
+						"text": "Chuu",
+						"indices": [
+							64,
+							69
+						]
+					},
+					{
+						"text": "GoWon",
+						"indices": [
+							70,
+							76
+						]
+					},
+					{
+						"text": "올리비아혜",
+						"indices": [
+							77,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5CfbXI886V",
+						"expanded_url": "http://www.loonatheworld.com",
+						"display_url": "loonatheworld.com",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 996039900766994400,
+						"id_str": "996039900766994432",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DdKlAzNVAAA-9iU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdKlAzNVAAA-9iU.jpg",
+						"url": "https://t.co/EglrYKITut",
+						"display_url": "pic.twitter.com/EglrYKITut",
+						"expanded_url": "https://twitter.com/loonatheworld/status/996042466309521409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 773,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 644,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 996039900766994400,
+						"id_str": "996039900766994432",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DdKlAzNVAAA-9iU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdKlAzNVAAA-9iU.jpg",
+						"url": "https://t.co/EglrYKITut",
+						"display_url": "pic.twitter.com/EglrYKITut",
+						"expanded_url": "https://twitter.com/loonatheworld/status/996042466309521409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 773,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 644,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 770959712791597000,
+				"id_str": "770959712791597056",
+				"name": "이달의 소녀(LOOΠΔ)",
+				"screen_name": "loonatheworld",
+				"location": "",
+				"description": "이달의 소녀 공식 트위터입니다.",
+				"url": "https://t.co/hthRlo3Dn7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hthRlo3Dn7",
+								"expanded_url": "http://www.loonatheworld.com",
+								"display_url": "loonatheworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 130469,
+				"friends_count": 0,
+				"listed_count": 1813,
+				"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 958,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1522379650",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13749,
+			"favorite_count": 17232,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13749,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon May 14 15:13:09 +0000 2018",
 		"id": 996045759370981400,
 		"id_str": "996045759370981376",
@@ -19290,7 +19867,7 @@ Grailbird.data.tweets_2018_05 =
 		},
 		"geo": {},
 		"id_str": "992058563924234242",
-		"text": "RT @loonatheworld: \" #이달의소녀 Cinema Theory 를 보고 싶은 팬들 모여라🙂!\" 를 통해 이달의 소녀를 초대 해 주신 전세계 이달의 소녀 팬분들께 감사합니다🙇‍♀️ 당첨자를 확인 하세요! \n▶ https://t.co/wlK…",
+		"text": "RT @loonatheworld: \" #이달의소녀 Cinema Theory 를 보고 싶은 팬들 모여라🙂!\" 를 통해 이달의 소녀를 초대 해 주신 전세계 이달의 소녀 팬분들께 감사합니다🙇♀️ 당첨자를 확인 하세요! \n▶ https://t.co/wlK…",
 		"retweeted_status": {
 			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 			"entities": {
@@ -19368,7 +19945,7 @@ Grailbird.data.tweets_2018_05 =
 			},
 			"geo": {},
 			"id_str": "992056408890753025",
-			"text": "\" #이달의소녀 Cinema Theory 를 보고 싶은 팬들 모여라🙂!\" 를 통해 이달의 소녀를 초대 해 주신 전세계 이달의 소녀 팬분들께 감사합니다🙇‍♀️ 당첨자를 확인 하세요! \n▶ https://t.co/wlKHcFkQEt \n#LOONA https://t.co/FOJTV5xWhD",
+			"text": "\" #이달의소녀 Cinema Theory 를 보고 싶은 팬들 모여라🙂!\" 를 통해 이달의 소녀를 초대 해 주신 전세계 이달의 소녀 팬분들께 감사합니다🙇♀️ 당첨자를 확인 하세요! \n▶ https://t.co/wlKHcFkQEt \n#LOONA https://t.co/FOJTV5xWhD",
 			"id": 992056408890753000,
 			"created_at": "2018-05-03 15:00:54 +0000",
 			"user": {
