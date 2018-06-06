@@ -1,6 +1,5401 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 06 13:01:56 +0000 2018",
+		"id": 1004347659421806600,
+		"id_str": "1004347659421806592",
+		"text": "RT @NVBT_: NVBT입니다 https://t.co/Ylm60fscRt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NVBT_",
+					"name": "NVBT",
+					"id": 870254742743601200,
+					"id_str": "870254742743601152",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004237702659575800,
+					"id_str": "1004237702659575808",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+					"url": "https://t.co/Ylm60fscRt",
+					"display_url": "pic.twitter.com/Ylm60fscRt",
+					"expanded_url": "https://twitter.com/NVBT_/status/1004237717763284992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1607,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004237717763285000,
+					"source_status_id_str": "1004237717763284992",
+					"source_user_id": 870254742743601200,
+					"source_user_id_str": "870254742743601152"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004237702659575800,
+					"id_str": "1004237702659575808",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+					"url": "https://t.co/Ylm60fscRt",
+					"display_url": "pic.twitter.com/Ylm60fscRt",
+					"expanded_url": "https://twitter.com/NVBT_/status/1004237717763284992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1607,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004237717763285000,
+					"source_status_id_str": "1004237717763284992",
+					"source_user_id": 870254742743601200,
+					"source_user_id_str": "870254742743601152"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 06 05:45:04 +0000 2018",
+			"id": 1004237717763285000,
+			"id_str": "1004237717763284992",
+			"text": "NVBT입니다 https://t.co/Ylm60fscRt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004237702659575800,
+						"id_str": "1004237702659575808",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+						"url": "https://t.co/Ylm60fscRt",
+						"display_url": "pic.twitter.com/Ylm60fscRt",
+						"expanded_url": "https://twitter.com/NVBT_/status/1004237717763284992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1607,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004237702659575800,
+						"id_str": "1004237702659575808",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De_E3rEUEAADI6q.jpg",
+						"url": "https://t.co/Ylm60fscRt",
+						"display_url": "pic.twitter.com/Ylm60fscRt",
+						"expanded_url": "https://twitter.com/NVBT_/status/1004237717763284992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1607,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 870254742743601200,
+				"id_str": "870254742743601152",
+				"name": "NVBT",
+				"screen_name": "NVBT_",
+				"location": "내 세상의 끝에 네가 있어 줘서 고마워",
+				"description": "이달의소녀 김립",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3656,
+				"friends_count": 0,
+				"listed_count": 795,
+				"created_at": "Thu Jun 01 12:24:34 +0000 2017",
+				"favourites_count": 743,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 512,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948172913089187845/LSr9lmw6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948172913089187845/LSr9lmw6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/870254742743601152/1509827540",
+				"profile_link_color": "990210",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 12:51:54 +0000 2018",
+		"id": 1004345134643703800,
+		"id_str": "1004345134643703808",
+		"text": "RT @heartf_lip: 180603\n팀에서 깜찍이&gt;_&lt; 를 맡고있는 김정은씨\n\n#이달의소녀 #김립 #LOONA #KimLip https://t.co/eVtHDXuK8F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heartf_lip",
+					"name": "heart flip",
+					"id": 959417344375234600,
+					"id_str": "959417344375234560",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003513170676219900,
+					"id_str": "1003513170676219904",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+					"url": "https://t.co/eVtHDXuK8F",
+					"display_url": "pic.twitter.com/eVtHDXuK8F",
+					"expanded_url": "https://twitter.com/heartf_lip/status/1003513386317910016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003513386317910000,
+					"source_status_id_str": "1003513386317910016",
+					"source_user_id": 959417344375234600,
+					"source_user_id_str": "959417344375234560"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003513170676219900,
+					"id_str": "1003513170676219904",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+					"url": "https://t.co/eVtHDXuK8F",
+					"display_url": "pic.twitter.com/eVtHDXuK8F",
+					"expanded_url": "https://twitter.com/heartf_lip/status/1003513386317910016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003513386317910000,
+					"source_status_id_str": "1003513386317910016",
+					"source_user_id": 959417344375234600,
+					"source_user_id_str": "959417344375234560",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34668,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/vid/480x480/O9mZdEi8z3BCkiEe.mp4?tag=3"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/vid/720x720/1rYLmf08LaQAbSdw.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/vid/240x240/JLZcOa3aU3WjLvqA.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/pl/9SMM9NJIe8d9-10u.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 959417344375234600,
+							"id_str": "959417344375234560",
+							"name": "heart flip",
+							"screen_name": "heartf_lip",
+							"location": "HQ = ❤️",
+							"description": "#이달의소녀 #김립 사랑행 (*˘︶˘*).:*❤️",
+							"url": "https://t.co/YPhT0xn2fo",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/YPhT0xn2fo",
+											"expanded_url": "http://heartf-lip.tistory.com",
+											"display_url": "heartf-lip.tistory.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1835,
+							"friends_count": 1,
+							"listed_count": 393,
+							"created_at": "Fri Feb 02 13:24:54 +0000 2018",
+							"favourites_count": 26,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 81,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/959417344375234560/1517598318",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 05:46:50 +0000 2018",
+			"id": 1003513386317910000,
+			"id_str": "1003513386317910016",
+			"text": "180603\n팀에서 깜찍이&gt;_&lt; 를 맡고있는 김정은씨\n\n#이달의소녀 #김립 #LOONA #KimLip https://t.co/eVtHDXuK8F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							37,
+							43
+						]
+					},
+					{
+						"text": "김립",
+						"indices": [
+							44,
+							47
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							48,
+							54
+						]
+					},
+					{
+						"text": "KimLip",
+						"indices": [
+							55,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003513170676219900,
+						"id_str": "1003513170676219904",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+						"url": "https://t.co/eVtHDXuK8F",
+						"display_url": "pic.twitter.com/eVtHDXuK8F",
+						"expanded_url": "https://twitter.com/heartf_lip/status/1003513386317910016/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003513170676219900,
+						"id_str": "1003513170676219904",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003513170676219904/pu/img/ouDneeLK0kjHEnrs.jpg",
+						"url": "https://t.co/eVtHDXuK8F",
+						"display_url": "pic.twitter.com/eVtHDXuK8F",
+						"expanded_url": "https://twitter.com/heartf_lip/status/1003513386317910016/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 34668,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/vid/480x480/O9mZdEi8z3BCkiEe.mp4?tag=3"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/vid/720x720/1rYLmf08LaQAbSdw.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/vid/240x240/JLZcOa3aU3WjLvqA.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1003513170676219904/pu/pl/9SMM9NJIe8d9-10u.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 959417344375234600,
+				"id_str": "959417344375234560",
+				"name": "heart flip",
+				"screen_name": "heartf_lip",
+				"location": "HQ = ❤️",
+				"description": "#이달의소녀 #김립 사랑행 (*˘︶˘*).:*❤️",
+				"url": "https://t.co/YPhT0xn2fo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YPhT0xn2fo",
+								"expanded_url": "http://heartf-lip.tistory.com",
+								"display_url": "heartf-lip.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1835,
+				"friends_count": 1,
+				"listed_count": 393,
+				"created_at": "Fri Feb 02 13:24:54 +0000 2018",
+				"favourites_count": 26,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/959417344375234560/1517598318",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 629,
+			"favorite_count": 751,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 629,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 12:51:37 +0000 2018",
+		"id": 1004345061306351600,
+		"id_str": "1004345061306351618",
+		"text": "RT @sweetdrop_: 180603 LINE&amp;UP \n\n신난 97즈 😝😜\n\n#Yves #Jinsoul \n#LOONA #이달의소녀 https://t.co/UuUKxv22R3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Yves",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "Jinsoul",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						71,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sweetdrop_",
+					"name": "sweet drop",
+					"id": 961587697935532000,
+					"id_str": "961587697935532033",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003556557559251000,
+					"id_str": "1003556557559250947",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+					"url": "https://t.co/UuUKxv22R3",
+					"display_url": "pic.twitter.com/UuUKxv22R3",
+					"expanded_url": "https://twitter.com/sweetdrop_/status/1003557197073137665/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003557197073137700,
+					"source_status_id_str": "1003557197073137665",
+					"source_user_id": 961587697935532000,
+					"source_user_id_str": "961587697935532033"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003556557559251000,
+					"id_str": "1003556557559250947",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+					"url": "https://t.co/UuUKxv22R3",
+					"display_url": "pic.twitter.com/UuUKxv22R3",
+					"expanded_url": "https://twitter.com/sweetdrop_/status/1003557197073137665/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003557197073137700,
+					"source_status_id_str": "1003557197073137665",
+					"source_user_id": 961587697935532000,
+					"source_user_id_str": "961587697935532033",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45002,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/vid/240x240/LAKbSg84kD3LufwM.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/vid/480x480/imiCx2wkD4I1nu-Q.mp4?tag=3"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/vid/720x720/uZYWZBnmPQvs07W_.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/pl/rUPxHbwTSWG4i9D-.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 961587697935532000,
+							"id_str": "961587697935532033",
+							"name": "sweet drop",
+							"screen_name": "sweetdrop_",
+							"location": "",
+							"description": "정진솔 좋아해💕💘💖💞💓💗",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 781,
+							"friends_count": 0,
+							"listed_count": 195,
+							"created_at": "Thu Feb 08 13:09:07 +0000 2018",
+							"favourites_count": 3,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 14,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/961587697935532033/1518095857",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 08:40:55 +0000 2018",
+			"id": 1003557197073137700,
+			"id_str": "1003557197073137665",
+			"text": "180603 LINE&amp;UP \n\n신난 97즈 😝😜\n\n#Yves #Jinsoul \n#LOONA #이달의소녀 https://t.co/UuUKxv22R3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Yves",
+						"indices": [
+							32,
+							37
+						]
+					},
+					{
+						"text": "Jinsoul",
+						"indices": [
+							38,
+							46
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							48,
+							54
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							55,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003556557559251000,
+						"id_str": "1003556557559250947",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+						"url": "https://t.co/UuUKxv22R3",
+						"display_url": "pic.twitter.com/UuUKxv22R3",
+						"expanded_url": "https://twitter.com/sweetdrop_/status/1003557197073137665/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003556557559251000,
+						"id_str": "1003556557559250947",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003556557559250947/pu/img/3VK1XTf2fCVd2ak2.jpg",
+						"url": "https://t.co/UuUKxv22R3",
+						"display_url": "pic.twitter.com/UuUKxv22R3",
+						"expanded_url": "https://twitter.com/sweetdrop_/status/1003557197073137665/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 45002,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/vid/240x240/LAKbSg84kD3LufwM.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/vid/480x480/imiCx2wkD4I1nu-Q.mp4?tag=3"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/vid/720x720/uZYWZBnmPQvs07W_.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1003556557559250947/pu/pl/rUPxHbwTSWG4i9D-.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 961587697935532000,
+				"id_str": "961587697935532033",
+				"name": "sweet drop",
+				"screen_name": "sweetdrop_",
+				"location": "",
+				"description": "정진솔 좋아해💕💘💖💞💓💗",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 781,
+				"friends_count": 0,
+				"listed_count": 195,
+				"created_at": "Thu Feb 08 13:09:07 +0000 2018",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/961587697935532033/1518095857",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 482,
+			"favorite_count": 555,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 482,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 12:50:47 +0000 2018",
+		"id": 1004344855101751300,
+		"id_str": "1004344855101751296",
+		"text": "RT @kissmylips_kr: 180603\nyou make me feel so Loonatic! \n#이달의소녀 #김립 #LOONA #KimLip https://t.co/VS81eI2slg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kissmylips_kr",
+					"name": "kiss my lips.",
+					"id": 960139280197693400,
+					"id_str": "960139280197693440",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003616826641674200,
+					"id_str": "1003616826641674240",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+					"url": "https://t.co/VS81eI2slg",
+					"display_url": "pic.twitter.com/VS81eI2slg",
+					"expanded_url": "https://twitter.com/kissmylips_kr/status/1003617026328285185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003617026328285200,
+					"source_status_id_str": "1003617026328285185",
+					"source_user_id": 960139280197693400,
+					"source_user_id_str": "960139280197693440"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003616826641674200,
+					"id_str": "1003616826641674240",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+					"url": "https://t.co/VS81eI2slg",
+					"display_url": "pic.twitter.com/VS81eI2slg",
+					"expanded_url": "https://twitter.com/kissmylips_kr/status/1003617026328285185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003617026328285200,
+					"source_status_id_str": "1003617026328285185",
+					"source_user_id": 960139280197693400,
+					"source_user_id_str": "960139280197693440"
+				},
+				{
+					"id": 1003616838100504600,
+					"id_str": "1003616838100504576",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/De2QMmWU0AA9Zmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De2QMmWU0AA9Zmk.jpg",
+					"url": "https://t.co/VS81eI2slg",
+					"display_url": "pic.twitter.com/VS81eI2slg",
+					"expanded_url": "https://twitter.com/kissmylips_kr/status/1003617026328285185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003617026328285200,
+					"source_status_id_str": "1003617026328285185",
+					"source_user_id": 960139280197693400,
+					"source_user_id_str": "960139280197693440"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 12:38:40 +0000 2018",
+			"id": 1003617026328285200,
+			"id_str": "1003617026328285185",
+			"text": "180603\nyou make me feel so Loonatic! \n#이달의소녀 #김립 #LOONA #KimLip https://t.co/VS81eI2slg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							38,
+							44
+						]
+					},
+					{
+						"text": "김립",
+						"indices": [
+							45,
+							48
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							49,
+							55
+						]
+					},
+					{
+						"text": "KimLip",
+						"indices": [
+							56,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003616826641674200,
+						"id_str": "1003616826641674240",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+						"url": "https://t.co/VS81eI2slg",
+						"display_url": "pic.twitter.com/VS81eI2slg",
+						"expanded_url": "https://twitter.com/kissmylips_kr/status/1003617026328285185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003616826641674200,
+						"id_str": "1003616826641674240",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De2QL7qU8AAMpFL.jpg",
+						"url": "https://t.co/VS81eI2slg",
+						"display_url": "pic.twitter.com/VS81eI2slg",
+						"expanded_url": "https://twitter.com/kissmylips_kr/status/1003617026328285185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003616838100504600,
+						"id_str": "1003616838100504576",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/De2QMmWU0AA9Zmk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De2QMmWU0AA9Zmk.jpg",
+						"url": "https://t.co/VS81eI2slg",
+						"display_url": "pic.twitter.com/VS81eI2slg",
+						"expanded_url": "https://twitter.com/kissmylips_kr/status/1003617026328285185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 960139280197693400,
+				"id_str": "960139280197693440",
+				"name": "kiss my lips.",
+				"screen_name": "kissmylips_kr",
+				"location": "",
+				"description": "loonatheworld Kim Lip💋",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2668,
+				"friends_count": 1,
+				"listed_count": 491,
+				"created_at": "Sun Feb 04 13:13:37 +0000 2018",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960144437715255296/EA_96a9S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960144437715255296/EA_96a9S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/960139280197693440/1517750710",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 961,
+			"favorite_count": 1191,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 961,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 06 12:49:53 +0000 2018",
+		"id": 1004344627359445000,
+		"id_str": "1004344627359444992",
+		"text": "RT @heartf_lip: 180603 LINE&amp;UP - Girl Front KimLip \n\n🔗 https://t.co/dnjcGVu6qg\n\n#이달의소녀 #김립 #LOONA #KimLip https://t.co/EgMO1Wme10",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heartf_lip",
+					"name": "heart flip",
+					"id": 959417344375234600,
+					"id_str": "959417344375234560",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dnjcGVu6qg",
+					"expanded_url": "https://youtu.be/UK37TfJwzA0",
+					"display_url": "youtu.be/UK37TfJwzA0",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1003643900702089200,
+					"id_str": "1003643900702089216",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+					"url": "https://t.co/EgMO1Wme10",
+					"display_url": "pic.twitter.com/EgMO1Wme10",
+					"expanded_url": "https://twitter.com/heartf_lip/status/1003644576169644032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003644576169644000,
+					"source_status_id_str": "1003644576169644032",
+					"source_user_id": 959417344375234600,
+					"source_user_id_str": "959417344375234560"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003643900702089200,
+					"id_str": "1003643900702089216",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+					"url": "https://t.co/EgMO1Wme10",
+					"display_url": "pic.twitter.com/EgMO1Wme10",
+					"expanded_url": "https://twitter.com/heartf_lip/status/1003644576169644032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003644576169644000,
+					"source_status_id_str": "1003644576169644032",
+					"source_user_id": 959417344375234600,
+					"source_user_id_str": "959417344375234560",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 97159,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/pl/cZYfLdL4Gy1ORpKe.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/vid/640x360/Wj3tCgGHZWycA-9v.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/vid/320x180/AzC0aVu_vwsj59LJ.mp4?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/vid/1280x720/SIHUKsMN1-5TuZ5I.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 959417344375234600,
+							"id_str": "959417344375234560",
+							"name": "heart flip",
+							"screen_name": "heartf_lip",
+							"location": "HQ = ❤️",
+							"description": "#이달의소녀 #김립 사랑행 (*˘︶˘*).:*❤️",
+							"url": "https://t.co/YPhT0xn2fo",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/YPhT0xn2fo",
+											"expanded_url": "http://heartf-lip.tistory.com",
+											"display_url": "heartf-lip.tistory.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1835,
+							"friends_count": 1,
+							"listed_count": 393,
+							"created_at": "Fri Feb 02 13:24:54 +0000 2018",
+							"favourites_count": 26,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 81,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/959417344375234560/1517598318",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 14:28:08 +0000 2018",
+			"id": 1003644576169644000,
+			"id_str": "1003644576169644032",
+			"text": "180603 LINE&amp;UP - Girl Front KimLip \n\n🔗 https://t.co/dnjcGVu6qg\n\n#이달의소녀 #김립 #LOONA #KimLip https://t.co/EgMO1Wme10",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							68,
+							74
+						]
+					},
+					{
+						"text": "김립",
+						"indices": [
+							75,
+							78
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							79,
+							85
+						]
+					},
+					{
+						"text": "KimLip",
+						"indices": [
+							86,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dnjcGVu6qg",
+						"expanded_url": "https://youtu.be/UK37TfJwzA0",
+						"display_url": "youtu.be/UK37TfJwzA0",
+						"indices": [
+							43,
+							66
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1003643900702089200,
+						"id_str": "1003643900702089216",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+						"url": "https://t.co/EgMO1Wme10",
+						"display_url": "pic.twitter.com/EgMO1Wme10",
+						"expanded_url": "https://twitter.com/heartf_lip/status/1003644576169644032/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003643900702089200,
+						"id_str": "1003643900702089216",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1003643900702089216/pu/img/BuJPAnrHBFj0hdn_.jpg",
+						"url": "https://t.co/EgMO1Wme10",
+						"display_url": "pic.twitter.com/EgMO1Wme10",
+						"expanded_url": "https://twitter.com/heartf_lip/status/1003644576169644032/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 97159,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/pl/cZYfLdL4Gy1ORpKe.m3u8?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/vid/640x360/Wj3tCgGHZWycA-9v.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/vid/320x180/AzC0aVu_vwsj59LJ.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1003643900702089216/pu/vid/1280x720/SIHUKsMN1-5TuZ5I.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 959417344375234600,
+				"id_str": "959417344375234560",
+				"name": "heart flip",
+				"screen_name": "heartf_lip",
+				"location": "HQ = ❤️",
+				"description": "#이달의소녀 #김립 사랑행 (*˘︶˘*).:*❤️",
+				"url": "https://t.co/YPhT0xn2fo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YPhT0xn2fo",
+								"expanded_url": "http://heartf-lip.tistory.com",
+								"display_url": "heartf-lip.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1835,
+				"friends_count": 1,
+				"listed_count": 393,
+				"created_at": "Fri Feb 02 13:24:54 +0000 2018",
+				"favourites_count": 26,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998558662967705600/WCTNyCtl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/959417344375234560/1517598318",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 761,
+			"favorite_count": 843,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 06 12:49:49 +0000 2018",
+		"id": 1004344609915277300,
+		"id_str": "1004344609915277313",
+		"text": "RT @bluemoon_js: 180603 라인앤업\n#이달의소녀 #LOONA #진솔 #JinSoul \n🐟\nhttps://t.co/PqvwMEFIcW\nhttps://t.co/1tMUVH1AdW\nhttps://t.co/k4QBji7LmO https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bluemoon_js",
+					"name": "blue moon🐟",
+					"id": 906707918459826200,
+					"id_str": "906707918459826177",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PqvwMEFIcW",
+					"expanded_url": "https://goo.gl/VQHXRJ",
+					"display_url": "goo.gl/VQHXRJ",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/1tMUVH1AdW",
+					"expanded_url": "https://goo.gl/f4ZCK1",
+					"display_url": "goo.gl/f4ZCK1",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/k4QBji7LmO",
+					"expanded_url": "https://goo.gl/CZmv2M",
+					"display_url": "goo.gl/CZmv2M",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 16:36:56 +0000 2018",
+			"id": 1003676991957000200,
+			"id_str": "1003676991957000192",
+			"text": "180603 라인앤업\n#이달의소녀 #LOONA #진솔 #JinSoul \n🐟\nhttps://t.co/PqvwMEFIcW\nhttps://t.co/1tMUVH1AdW\nhttps://t.co/k4QBji7LmO https://t.co/ILHiYp9OZH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							12,
+							18
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							19,
+							25
+						]
+					},
+					{
+						"text": "진솔",
+						"indices": [
+							26,
+							29
+						]
+					},
+					{
+						"text": "JinSoul",
+						"indices": [
+							30,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PqvwMEFIcW",
+						"expanded_url": "https://goo.gl/VQHXRJ",
+						"display_url": "goo.gl/VQHXRJ",
+						"indices": [
+							42,
+							65
+						]
+					},
+					{
+						"url": "https://t.co/1tMUVH1AdW",
+						"expanded_url": "https://goo.gl/f4ZCK1",
+						"display_url": "goo.gl/f4ZCK1",
+						"indices": [
+							66,
+							89
+						]
+					},
+					{
+						"url": "https://t.co/k4QBji7LmO",
+						"expanded_url": "https://goo.gl/CZmv2M",
+						"display_url": "goo.gl/CZmv2M",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1003676979671908400,
+						"id_str": "1003676979671908352",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/De3G5TKUwAAjG9J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3G5TKUwAAjG9J.jpg",
+						"url": "https://t.co/ILHiYp9OZH",
+						"display_url": "pic.twitter.com/ILHiYp9OZH",
+						"expanded_url": "https://twitter.com/bluemoon_js/status/1003676991957000192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003676979671908400,
+						"id_str": "1003676979671908352",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/De3G5TKUwAAjG9J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3G5TKUwAAjG9J.jpg",
+						"url": "https://t.co/ILHiYp9OZH",
+						"display_url": "pic.twitter.com/ILHiYp9OZH",
+						"expanded_url": "https://twitter.com/bluemoon_js/status/1003676991957000192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003676979692912600,
+						"id_str": "1003676979692912641",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/De3G5TPVQAEkLTY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3G5TPVQAEkLTY.jpg",
+						"url": "https://t.co/ILHiYp9OZH",
+						"display_url": "pic.twitter.com/ILHiYp9OZH",
+						"expanded_url": "https://twitter.com/bluemoon_js/status/1003676991957000192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003676979722195000,
+						"id_str": "1003676979722194944",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/De3G5TWUEAARb3Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3G5TWUEAARb3Q.jpg",
+						"url": "https://t.co/ILHiYp9OZH",
+						"display_url": "pic.twitter.com/ILHiYp9OZH",
+						"expanded_url": "https://twitter.com/bluemoon_js/status/1003676991957000192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906707918459826200,
+				"id_str": "906707918459826177",
+				"name": "blue moon🐟",
+				"screen_name": "bluemoon_js",
+				"location": "HQ=💙",
+				"description": "이달의 소녀 진솔",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5416,
+				"friends_count": 13,
+				"listed_count": 823,
+				"created_at": "Sun Sep 10 02:36:28 +0000 2017",
+				"favourites_count": 65,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 138,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906712526057963521/cx-yEUtj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906712526057963521/cx-yEUtj_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 831,
+			"favorite_count": 931,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 831,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 12:49:46 +0000 2018",
+		"id": 1004344597986750500,
+		"id_str": "1004344597986750464",
+		"text": "RT @LoonaBlossom: 180603 Premier Greeting \n[Line &amp; Up]\n#이달의소녀 #LOONA \n#OliviaHye #올리비아혜 https://t.co/RtSkyUXr5O",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LoonaBlossom",
+					"name": "LOOΠΔ Blossom🌸",
+					"id": 970651201040629800,
+					"id_str": "970651201040629760",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003669706329415700,
+					"id_str": "1003669706329415681",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+					"url": "https://t.co/RtSkyUXr5O",
+					"display_url": "pic.twitter.com/RtSkyUXr5O",
+					"expanded_url": "https://twitter.com/LoonaBlossom/status/1003669808385159168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003669808385159200,
+					"source_status_id_str": "1003669808385159168",
+					"source_user_id": 970651201040629800,
+					"source_user_id_str": "970651201040629760"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003669706329415700,
+					"id_str": "1003669706329415681",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+					"url": "https://t.co/RtSkyUXr5O",
+					"display_url": "pic.twitter.com/RtSkyUXr5O",
+					"expanded_url": "https://twitter.com/LoonaBlossom/status/1003669808385159168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003669808385159200,
+					"source_status_id_str": "1003669808385159168",
+					"source_user_id": 970651201040629800,
+					"source_user_id_str": "970651201040629760"
+				},
+				{
+					"id": 1003669714415992800,
+					"id_str": "1003669714415992832",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/De3ASZ-VQAAnUA_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3ASZ-VQAAnUA_.jpg",
+					"url": "https://t.co/RtSkyUXr5O",
+					"display_url": "pic.twitter.com/RtSkyUXr5O",
+					"expanded_url": "https://twitter.com/LoonaBlossom/status/1003669808385159168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003669808385159200,
+					"source_status_id_str": "1003669808385159168",
+					"source_user_id": 970651201040629800,
+					"source_user_id_str": "970651201040629760"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 16:08:24 +0000 2018",
+			"id": 1003669808385159200,
+			"id_str": "1003669808385159168",
+			"text": "180603 Premier Greeting \n[Line &amp; Up]\n#이달의소녀 #LOONA \n#OliviaHye #올리비아혜 https://t.co/RtSkyUXr5O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							41,
+							47
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							48,
+							54
+						]
+					},
+					{
+						"text": "OliviaHye",
+						"indices": [
+							56,
+							66
+						]
+					},
+					{
+						"text": "올리비아혜",
+						"indices": [
+							67,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003669706329415700,
+						"id_str": "1003669706329415681",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+						"url": "https://t.co/RtSkyUXr5O",
+						"display_url": "pic.twitter.com/RtSkyUXr5O",
+						"expanded_url": "https://twitter.com/LoonaBlossom/status/1003669808385159168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003669706329415700,
+						"id_str": "1003669706329415681",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3AR72V4AEtt-F.jpg",
+						"url": "https://t.co/RtSkyUXr5O",
+						"display_url": "pic.twitter.com/RtSkyUXr5O",
+						"expanded_url": "https://twitter.com/LoonaBlossom/status/1003669808385159168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003669714415992800,
+						"id_str": "1003669714415992832",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/De3ASZ-VQAAnUA_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3ASZ-VQAAnUA_.jpg",
+						"url": "https://t.co/RtSkyUXr5O",
+						"display_url": "pic.twitter.com/RtSkyUXr5O",
+						"expanded_url": "https://twitter.com/LoonaBlossom/status/1003669808385159168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 970651201040629800,
+				"id_str": "970651201040629760",
+				"name": "LOOΠΔ Blossom🌸",
+				"screen_name": "LoonaBlossom",
+				"location": "",
+				"description": "LOOΠΔ에 피는 12색의 꽃들을 담는 공간",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 911,
+				"friends_count": 3,
+				"listed_count": 201,
+				"created_at": "Mon Mar 05 13:24:14 +0000 2018",
+				"favourites_count": 22,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1003670934161506304/W6Xlldsq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003670934161506304/W6Xlldsq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/970651201040629760/1522574570",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 783,
+			"favorite_count": 802,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 783,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 06 12:49:24 +0000 2018",
+		"id": 1004344505791680500,
+		"id_str": "1004344505791680512",
+		"text": "RT @seraphic_loona: 171105 인기가요 팬미팅 \n#김립 #KimLip\n #이달의소녀 #LOONA\n@loonatheworld https://t.co/DggnEzvyK0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seraphic_loona",
+					"name": "Seraphic Blossom🌸",
+					"id": 914503383121195000,
+					"id_str": "914503383121195008",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003706853031678000,
+					"id_str": "1003706853031677953",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+					"url": "https://t.co/DggnEzvyK0",
+					"display_url": "pic.twitter.com/DggnEzvyK0",
+					"expanded_url": "https://twitter.com/seraphic_loona/status/1003706897365520385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003706897365520400,
+					"source_status_id_str": "1003706897365520385",
+					"source_user_id": 914503383121195000,
+					"source_user_id_str": "914503383121195008"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003706853031678000,
+					"id_str": "1003706853031677953",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+					"url": "https://t.co/DggnEzvyK0",
+					"display_url": "pic.twitter.com/DggnEzvyK0",
+					"expanded_url": "https://twitter.com/seraphic_loona/status/1003706897365520385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003706897365520400,
+					"source_status_id_str": "1003706897365520385",
+					"source_user_id": 914503383121195000,
+					"source_user_id_str": "914503383121195008"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 18:35:46 +0000 2018",
+			"id": 1003706897365520400,
+			"id_str": "1003706897365520385",
+			"text": "171105 인기가요 팬미팅 \n#김립 #KimLip\n #이달의소녀 #LOONA\n@loonatheworld https://t.co/DggnEzvyK0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "김립",
+						"indices": [
+							17,
+							20
+						]
+					},
+					{
+						"text": "KimLip",
+						"indices": [
+							21,
+							28
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							30,
+							36
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							37,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "loonatheworld",
+						"name": "이달의 소녀(LOOΠΔ)",
+						"id": 770959712791597000,
+						"id_str": "770959712791597056",
+						"indices": [
+							44,
+							58
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003706853031678000,
+						"id_str": "1003706853031677953",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+						"url": "https://t.co/DggnEzvyK0",
+						"display_url": "pic.twitter.com/DggnEzvyK0",
+						"expanded_url": "https://twitter.com/seraphic_loona/status/1003706897365520385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003706853031678000,
+						"id_str": "1003706853031677953",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3iEKGUEAEvk3D.jpg",
+						"url": "https://t.co/DggnEzvyK0",
+						"display_url": "pic.twitter.com/DggnEzvyK0",
+						"expanded_url": "https://twitter.com/seraphic_loona/status/1003706897365520385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 914503383121195000,
+				"id_str": "914503383121195008",
+				"name": "Seraphic Blossom🌸",
+				"screen_name": "seraphic_loona",
+				"location": "그녀들이 있는 곳이라면 어디든",
+				"description": "❤️Loona pic ❤️ 🐰🐱🕊🐸🦌🦉🐟🦇 🦆🐧🦋🐺소소하게 사진 올려요.🚨이달의 소녀🚨 ❌2차 보정 및 2차 가공과 상업적 2차 가공이 안 되며 프로필용 로고 크롭은 가능합니다.❌",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3090,
+				"friends_count": 5,
+				"listed_count": 550,
+				"created_at": "Sun Oct 01 14:52:51 +0000 2017",
+				"favourites_count": 91,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 127,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914570378101403648/Ldm-CL7f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914570378101403648/Ldm-CL7f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/914503383121195008/1506870133",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 177,
+			"favorite_count": 188,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 12:47:18 +0000 2018",
+		"id": 1004343974989926400,
+		"id_str": "1004343974989926400",
+		"text": "RT @sweetdrop_: 180602 Girl Front Jinsoul focus. \n\n🔗 https://t.co/kMt88vYwa0\n\n#이달의소녀 #LOONA\n#OEC #진솔 #Jinsoul https://t.co/oyKyHDL9jm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "OEC",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "Jinsoul",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sweetdrop_",
+					"name": "sweet drop",
+					"id": 961587697935532000,
+					"id_str": "961587697935532033",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kMt88vYwa0",
+					"expanded_url": "http://youtu.be/O-NSoblnjvQ",
+					"display_url": "youtu.be/O-NSoblnjvQ",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1004010222506029000,
+					"id_str": "1004010222506029056",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+					"url": "https://t.co/oyKyHDL9jm",
+					"display_url": "pic.twitter.com/oyKyHDL9jm",
+					"expanded_url": "https://twitter.com/sweetdrop_/status/1004010667345522688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004010667345522700,
+					"source_status_id_str": "1004010667345522688",
+					"source_user_id": 961587697935532000,
+					"source_user_id_str": "961587697935532033"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004010222506029000,
+					"id_str": "1004010222506029056",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+					"url": "https://t.co/oyKyHDL9jm",
+					"display_url": "pic.twitter.com/oyKyHDL9jm",
+					"expanded_url": "https://twitter.com/sweetdrop_/status/1004010667345522688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004010667345522700,
+					"source_status_id_str": "1004010667345522688",
+					"source_user_id": 961587697935532000,
+					"source_user_id_str": "961587697935532033",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33234,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/pl/BNu2Q6bhFmONffUs.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/vid/640x360/VbZ0Ss74ztLtrUGy.mp4?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/vid/1280x720/WiTkov_SHzFBIy6B.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/vid/320x180/q7w8xhxbkBx59wku.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 961587697935532000,
+							"id_str": "961587697935532033",
+							"name": "sweet drop",
+							"screen_name": "sweetdrop_",
+							"location": "",
+							"description": "정진솔 좋아해💕💘💖💞💓💗",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 781,
+							"friends_count": 0,
+							"listed_count": 195,
+							"created_at": "Thu Feb 08 13:09:07 +0000 2018",
+							"favourites_count": 3,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 14,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/961587697935532033/1518095857",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 05 14:42:51 +0000 2018",
+			"id": 1004010667345522700,
+			"id_str": "1004010667345522688",
+			"text": "180602 Girl Front Jinsoul focus. \n\n🔗 https://t.co/kMt88vYwa0\n\n#이달의소녀 #LOONA\n#OEC #진솔 #Jinsoul https://t.co/oyKyHDL9jm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							62,
+							68
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							69,
+							75
+						]
+					},
+					{
+						"text": "OEC",
+						"indices": [
+							76,
+							80
+						]
+					},
+					{
+						"text": "진솔",
+						"indices": [
+							81,
+							84
+						]
+					},
+					{
+						"text": "Jinsoul",
+						"indices": [
+							85,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kMt88vYwa0",
+						"expanded_url": "http://youtu.be/O-NSoblnjvQ",
+						"display_url": "youtu.be/O-NSoblnjvQ",
+						"indices": [
+							37,
+							60
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1004010222506029000,
+						"id_str": "1004010222506029056",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+						"url": "https://t.co/oyKyHDL9jm",
+						"display_url": "pic.twitter.com/oyKyHDL9jm",
+						"expanded_url": "https://twitter.com/sweetdrop_/status/1004010667345522688/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004010222506029000,
+						"id_str": "1004010222506029056",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004010222506029056/pu/img/-9J-aGd5nyvyQnLs.jpg",
+						"url": "https://t.co/oyKyHDL9jm",
+						"display_url": "pic.twitter.com/oyKyHDL9jm",
+						"expanded_url": "https://twitter.com/sweetdrop_/status/1004010667345522688/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 33234,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/pl/BNu2Q6bhFmONffUs.m3u8?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/vid/640x360/VbZ0Ss74ztLtrUGy.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/vid/1280x720/WiTkov_SHzFBIy6B.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1004010222506029056/pu/vid/320x180/q7w8xhxbkBx59wku.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 961587697935532000,
+				"id_str": "961587697935532033",
+				"name": "sweet drop",
+				"screen_name": "sweetdrop_",
+				"location": "",
+				"description": "정진솔 좋아해💕💘💖💞💓💗",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 781,
+				"friends_count": 0,
+				"listed_count": 195,
+				"created_at": "Thu Feb 08 13:09:07 +0000 2018",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961588988120260610/G0LmVmTs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/961587697935532033/1518095857",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 892,
+			"favorite_count": 970,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 892,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 06 03:39:12 +0000 2018",
+		"id": 1004206043155615700,
+		"id_str": "1004206043155615744",
+		"text": "#LOONA_Fancafe #LOOΠΔ_TV\n이달의소녀탐구 #339 (LOONA TV #339)\nhttps://t.co/V9BUw1LNnF\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Fancafe",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "LOOΠΔ_TV",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V9BUw1LNnF",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/GoAp/344",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 03:20:44 +0000 2018",
+		"id": 1004201393404764200,
+		"id_str": "1004201393404764160",
+		"text": "RT @loonatheworld: [이달의소녀탐구 #339]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA #이브 #츄 #고원 #OliviaHye #Yves #Chuu #GoWon #올리비아혜 ▶ https://t.co/B4XEDSKINn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						70,
+						72
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						107,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B4XEDSKINn",
+					"expanded_url": "https://youtu.be/OMetcNveOTg",
+					"display_url": "youtu.be/OMetcNveOTg",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.loonatheworld.com/\" rel=\"nofollow\">이달의 소녀</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 06 03:00:03 +0000 2018",
+			"id": 1004196192148787200,
+			"id_str": "1004196192148787200",
+			"text": "[이달의소녀탐구 #339]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA #이브 #츄 #고원 #OliviaHye #Yves #Chuu #GoWon #올리비아혜 ▶ https://t.co/B4XEDSKINn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀탐구",
+						"indices": [
+							15,
+							23
+						]
+					},
+					{
+						"text": "loonatv",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							33,
+							39
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							40,
+							46
+						]
+					},
+					{
+						"text": "이브",
+						"indices": [
+							47,
+							50
+						]
+					},
+					{
+						"text": "츄",
+						"indices": [
+							51,
+							53
+						]
+					},
+					{
+						"text": "고원",
+						"indices": [
+							54,
+							57
+						]
+					},
+					{
+						"text": "OliviaHye",
+						"indices": [
+							58,
+							68
+						]
+					},
+					{
+						"text": "Yves",
+						"indices": [
+							69,
+							74
+						]
+					},
+					{
+						"text": "Chuu",
+						"indices": [
+							75,
+							80
+						]
+					},
+					{
+						"text": "GoWon",
+						"indices": [
+							81,
+							87
+						]
+					},
+					{
+						"text": "올리비아혜",
+						"indices": [
+							88,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B4XEDSKINn",
+						"expanded_url": "https://youtu.be/OMetcNveOTg",
+						"display_url": "youtu.be/OMetcNveOTg",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 770959712791597000,
+				"id_str": "770959712791597056",
+				"name": "이달의 소녀(LOOΠΔ)",
+				"screen_name": "loonatheworld",
+				"location": "",
+				"description": "이달의 소녀 공식 트위터입니다.",
+				"url": "https://t.co/hthRlo3Dn7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hthRlo3Dn7",
+								"expanded_url": "http://www.loonatheworld.com",
+								"display_url": "loonatheworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 139336,
+				"friends_count": 0,
+				"listed_count": 1988,
+				"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 991,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1527490333",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1899,
+			"favorite_count": 4160,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1899,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 03:01:28 +0000 2018",
+		"id": 1004196547452719100,
+		"id_str": "1004196547452719110",
+		"text": "#LOONA_Instagram\nVideo: [이달의소녀탐구 #339] #이달의소녀탐구 #loonatv #이달의소녀 #LOONA #이브 #츄 #고원 #OliviaHye #Yves #Chuu #GoWon… https://t.co/EGIYHx4t7A",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						75,
+						77
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EGIYHx4t7A",
+					"expanded_url": "https://twitter.com/i/web/status/1004196547452719110",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 03:01:16 +0000 2018",
+		"id": 1004196496609284100,
+		"id_str": "1004196496609284096",
+		"text": "이달의소녀탐구 #339 (LOONA TV #339)\nhttps://t.co/T1bJEVs4XB\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T1bJEVs4XB",
+					"expanded_url": "https://youtu.be/OMetcNveOTg",
+					"display_url": "youtu.be/OMetcNveOTg",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jun 06 02:47:14 +0000 2018",
+		"id": 1004192965051502600,
+		"id_str": "1004192965051502592",
+		"text": "#LOONA_Fancafe #Offline\nRe:[이달의 소녀 yyxy] 180607 Mnet 엠카운트다운 참여 명단 안내\nhttps://t.co/5hPwyi0l0C\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Fancafe",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Offline",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5hPwyi0l0C",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F6Fq/125",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jun 05 16:02:27 +0000 2018",
+		"id": 1004030698381103100,
+		"id_str": "1004030698381103105",
+		"text": "#LOONA_Fancafe #Offline\n[이달의 소녀] 이달의 소녀 yyxy 6월 10일 첫 팬사인회 관련\nhttps://t.co/CioGrNF2hl\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Fancafe",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Offline",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CioGrNF2hl",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F6Fq/124",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 80,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jun 05 10:47:16 +0000 2018",
 		"id": 1003951381949177900,
 		"id_str": "1003951381949177857",
