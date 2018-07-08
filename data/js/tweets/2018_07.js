@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 08:47:58 +0000 2018",
+		"id": 1015880159583522800,
+		"id_str": "1015880159583522816",
+		"text": "RT @loonatheworld: “항상 팬분들 덕분에 행복을 얻고 가는 것 같아요!!” #이달의소녀 #yyxy 의 행복한 메세지를 확인 하세요😉\n▶️ https://t.co/9BUaoP5sYJ \n#LOONA #이브 #츄 #고원 #OliviaHye…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "yyxy",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						121,
+						123
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9BUaoP5sYJ",
+					"expanded_url": "https://www.facebook.com/loonatheworld/photos/a.303009970076535.1073741828.289822978061901/614851702225692/?type=3&theater",
+					"display_url": "facebook.com/loonatheworld/…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.loonatheworld.com/\" rel=\"nofollow\">이달의 소녀</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54,
+			"friends_count": 86,
+			"listed_count": 6,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 08:36:28 +0000 2018",
+			"id": 1015877262527217700,
+			"id_str": "1015877262527217664",
+			"text": "“항상 팬분들 덕분에 행복을 얻고 가는 것 같아요!!” #이달의소녀 #yyxy 의 행복한 메세지를 확인 하세요😉\n▶️ https://t.co/9BUaoP5sYJ \n#LOONA #이브 #츄 #고원… https://t.co/1EBNALVHlM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							31,
+							37
+						]
+					},
+					{
+						"text": "yyxy",
+						"indices": [
+							38,
+							43
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							91,
+							97
+						]
+					},
+					{
+						"text": "이브",
+						"indices": [
+							98,
+							101
+						]
+					},
+					{
+						"text": "츄",
+						"indices": [
+							102,
+							104
+						]
+					},
+					{
+						"text": "고원",
+						"indices": [
+							105,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9BUaoP5sYJ",
+						"expanded_url": "https://www.facebook.com/loonatheworld/photos/a.303009970076535.1073741828.289822978061901/614851702225692/?type=3&theater",
+						"display_url": "facebook.com/loonatheworld/…",
+						"indices": [
+							66,
+							89
+						]
+					},
+					{
+						"url": "https://t.co/1EBNALVHlM",
+						"expanded_url": "https://twitter.com/i/web/status/1015877262527217664",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 770959712791597000,
+				"id_str": "770959712791597056",
+				"name": "이달의 소녀(LOOΠΔ)",
+				"screen_name": "loonatheworld",
+				"location": "",
+				"description": "이달의 소녀 공식 트위터입니다.",
+				"url": "https://t.co/hthRlo3Dn7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hthRlo3Dn7",
+								"expanded_url": "http://www.loonatheworld.com",
+								"display_url": "loonatheworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151757,
+				"friends_count": 0,
+				"listed_count": 2092,
+				"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1031,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1527490333",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4436,
+			"favorite_count": 7812,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4436,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jul 07 14:20:34 +0000 2018",
 		"id": 1015601473114312700,
 		"id_str": "1015601473114312711",
