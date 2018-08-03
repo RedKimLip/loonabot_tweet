@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 03 06:32:15 +0000 2018",
+		"id": 1025268087665320000,
+		"id_str": "1025268087665319937",
+		"text": "RT @soulbriz: #loona #favorite #teaser #digipedi https://t.co/spNsruxs1C",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loona",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "favorite",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "teaser",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "digipedi",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soulbriz",
+					"name": "Moon Seokho",
+					"id": 139990510,
+					"id_str": "139990510",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1024674979449724900,
+					"id_str": "1024674979449724928",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+					"url": "https://t.co/spNsruxs1C",
+					"display_url": "pic.twitter.com/spNsruxs1C",
+					"expanded_url": "https://twitter.com/soulbriz/status/1024675273097113600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024675273097113600,
+					"source_status_id_str": "1024675273097113600",
+					"source_user_id": 139990510,
+					"source_user_id_str": "139990510"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1024674979449724900,
+					"id_str": "1024674979449724928",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+					"url": "https://t.co/spNsruxs1C",
+					"display_url": "pic.twitter.com/spNsruxs1C",
+					"expanded_url": "https://twitter.com/soulbriz/status/1024675273097113600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024675273097113600,
+					"source_status_id_str": "1024675273097113600",
+					"source_user_id": 139990510,
+					"source_user_id_str": "139990510",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28362,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/vid/1280x720/StVdJpdPRAxVMebv.mp4?tag=4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/pl/GgF-q7MMEUnlhLMW.m3u8?tag=4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/vid/320x180/79k1_FPyjxA-B1QP.mp4?tag=4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/vid/640x360/2O1HyTWFSQfzmPM1.mp4?tag=4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 139990510,
+							"id_str": "139990510",
+							"name": "Moon Seokho",
+							"screen_name": "soulbriz",
+							"location": "",
+							"description": "DIGIPEDI DIRECTOR",
+							"url": "https://t.co/7udenc4bHz",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/7udenc4bHz",
+											"expanded_url": "https://www.instagram.com/soulbriz/",
+											"display_url": "instagram.com/soulbriz/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 481,
+							"friends_count": 30,
+							"listed_count": 10,
+							"created_at": "Tue May 04 07:26:06 +0000 2010",
+							"favourites_count": 28,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 240,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/944991790200844288/bRSXBKT5_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/944991790200844288/bRSXBKT5_normal.jpg",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 86,
+			"listed_count": 7,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 01 15:16:37 +0000 2018",
+			"id": 1024675273097113600,
+			"id_str": "1024675273097113600",
+			"text": "#loona #favorite #teaser #digipedi https://t.co/spNsruxs1C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "loona",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "favorite",
+						"indices": [
+							7,
+							16
+						]
+					},
+					{
+						"text": "teaser",
+						"indices": [
+							17,
+							24
+						]
+					},
+					{
+						"text": "digipedi",
+						"indices": [
+							25,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1024674979449724900,
+						"id_str": "1024674979449724928",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+						"url": "https://t.co/spNsruxs1C",
+						"display_url": "pic.twitter.com/spNsruxs1C",
+						"expanded_url": "https://twitter.com/soulbriz/status/1024675273097113600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1024674979449724900,
+						"id_str": "1024674979449724928",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1024674979449724928/pu/img/Nxbs2zSCpMf2Gsi4.jpg",
+						"url": "https://t.co/spNsruxs1C",
+						"display_url": "pic.twitter.com/spNsruxs1C",
+						"expanded_url": "https://twitter.com/soulbriz/status/1024675273097113600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 28362,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/vid/1280x720/StVdJpdPRAxVMebv.mp4?tag=4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/pl/GgF-q7MMEUnlhLMW.m3u8?tag=4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/vid/320x180/79k1_FPyjxA-B1QP.mp4?tag=4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1024674979449724928/pu/vid/640x360/2O1HyTWFSQfzmPM1.mp4?tag=4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139990510,
+				"id_str": "139990510",
+				"name": "Moon Seokho",
+				"screen_name": "soulbriz",
+				"location": "",
+				"description": "DIGIPEDI DIRECTOR",
+				"url": "https://t.co/7udenc4bHz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7udenc4bHz",
+								"expanded_url": "https://www.instagram.com/soulbriz/",
+								"display_url": "instagram.com/soulbriz/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 481,
+				"friends_count": 30,
+				"listed_count": 10,
+				"created_at": "Tue May 04 07:26:06 +0000 2010",
+				"favourites_count": 28,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 240,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944991790200844288/bRSXBKT5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944991790200844288/bRSXBKT5_normal.jpg",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 223,
+			"favorite_count": 268,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Aug 01 16:40:30 +0000 2018",
 		"id": 1024696384874852400,
 		"id_str": "1024696384874852353",
