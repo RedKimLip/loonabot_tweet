@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 25 06:44:28 +0000 2018",
+		"id": 1044477720946708500,
+		"id_str": "1044477720946708483",
+		"text": "[AFTER SCHOOL CLUB] LOONA After the live show (이달의 소녀 생방 후 모습) _ HOT!\nhttps://t.co/MiHw8jvJxx\n#이달의소녀 #LOONA #LOOΠΔ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MiHw8jvJxx",
+					"expanded_url": "https://www.youtube.com/watch?v=ndHS_deXpes",
+					"display_url": "youtube.com/watch?v=ndHS_d…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 87,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2751,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Sep 25 06:44:28 +0000 2018",
+		"id": 1044477719264800800,
+		"id_str": "1044477719264800768",
+		"text": "[After School Club] ASC's Chuseok special with LOONA(이달의 소녀)! _ Full Episode - Ep.335\nhttps://t.co/nNFRwlfaJ0\n#이달의소녀 #LOONA #LOOΠΔ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						124,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nNFRwlfaJ0",
+					"expanded_url": "https://www.youtube.com/watch?v=xNRavjTr3F4",
+					"display_url": "youtube.com/watch?v=xNRavj…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 87,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2751,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 24 21:49:25 +0000 2018",
+		"id": 1044343071557791700,
+		"id_str": "1044343071557791746",
+		"text": "#LOONA_Facebook\n⠀⠀⠀⠀⠀\nhttps://t.co/lvt7D6weqp\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Facebook",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						53,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lvt7D6weqp",
+					"expanded_url": "https://www.facebook.com/289822978061901_2343792082315631",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 87,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2751,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Sep 24 06:44:15 +0000 2018",
 		"id": 1044115276160258000,
 		"id_str": "1044115276160258048",
@@ -127,7 +496,7 @@ Grailbird.data.tweets_2018_09 =
 		"created_at": "Mon Sep 24 03:20:34 +0000 2018",
 		"id": 1044064020284747800,
 		"id_str": "1044064020284747780",
-		"text": "RT @loonatheworld: #이달의소녀 가 전하는 추석 인사🙇🏻‍♀️\n모두가 함께하는 즐거운 추석 연휴 보내세요😍😘\n#LOONA https://t.co/zQkMwCFFyD",
+		"text": "RT @loonatheworld: #이달의소녀 가 전하는 추석 인사🙇🏻♀️\n모두가 함께하는 즐거운 추석 연휴 보내세요😍😘\n#LOONA https://t.co/zQkMwCFFyD",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -414,7 +783,7 @@ Grailbird.data.tweets_2018_09 =
 			"created_at": "Mon Sep 24 03:00:29 +0000 2018",
 			"id": 1044058962801254400,
 			"id_str": "1044058962801254400",
-			"text": "#이달의소녀 가 전하는 추석 인사🙇🏻‍♀️\n모두가 함께하는 즐거운 추석 연휴 보내세요😍😘\n#LOONA https://t.co/zQkMwCFFyD",
+			"text": "#이달의소녀 가 전하는 추석 인사🙇🏻♀️\n모두가 함께하는 즐거운 추석 연휴 보내세요😍😘\n#LOONA https://t.co/zQkMwCFFyD",
 			"truncated": false,
 			"entities": {
 				"hashtags": [
@@ -637,7 +1006,7 @@ Grailbird.data.tweets_2018_09 =
 		"created_at": "Mon Sep 24 03:08:08 +0000 2018",
 		"id": 1044060891350798300,
 		"id_str": "1044060891350798336",
-		"text": "#LOONA_Instagram\nVideo: 💕 #이달의소녀 가 전하는 추석 인사🙇🏻‍♀️ 모두가 함께하는 즐거운 추석 연휴 보내세요😍😘 ⠀⠀⠀⠀⠀ Chuseok greetings from LOOΠΔ🙇🏻‍♀️… https://t.co/tWsELCKfzE",
+		"text": "#LOONA_Instagram\nVideo: 💕 #이달의소녀 가 전하는 추석 인사🙇🏻♀️ 모두가 함께하는 즐거운 추석 연휴 보내세요😍😘 ⠀⠀⠀⠀⠀ Chuseok greetings from LOOΠΔ🙇🏻♀️… https://t.co/tWsELCKfzE",
 		"truncated": true,
 		"entities": {
 			"hashtags": [
@@ -753,7 +1122,7 @@ Grailbird.data.tweets_2018_09 =
 		"created_at": "Sun Sep 23 21:44:36 +0000 2018",
 		"id": 1043979469697032200,
 		"id_str": "1043979469697032192",
-		"text": "#LOONA_Facebook\nYeoJin 송편 냠🙇🏻‍♀️ ⠀⠀⠀⠀⠀ YeoJin songpyeon yummy🙇🏻‍♀️\nhttps://t.co/9oJk9Amm5X\n#이달의소녀 #LOONA",
+		"text": "#LOONA_Facebook\nYeoJin 송편 냠🙇🏻♀️ ⠀⠀⠀⠀⠀ YeoJin songpyeon yummy🙇🏻♀️\nhttps://t.co/9oJk9Amm5X\n#이달의소녀 #LOONA",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -876,7 +1245,7 @@ Grailbird.data.tweets_2018_09 =
 		"created_at": "Sun Sep 23 15:20:34 +0000 2018",
 		"id": 1043882826683359200,
 		"id_str": "1043882826683359232",
-		"text": "RT @loonatheworld: #YeoJin 송편 냠🙇🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/RGRAN3xD2l",
+		"text": "RT @loonatheworld: #YeoJin 송편 냠🙇🏻♀️\n\n#이달의소녀 #LOONA https://t.co/RGRAN3xD2l",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -1078,7 +1447,7 @@ Grailbird.data.tweets_2018_09 =
 			"created_at": "Sun Sep 23 15:00:04 +0000 2018",
 			"id": 1043877667257212900,
 			"id_str": "1043877667257212929",
-			"text": "#YeoJin 송편 냠🙇🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/RGRAN3xD2l",
+			"text": "#YeoJin 송편 냠🙇🏻♀️\n\n#이달의소녀 #LOONA https://t.co/RGRAN3xD2l",
 			"truncated": false,
 			"entities": {
 				"hashtags": [
