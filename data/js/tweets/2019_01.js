@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 06:02:22 +0000 2019",
+		"id": 1081068300682121200,
+		"id_str": "1081068300682121216",
+		"full_text": "[Simply K-Pop] LOONA / yyxy(이달의 소녀 / yyxy) _ love4eva _ Ep.344 _ 010419\nhttps://t.co/tf2dpqwqYB\n#이달의소녀 #LOONA #LOOΠΔ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tf2dpqwqYB",
+					"expanded_url": "https://www.youtube.com/watch?v=jH3chqntL7U",
+					"display_url": "youtube.com/watch?v=jH3chq…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 83,
+			"listed_count": 11,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3355,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Simply K-Pop] LOONA / yyxy(이달의 소녀 / yyxy) _ love4eva _ Ep.344 _ 010419\nhttps://t.co/tf2dpqwqYB\n#이달의소녀 #LOONA #LOOΠΔ"
+	},
+	{
+		"created_at": "Fri Jan 04 06:02:22 +0000 2019",
+		"id": 1081068298912129000,
+		"id_str": "1081068298912129024",
+		"full_text": "[Simply K-Pop] LOONA / ODD EYE CIRCLE(이달의 소녀 / 오드아이써클) _ Sweet Crazy Love _ Ep.344 _ 010419\nhttps://t.co/bkKDRRoA6m\n#이달의소녀 #LOONA #LOOΠΔ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bkKDRRoA6m",
+					"expanded_url": "https://www.youtube.com/watch?v=r7BBWZYaRTc",
+					"display_url": "youtube.com/watch?v=r7BBWZ…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 83,
+			"listed_count": 11,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3355,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Simply K-Pop] LOONA / ODD EYE CIRCLE(이달의 소녀 / 오드아이써클) _ Sweet Crazy Love _ Ep.344 _ 010419\nhttps://t.co/bkKDRRoA6m\n#이달의소녀 #LOONA #LOOΠΔ"
+	},
+	{
+		"created_at": "Fri Jan 04 06:02:21 +0000 2019",
+		"id": 1081068297133740000,
+		"id_str": "1081068297133740037",
+		"full_text": "[Simply K-Pop] LOONA(이달의 소녀) _ Hi High _ Ep.344 _ 010419\nhttps://t.co/O471NKKPBZ\n#이달의소녀 #LOONA #LOOΠΔ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						95,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O471NKKPBZ",
+					"expanded_url": "https://www.youtube.com/watch?v=daWEihtmddg",
+					"display_url": "youtube.com/watch?v=daWEih…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 83,
+			"listed_count": 11,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3355,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Simply K-Pop] LOONA(이달의 소녀) _ Hi High _ Ep.344 _ 010419\nhttps://t.co/O471NKKPBZ\n#이달의소녀 #LOONA #LOOΠΔ"
+	},
+	{
 		"created_at": "Thu Jan 03 12:27:31 +0000 2019",
 		"id": 1080802837372825600,
 		"id_str": "1080802837372825601",
@@ -640,7 +1024,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Wed Jan 02 15:00:05 +0000 2019",
 		"id": 1080478844161744900,
 		"id_str": "1080478844161744896",
-		"full_text": "새 앨범으로 돌아올 #이달의소녀 와 만날 준비된 오빛 손🙋‍♂️🙋‍♀️ \n올림픽 홀에서 이달의 소녀의 [XX]를 직접 만나주세요😉!\n\n이달의 소녀 Concert [LOOΠΔVERSE] 공연정보\n2019. 02. 16 pm6 (KST)\n2019. 02. 17 pm5 (KST)\nOLYMPIC HALL in Seoul\n\n#LOONA https://t.co/pRwkVGVGPL",
+		"full_text": "새 앨범으로 돌아올 #이달의소녀 와 만날 준비된 오빛 손🙋♂️🙋♀️ \n올림픽 홀에서 이달의 소녀의 [XX]를 직접 만나주세요😉!\n\n이달의 소녀 Concert [LOOΠΔVERSE] 공연정보\n2019. 02. 16 pm6 (KST)\n2019. 02. 17 pm5 (KST)\nOLYMPIC HALL in Seoul\n\n#LOONA https://t.co/pRwkVGVGPL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -823,7 +1207,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "새 앨범으로 돌아올 #이달의소녀 와 만날 준비된 오빛 손🙋‍♂️🙋‍♀️ \n올림픽 홀에서 이달의 소녀의 [XX]를 직접 만나주세요😉!\n\n이달의 소녀 Concert [LOOΠΔVERSE] 공연정보\n2019. 02. 16 pm6 (KST)\n2019. 02. 17 pm5 (KST)\nOLYMPIC HALL in Seoul\n\n#LOONA https://t.co/pRwkVGVGPL"
+		"text": "새 앨범으로 돌아올 #이달의소녀 와 만날 준비된 오빛 손🙋♂️🙋♀️ \n올림픽 홀에서 이달의 소녀의 [XX]를 직접 만나주세요😉!\n\n이달의 소녀 Concert [LOOΠΔVERSE] 공연정보\n2019. 02. 16 pm6 (KST)\n2019. 02. 17 pm5 (KST)\nOLYMPIC HALL in Seoul\n\n#LOONA https://t.co/pRwkVGVGPL"
 	},
 	{
 		"created_at": "Tue Jan 01 03:16:19 +0000 2019",
