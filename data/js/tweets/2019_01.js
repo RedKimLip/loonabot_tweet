@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 03:00:19 +0000 2019",
+		"id": 1085008752363749400,
+		"id_str": "1085013849298882560",
+		"full_text": "오빛! 잊지 않았죠😯? \n오늘 오빛을 위한 [LOOΠΔVERSE] 티켓 선예매가 시작 됩니다🙂\n\n오빛 선예매 티켓 오픈 일정💕\n2019. 01. 15 pm8(KST)\n@멜론티켓\n\n#이달의소녀 #LOONA https://t.co/YITTs75Cej",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						107,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085008649674620900,
+					"id_str": "1085008649674620928",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw65nkYVAAA-bkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw65nkYVAAA-bkr.jpg",
+					"url": "https://t.co/YITTs75Cej",
+					"display_url": "pic.twitter.com/YITTs75Cej",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1085008752363749376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085008649674620900,
+					"id_str": "1085008649674620928",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw65nkYVAAA-bkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw65nkYVAAA-bkr.jpg",
+					"url": "https://t.co/YITTs75Cej",
+					"display_url": "pic.twitter.com/YITTs75Cej",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1085008752363749376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236519,
+			"friends_count": 0,
+			"listed_count": 3381,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1265,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1534766929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5088,
+		"favorite_count": 14138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛! 잊지 않았죠😯? \n오늘 오빛을 위한 [LOOΠΔVERSE] 티켓 선예매가 시작 됩니다🙂\n\n오빛 선예매 티켓 오픈 일정💕\n2019. 01. 15 pm8(KST)\n@멜론티켓\n\n#이달의소녀 #LOONA https://t.co/YITTs75Cej"
+	},
+	{
 		"created_at": "Sun Jan 13 13:34:20 +0000 2019",
 		"id": 1084443529861124100,
 		"id_str": "1084446964534706176",
