@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 03:43:20 +0000 2019",
+		"id": 1089005845227028500,
+		"id_str": "1090193029795729408",
+		"full_text": "#루나스튜디오 #OEC \n#오드아이써클 #김립 #진솔 #최리\n#loonastudio #이달의소녀\n\n포토타임\n\n4K&gt;&gt;https://t.co/1KGSxhTWf3 https://t.co/CrESEbfXlz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루나스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "OEC",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "오드아이써클",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "loonastudio",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						47,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1KGSxhTWf3",
+					"expanded_url": "https://youtu.be/8t9utrUNMII",
+					"display_url": "youtu.be/8t9utrUNMII",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089005747789152300,
+					"id_str": "1089005747789152257",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089005747789152257/pu/img/8LT50Ib7oMoqVaqQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089005747789152257/pu/img/8LT50Ib7oMoqVaqQ.jpg",
+					"url": "https://t.co/CrESEbfXlz",
+					"display_url": "pic.twitter.com/CrESEbfXlz",
+					"expanded_url": "https://twitter.com/Loona_onthesky/status/1089005845227028482/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089005747789152300,
+					"id_str": "1089005747789152257",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089005747789152257/pu/img/8LT50Ib7oMoqVaqQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089005747789152257/pu/img/8LT50Ib7oMoqVaqQ.jpg",
+					"url": "https://t.co/CrESEbfXlz",
+					"display_url": "pic.twitter.com/CrESEbfXlz",
+					"expanded_url": "https://twitter.com/Loona_onthesky/status/1089005845227028482/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089005747789152257/pu/vid/320x180/rEvlHfdy5LMamscU.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1089005747789152257/pu/pl/soXkoibGOOXJiCrJ.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089005747789152257/pu/vid/640x360/iWKBnd8Cdk820QYK.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089005747789152257/pu/vid/854x480/KdU3Q-4fK8hBfK_8.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1003316095112044500,
+			"id_str": "1003316095112044544",
+			"name": "LOONA ON THE SKY",
+			"screen_name": "Loona_onthesky",
+			"location": "Loona the world",
+			"description": "이달의소녀 희진 & 진솔 / 자료는 ♥ / 2차가공, 로고크롭 X 움짤O/ 아주 느리게 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3128,
+			"friends_count": 0,
+			"listed_count": 415,
+			"created_at": "Sun Jun 03 16:42:52 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1003689039986225152/RoU6DUuk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003689039986225152/RoU6DUuk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003316095112044544/1528133011",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 139,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루나스튜디오 #OEC \n#오드아이써클 #김립 #진솔 #최리\n#loonastudio #이달의소녀\n\n포토타임\n\n4K&gt;&gt;https://t.co/1KGSxhTWf3 https://t.co/CrESEbfXlz"
+	},
+	{
+		"created_at": "Sat Jan 26 03:46:30 +0000 2019",
+		"id": 1089006638659383300,
+		"id_str": "1090192865378979842",
+		"full_text": "#루나스튜디오 #OEC \n#오드아이써클 #김립 #진솔 #최리\n#loonastudio #이달의소녀\n\n시크릿 말해놓고\n수습안되는 립🤣🤣\n\n4K&gt;&gt;https://t.co/cobUpmaQdl https://t.co/OiILIqAFAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루나스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "OEC",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "오드아이써클",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "loonastudio",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						47,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cobUpmaQdl",
+					"expanded_url": "https://youtu.be/Fvqdrsm8SIQ",
+					"display_url": "youtu.be/Fvqdrsm8SIQ",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089006555133923300,
+					"id_str": "1089006555133923330",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089006555133923330/pu/img/tpNvGPuk3j5h1AlC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089006555133923330/pu/img/tpNvGPuk3j5h1AlC.jpg",
+					"url": "https://t.co/OiILIqAFAu",
+					"display_url": "pic.twitter.com/OiILIqAFAu",
+					"expanded_url": "https://twitter.com/Loona_onthesky/status/1089006638659383302/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089006555133923300,
+					"id_str": "1089006555133923330",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089006555133923330/pu/img/tpNvGPuk3j5h1AlC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089006555133923330/pu/img/tpNvGPuk3j5h1AlC.jpg",
+					"url": "https://t.co/OiILIqAFAu",
+					"display_url": "pic.twitter.com/OiILIqAFAu",
+					"expanded_url": "https://twitter.com/Loona_onthesky/status/1089006638659383302/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 35292,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089006555133923330/pu/vid/854x480/gkDwmkShGE32HVAG.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089006555133923330/pu/vid/640x360/mK1AZk30cZ67vBsy.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1089006555133923330/pu/pl/TaVQwH_hG_PNRlYc.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089006555133923330/pu/vid/320x180/2NbMlpddiR_2RitM.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1003316095112044500,
+			"id_str": "1003316095112044544",
+			"name": "LOONA ON THE SKY",
+			"screen_name": "Loona_onthesky",
+			"location": "Loona the world",
+			"description": "이달의소녀 희진 & 진솔 / 자료는 ♥ / 2차가공, 로고크롭 X 움짤O/ 아주 느리게 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3128,
+			"friends_count": 0,
+			"listed_count": 415,
+			"created_at": "Sun Jun 03 16:42:52 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1003689039986225152/RoU6DUuk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003689039986225152/RoU6DUuk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003316095112044544/1528133011",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 159,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루나스튜디오 #OEC \n#오드아이써클 #김립 #진솔 #최리\n#loonastudio #이달의소녀\n\n시크릿 말해놓고\n수습안되는 립🤣🤣\n\n4K&gt;&gt;https://t.co/cobUpmaQdl https://t.co/OiILIqAFAu"
+	},
+	{
 		"created_at": "Mon Jan 28 05:20:30 +0000 2019",
 		"id": 1089755070735044600,
 		"id_str": "1089755070735044608",
