@@ -1,6 +1,1711 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 14:33:26 +0000 2019",
+		"id": 1112362268157726700,
+		"id_str": "1112362268157726720",
+		"full_text": "#LOONA_Facebook\n꿈속에 있는 듯한 ‘이달의 소녀’의 몽환적인 아름다움 ‘Butterfly’\nhttps://t.co/Nl0TT7DU5Y\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Facebook",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						89,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nl0TT7DU5Y",
+					"expanded_url": "https://www.facebook.com/289822978061901_781334788910715",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 80,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4188,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Facebook\n꿈속에 있는 듯한 ‘이달의 소녀’의 몽환적인 아름다움 ‘Butterfly’\nhttps://t.co/Nl0TT7DU5Y\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Sun Mar 31 14:33:25 +0000 2019",
+		"id": 1112362266853363700,
+		"id_str": "1112362266853363714",
+		"full_text": "#LOONA_Facebook\n벚꽃놀이 떠나고 싶은 오늘! 오빛이 더 보고싶어요😍 이달의 소녀 ‘Butterfly’ 굿바이 무대 3시50분(KST) 인기가요에서 함께해요😭\nhttps://t.co/DrEz6kUfTa\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Facebook",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DrEz6kUfTa",
+					"expanded_url": "https://www.facebook.com/289822978061901_781252565585604",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 80,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4188,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Facebook\n벚꽃놀이 떠나고 싶은 오늘! 오빛이 더 보고싶어요😍 이달의 소녀 ‘Butterfly’ 굿바이 무대 3시50분(KST) 인기가요에서 함께해요😭\nhttps://t.co/DrEz6kUfTa\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Sun Mar 31 14:33:25 +0000 2019",
+		"id": 1112362265129484300,
+		"id_str": "1112362265129484293",
+		"full_text": "#LOONA_Facebook\n[이달의소녀킼킼 #79]\nhttps://t.co/lJB6SYKmcx\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Facebook",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						61,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lJB6SYKmcx",
+					"expanded_url": "https://www.facebook.com/289822978061901_781232058920988",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 80,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4188,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Facebook\n[이달의소녀킼킼 #79]\nhttps://t.co/lJB6SYKmcx\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Sun Mar 31 12:46:19 +0000 2019",
+		"id": 1112335314683658200,
+		"id_str": "1112335314683658240",
+		"full_text": "#LOONA_VLIVE\n[이달의 소녀] Butterfly 막방 퇴근길 | 이달의 소녀(LOONA)\nhttps://t.co/24fMxIlrQM\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_VLIVE",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "V앱",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/24fMxIlrQM",
+					"expanded_url": "http://www.vlive.tv/video/121163",
+					"display_url": "vlive.tv/video/121163",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 80,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4188,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_VLIVE\n[이달의 소녀] Butterfly 막방 퇴근길 | 이달의 소녀(LOONA)\nhttps://t.co/24fMxIlrQM\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Sun Mar 31 07:47:58 +0000 2019",
+		"id": 1112259723166781400,
+		"id_str": "1112260232405757953",
+		"full_text": "#이달의소녀 \n190331 ‘ #Butterfly ’\nSBS #인기가요\n\n'Butterfly'\n▶️ https://t.co/2ovrujWu4A \n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Butterfly",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2ovrujWu4A",
+					"expanded_url": "https://tv.naver.com/v/5890175",
+					"display_url": "tv.naver.com/v/5890175",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281966,
+			"friends_count": 0,
+			"listed_count": 3861,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1424,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2325,
+		"favorite_count": 6708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "#이달의소녀 \n190331 ‘ #Butterfly ’\nSBS #인기가요\n\n'Butterfly'\n▶️ https://t.co/2ovrujWu4A \n\n#LOONA"
+	},
+	{
+		"created_at": "Sun Mar 31 06:20:34 +0000 2019",
+		"id": 1112225774428254200,
+		"id_str": "1112238236968062977",
+		"full_text": "[#이달의소녀]\n2019. 03. 31 (일) ‘SBS 인기가요’ 본방송 추가 입장 표는 없습니다😢\n인기가요 본방송에 와주신 모든 오빛 분들 감사드리며, \n‘Butterfly’ 막방 많은 응원 부탁드립니다❗️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1112206457645064200,
+		"in_reply_to_status_id_str": "1112206457645064192",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9454,
+			"friends_count": 1,
+			"listed_count": 213,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1550570994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#이달의소녀]\n2019. 03. 31 (일) ‘SBS 인기가요’ 본방송 추가 입장 표는 없습니다😢\n인기가요 본방송에 와주신 모든 오빛 분들 감사드리며, \n‘Butterfly’ 막방 많은 응원 부탁드립니다❗️"
+	},
+	{
+		"created_at": "Sun Mar 31 05:20:34 +0000 2019",
+		"id": 1112222663848542200,
+		"id_str": "1112223137255620608",
+		"full_text": "[#이달의소녀]\n2019. 03. 31 ‘SBS 인기가요’ 본방송 종료 후 진행되는 미니 팬미팅 모임 시간은 4:30PM입니다. 주변에 피해를 줄 수 있으니 아래의 장소로 조용히 모여주세요. \n본방송에 참여하신 오빛 여러분께서는 본방송 종료 후 와주시기 바랍니다. https://t.co/bA9PT18GCX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112222653136273400,
+					"id_str": "1112222653136273412",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D29onDdUgAQNy2e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D29onDdUgAQNy2e.jpg",
+					"url": "https://t.co/bA9PT18GCX",
+					"display_url": "pic.twitter.com/bA9PT18GCX",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1112222663848542209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112222653136273400,
+					"id_str": "1112222653136273412",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D29onDdUgAQNy2e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D29onDdUgAQNy2e.jpg",
+					"url": "https://t.co/bA9PT18GCX",
+					"display_url": "pic.twitter.com/bA9PT18GCX",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1112222663848542209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9454,
+			"friends_count": 1,
+			"listed_count": 213,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1550570994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀]\n2019. 03. 31 ‘SBS 인기가요’ 본방송 종료 후 진행되는 미니 팬미팅 모임 시간은 4:30PM입니다. 주변에 피해를 줄 수 있으니 아래의 장소로 조용히 모여주세요. \n본방송에 참여하신 오빛 여러분께서는 본방송 종료 후 와주시기 바랍니다. https://t.co/bA9PT18GCX"
+	},
+	{
+		"created_at": "Sun Mar 31 04:20:41 +0000 2019",
+		"id": 1112206457645064200,
+		"id_str": "1112208064860614657",
+		"full_text": "[#이달의소녀]\n[#🦋] 2019.03.31 (일) ‘SBS 인기가요’ 본방송에 참여하시는 오빛 여러분들(확정번호 1번~예비번호 10번까지 20분)께서는 2:00PM까지 아래 장소(등촌동 SBS 공개홀 앞)로 모여주시기 바랍니다😭\n\n#이달의소녀 #LOONA #X_X #Butterfly https://t.co/Xq6H3VpQEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "X_X",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "Butterfly",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112206445288652800,
+					"id_str": "1112206445288652805",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D29Z3ohUgAUK9Sf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D29Z3ohUgAUK9Sf.jpg",
+					"url": "https://t.co/Xq6H3VpQEP",
+					"display_url": "pic.twitter.com/Xq6H3VpQEP",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1112206457645064192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112206445288652800,
+					"id_str": "1112206445288652805",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D29Z3ohUgAUK9Sf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D29Z3ohUgAUK9Sf.jpg",
+					"url": "https://t.co/Xq6H3VpQEP",
+					"display_url": "pic.twitter.com/Xq6H3VpQEP",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1112206457645064192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9454,
+			"friends_count": 1,
+			"listed_count": 213,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1550570994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀]\n[#🦋] 2019.03.31 (일) ‘SBS 인기가요’ 본방송에 참여하시는 오빛 여러분들(확정번호 1번~예비번호 10번까지 20분)께서는 2:00PM까지 아래 장소(등촌동 SBS 공개홀 앞)로 모여주시기 바랍니다😭\n\n#이달의소녀 #LOONA #X_X #Butterfly https://t.co/Xq6H3VpQEP"
+	},
+	{
+		"created_at": "Sun Mar 31 04:20:35 +0000 2019",
+		"id": 1112200489146318800,
+		"id_str": "1112208039090839552",
+		"full_text": "벚꽃놀이 떠나고 싶은 오늘! \n오빛이 더 보고싶어요😍\n\n이달의 소녀 ‘Butterfly’ 굿바이 무대 \n3시50분(KST) 인기가요에서 함께해요😭\n⠀⠀\n#이달의소녀 #LOONA https://t.co/nJ21JrvUwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112200482297045000,
+					"id_str": "1112200482297044995",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D29UcipVYAM-oHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D29UcipVYAM-oHS.jpg",
+					"url": "https://t.co/nJ21JrvUwx",
+					"display_url": "pic.twitter.com/nJ21JrvUwx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1112200489146318849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112200482297045000,
+					"id_str": "1112200482297044995",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D29UcipVYAM-oHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D29UcipVYAM-oHS.jpg",
+					"url": "https://t.co/nJ21JrvUwx",
+					"display_url": "pic.twitter.com/nJ21JrvUwx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1112200489146318849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281966,
+			"friends_count": 0,
+			"listed_count": 3861,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1424,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5970,
+		"favorite_count": 16506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벚꽃놀이 떠나고 싶은 오늘! \n오빛이 더 보고싶어요😍\n\n이달의 소녀 ‘Butterfly’ 굿바이 무대 \n3시50분(KST) 인기가요에서 함께해요😭\n⠀⠀\n#이달의소녀 #LOONA https://t.co/nJ21JrvUwx"
+	},
+	{
+		"created_at": "Sun Mar 31 03:56:12 +0000 2019",
+		"id": 1112201905122537500,
+		"id_str": "1112201905122537473",
+		"full_text": "#LOONA_Instagram\n💕 벚꽃놀이 떠나고 싶은 오늘! 오빛이 더 보고싶어요😍 ⠀⠀ 이달의 소녀 ‘Butterfly’ 굿바이 무대 3시50분(KST) 인기가요에서 함께해요😭 ⠀⠀ #이달의소녀 #LOONA\nhttps://t.co/qoFmZm0d77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoFmZm0d77",
+					"expanded_url": "https://www.instagram.com/p/BvqIErMBYfo/",
+					"display_url": "instagram.com/p/BvqIErMBYfo/",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 80,
+			"listed_count": 9,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4188,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Instagram\n💕 벚꽃놀이 떠나고 싶은 오늘! 오빛이 더 보고싶어요😍 ⠀⠀ 이달의 소녀 ‘Butterfly’ 굿바이 무대 3시50분(KST) 인기가요에서 함께해요😭 ⠀⠀ #이달의소녀 #LOONA\nhttps://t.co/qoFmZm0d77"
+	},
+	{
+		"created_at": "Sun Mar 31 03:20:34 +0000 2019",
+		"id": 1112187831726690300,
+		"id_str": "1112192938103189511",
+		"full_text": "[이달의소녀킼킼 #79]\n시끌시끌 아무말 대 잔치😆😜😁🤪\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #김립 #OliviaHye #HaSeul #KimLip #올리비아혜 https://t.co/zu3ISO0kVg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112174837739319300,
+					"id_str": "1112174837739319296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112174837739319296/pu/img/FaQpxpNfV1ixM18i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112174837739319296/pu/img/FaQpxpNfV1ixM18i.jpg",
+					"url": "https://t.co/zu3ISO0kVg",
+					"display_url": "pic.twitter.com/zu3ISO0kVg",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1112187831726690304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112174837739319300,
+					"id_str": "1112174837739319296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112174837739319296/pu/img/FaQpxpNfV1ixM18i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112174837739319296/pu/img/FaQpxpNfV1ixM18i.jpg",
+					"url": "https://t.co/zu3ISO0kVg",
+					"display_url": "pic.twitter.com/zu3ISO0kVg",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1112187831726690304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 38500,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1112174837739319296/pu/pl/SKnBjqEiw9xcQpO3.m3u8?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112174837739319296/pu/vid/320x570/B5btzvW65j5Wjuw5.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112174837739319296/pu/vid/404x720/iZ4qx6W5z-tqEdcz.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281966,
+			"friends_count": 0,
+			"listed_count": 3861,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1424,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6735,
+		"favorite_count": 17764,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #79]\n시끌시끌 아무말 대 잔치😆😜😁🤪\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #김립 #OliviaHye #HaSeul #KimLip #올리비아혜 https://t.co/zu3ISO0kVg"
+	},
+	{
 		"created_at": "Sat Mar 30 14:25:17 +0000 2019",
 		"id": 1111997830846210000,
 		"id_str": "1111997830846210050",
