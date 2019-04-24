@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 03:20:34 +0000 2019",
+		"id": 1120885101083025400,
+		"id_str": "1120890248257581058",
+		"full_text": "[이달의소녀킼킼 #93]\n콩주님의 게릴라 공연🥳\n\n#이달의소녀 #LOONA #LOONAKick #여진 #YeoJin #고원 #GoWon https://t.co/TYTpjBo5Oc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						69,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120876506744410100,
+					"id_str": "1120876506744410112",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120876506744410112/pu/img/d8itDrgfd_qUI6jn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120876506744410112/pu/img/d8itDrgfd_qUI6jn.jpg",
+					"url": "https://t.co/TYTpjBo5Oc",
+					"display_url": "pic.twitter.com/TYTpjBo5Oc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1120885101083025408/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120876506744410100,
+					"id_str": "1120876506744410112",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120876506744410112/pu/img/d8itDrgfd_qUI6jn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120876506744410112/pu/img/d8itDrgfd_qUI6jn.jpg",
+					"url": "https://t.co/TYTpjBo5Oc",
+					"display_url": "pic.twitter.com/TYTpjBo5Oc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1120885101083025408/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							67,
+							120
+						],
+						"duration_millis": 19767,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120876506744410112/pu/vid/268x480/3i02Anwub-6JN9i_.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1120876506744410112/pu/pl/xY9sVGNecRPnG-0e.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291700,
+			"friends_count": 0,
+			"listed_count": 3991,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1453,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6541,
+		"favorite_count": 16676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #93]\n콩주님의 게릴라 공연🥳\n\n#이달의소녀 #LOONA #LOONAKick #여진 #YeoJin #고원 #GoWon https://t.co/TYTpjBo5Oc"
+	},
+	{
+		"created_at": "Wed Apr 24 03:04:45 +0000 2019",
+		"id": 1120886265090539500,
+		"id_str": "1120886265090539531",
+		"full_text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #93] 콩주님의 게릴라 공연🥳 Kong Won’s guerilla concert🥳⠀⠀⠀ ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #여진 #YeoJin #고원 #GoWon\nhttps://t.co/lRBe2TjcKO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lRBe2TjcKO",
+					"expanded_url": "https://www.instagram.com/p/BwnzwgQBgID/",
+					"display_url": "instagram.com/p/BwnzwgQBgID/",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4296,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #93] 콩주님의 게릴라 공연🥳 Kong Won’s guerilla concert🥳⠀⠀⠀ ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #여진 #YeoJin #고원 #GoWon\nhttps://t.co/lRBe2TjcKO"
+	},
+	{
 		"created_at": "Tue Apr 23 03:20:34 +0000 2019",
 		"id": 1120522699699302400,
 		"id_str": "1120527859968290816",
