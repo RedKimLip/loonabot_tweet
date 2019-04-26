@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 03:20:36 +0000 2019",
+		"id": 1121609887371259900,
+		"id_str": "1121615028942249984",
+		"full_text": "[이달의소녀킼킼 #95]\n의자 : #고원 아 가지마...\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #ViVi #진솔 #HaSeul #비비 #JinSoul #GoWon https://t.co/9hSlad2w6m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121606924028403700,
+					"id_str": "1121606924028403712",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121606924028403712/pu/img/6t-wV0fnVucDyVcL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121606924028403712/pu/img/6t-wV0fnVucDyVcL.jpg",
+					"url": "https://t.co/9hSlad2w6m",
+					"display_url": "pic.twitter.com/9hSlad2w6m",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1121609887371259904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121606924028403700,
+					"id_str": "1121606924028403712",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121606924028403712/pu/img/6t-wV0fnVucDyVcL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121606924028403712/pu/img/6t-wV0fnVucDyVcL.jpg",
+					"url": "https://t.co/9hSlad2w6m",
+					"display_url": "pic.twitter.com/9hSlad2w6m",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1121609887371259904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 30433,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121606924028403712/pu/vid/404x720/iCffGgJVgHCdjAfs.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121606924028403712/pu/vid/320x570/VvWa5pdcX-xeY8Yy.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121606924028403712/pu/pl/Oa46ugVbn5hRzw-i.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292376,
+			"friends_count": 0,
+			"listed_count": 3999,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1455,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4765,
+		"favorite_count": 12946,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #95]\n의자 : #고원 아 가지마...\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #ViVi #진솔 #HaSeul #비비 #JinSoul #GoWon https://t.co/9hSlad2w6m"
+	},
+	{
+		"created_at": "Fri Apr 26 03:04:41 +0000 2019",
+		"id": 1121611026179547100,
+		"id_str": "1121611026179547136",
+		"full_text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #95] 의자 : #고원 아 가지마... Chair : Don't leave me #GoWon ... ⠀⠀⠀⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #하슬 #ViVi #진솔 #HaSeul #비비 #JinSoul\nhttps://t.co/FQENDbv28w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FQENDbv28w",
+					"expanded_url": "https://www.instagram.com/p/Bws98SrB9GH/",
+					"display_url": "instagram.com/p/Bws98SrB9GH/",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4302,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #95] 의자 : #고원 아 가지마... Chair : Don't leave me #GoWon ... ⠀⠀⠀⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #하슬 #ViVi #진솔 #HaSeul #비비 #JinSoul\nhttps://t.co/FQENDbv28w"
+	},
+	{
 		"created_at": "Thu Apr 25 03:20:34 +0000 2019",
 		"id": 1121247507290284000,
 		"id_str": "1121252635451981824",
