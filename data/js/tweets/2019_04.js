@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 03:20:34 +0000 2019",
+		"id": 1122334648929882100,
+		"id_str": "1122339798767820805",
+		"full_text": "[이달의소녀킼킼 #97]\n립이는 망고 맛있게 먹을거야😆\n\n#이달의소녀 #LOONA #LOONAKick #현진 #ViVi #김립 #HyunJin #비비 #KimLip https://t.co/hQjuGMV6y0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						84,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122332728077144000,
+					"id_str": "1122332728077144064",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122332728077144064/pu/img/CoiaECvLmnE_SVzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122332728077144064/pu/img/CoiaECvLmnE_SVzm.jpg",
+					"url": "https://t.co/hQjuGMV6y0",
+					"display_url": "pic.twitter.com/hQjuGMV6y0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1122334648929882112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 329,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 348,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 348,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122332728077144000,
+					"id_str": "1122332728077144064",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122332728077144064/pu/img/CoiaECvLmnE_SVzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122332728077144064/pu/img/CoiaECvLmnE_SVzm.jpg",
+					"url": "https://t.co/hQjuGMV6y0",
+					"display_url": "pic.twitter.com/hQjuGMV6y0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1122334648929882112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 329,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 348,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 348,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							29,
+							60
+						],
+						"duration_millis": 24500,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1122332728077144064/pu/pl/KXLU5qg72BCy4R7w.m3u8?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1122332728077144064/pu/vid/320x662/ncGWq8oXoij1_wdb.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1122332728077144064/pu/vid/348x720/50OscHNGZgQSlZOj.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293172,
+			"friends_count": 0,
+			"listed_count": 3994,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1457,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4773,
+		"favorite_count": 13427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #97]\n립이는 망고 맛있게 먹을거야😆\n\n#이달의소녀 #LOONA #LOONAKick #현진 #ViVi #김립 #HyunJin #비비 #KimLip https://t.co/hQjuGMV6y0"
+	},
+	{
+		"created_at": "Sun Apr 28 03:01:46 +0000 2019",
+		"id": 1122335064715604000,
+		"id_str": "1122335064715603968",
+		"full_text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #97] 립이는 망고 맛있게 먹을거야😆 ⠀⠀⠀⠀⠀ Lip is going to devour my mango😆⠀⠀⠀ ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #현진 #ViVi #김립 #HyunJin #비비 #KimLip\nhttps://t.co/9gn7BzB78Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9gn7BzB78Z",
+					"expanded_url": "https://www.instagram.com/p/BwyH8ppBCk3/",
+					"display_url": "instagram.com/p/BwyH8ppBCk3/",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4307,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #97] 립이는 망고 맛있게 먹을거야😆 ⠀⠀⠀⠀⠀ Lip is going to devour my mango😆⠀⠀⠀ ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #현진 #ViVi #김립 #HyunJin #비비 #KimLip\nhttps://t.co/9gn7BzB78Z"
+	},
+	{
 		"created_at": "Sat Apr 27 03:20:34 +0000 2019",
 		"id": 1121973134217764900,
 		"id_str": "1121977411661389826",
