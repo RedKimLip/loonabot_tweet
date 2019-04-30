@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 03:20:34 +0000 2019",
+		"id": 1123059435780206600,
+		"id_str": "1123064574519984128",
+		"full_text": "[이달의소녀킼킼 #99]\n어제 미드 보고 잔 #최리 의 얼렁뚱땅 영어로 말해요🤗🤭\n\n#이달의소녀 #LOONA #LOONAKick #현진 #여진 #HyunJin #YeoJin #Choerry https://t.co/4hXTjCflPx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123044807075516400,
+					"id_str": "1123044807075516416",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123044807075516416/pu/img/mZO7BdeZWG-feZN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123044807075516416/pu/img/mZO7BdeZWG-feZN4.jpg",
+					"url": "https://t.co/4hXTjCflPx",
+					"display_url": "pic.twitter.com/4hXTjCflPx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1123059435780206592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123044807075516400,
+					"id_str": "1123044807075516416",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123044807075516416/pu/img/mZO7BdeZWG-feZN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123044807075516416/pu/img/mZO7BdeZWG-feZN4.jpg",
+					"url": "https://t.co/4hXTjCflPx",
+					"display_url": "pic.twitter.com/4hXTjCflPx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1123059435780206592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 33567,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123044807075516416/pu/vid/404x720/KgUwcpMRLQRQk599.mp4?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123044807075516416/pu/vid/320x570/H8HBb20ow99hQuu_.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1123044807075516416/pu/pl/Q_wag5QtEvEq_bAK.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293684,
+			"friends_count": 0,
+			"listed_count": 4011,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1459,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5612,
+		"favorite_count": 14865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #99]\n어제 미드 보고 잔 #최리 의 얼렁뚱땅 영어로 말해요🤗🤭\n\n#이달의소녀 #LOONA #LOONAKick #현진 #여진 #HyunJin #YeoJin #Choerry https://t.co/4hXTjCflPx"
+	},
+	{
+		"created_at": "Tue Apr 30 03:00:39 +0000 2019",
+		"id": 1123059562167377900,
+		"id_str": "1123059562167377920",
+		"full_text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #99] 어제 미드 보고 잔 #최리 의 얼렁뚱땅 영어로 말해요🤗🤭 ⠀⠀⠀⠀⠀ Random English time with #Choerry who went through Netflix last night🤗🤭 ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #현진 #여진 #HyunJin #YeoJin\nhttps://t.co/mxITIjwFZn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mxITIjwFZn",
+					"expanded_url": "https://www.instagram.com/p/Bw3L3l_hkzJ/",
+					"display_url": "instagram.com/p/Bw3L3l_hkzJ/",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4335,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #99] 어제 미드 보고 잔 #최리 의 얼렁뚱땅 영어로 말해요🤗🤭 ⠀⠀⠀⠀⠀ Random English time with #Choerry who went through Netflix last night🤗🤭 ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #현진 #여진 #HyunJin #YeoJin\nhttps://t.co/mxITIjwFZn"
+	},
+	{
 		"created_at": "Mon Apr 29 06:37:09 +0000 2019",
 		"id": 1122751659438956500,
 		"id_str": "1122751659438956546",
