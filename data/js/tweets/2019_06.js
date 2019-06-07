@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 03:20:34 +0000 2019",
+		"id": 1136830146973917200,
+		"id_str": "1136835313483935746",
+		"full_text": "[이달의소녀킼킼 #130]\n윙크를 받아랏😉\n\n#이달의소녀 #LOONA #LOONAKick #OliviaHye #올리비아혜 https://t.co/5R9g5VaSAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						61,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136827779595395100,
+					"id_str": "1136827779595395072",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136827779595395072/pu/img/wxIJKr8qXDhQjtqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136827779595395072/pu/img/wxIJKr8qXDhQjtqA.jpg",
+					"url": "https://t.co/5R9g5VaSAU",
+					"display_url": "pic.twitter.com/5R9g5VaSAU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1136830146973917191/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136827779595395100,
+					"id_str": "1136827779595395072",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136827779595395072/pu/img/wxIJKr8qXDhQjtqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136827779595395072/pu/img/wxIJKr8qXDhQjtqA.jpg",
+					"url": "https://t.co/5R9g5VaSAU",
+					"display_url": "pic.twitter.com/5R9g5VaSAU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1136830146973917191/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 31000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1136827779595395072/pu/pl/-sBhmczmP-vslFER.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136827779595395072/pu/vid/320x426/VGwo5frF1vCRl1Sw.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136827779595395072/pu/vid/360x480/ptESYlZMdPXC9F0T.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310179,
+			"friends_count": 0,
+			"listed_count": 4178,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6805,
+		"favorite_count": 17432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #130]\n윙크를 받아랏😉\n\n#이달의소녀 #LOONA #LOONAKick #OliviaHye #올리비아혜 https://t.co/5R9g5VaSAU"
+	},
+	{
+		"created_at": "Fri Jun 07 03:07:21 +0000 2019",
+		"id": 1136831987724034000,
+		"id_str": "1136831987724034048",
+		"full_text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #130] 윙크를 받아랏😉 ⠀⠀⠀⠀⠀ How's my wink😉⠀ ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #OliviaHye #올리비아혜\nhttps://t.co/2RFBG0aNDs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2RFBG0aNDs",
+					"expanded_url": "https://www.instagram.com/p/ByZFIUEBgYs/",
+					"display_url": "instagram.com/p/ByZFIUEBgYs/",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #130] 윙크를 받아랏😉 ⠀⠀⠀⠀⠀ How's my wink😉⠀ ⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #OliviaHye #올리비아혜\nhttps://t.co/2RFBG0aNDs"
+	},
+	{
+		"created_at": "Fri Jun 07 02:47:58 +0000 2019",
+		"id": 1136639663500910600,
+		"id_str": "1136827110125912064",
+		"full_text": "From #BLACKPINK (@ygofficialblink), to #RedVelvet (@RVsmtown) and @loonatheworld, women of K-pop are charting their own course with greater independence than ever before\nhttps://t.co/BjqYXLDY9T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BjqYXLDY9T",
+					"expanded_url": "http://www.mtv.com/news/3126395/k-pop-girl-groups-womanhood-agency/",
+					"display_url": "mtv.com/news/3126395/k…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40076725,
+			"id_str": "40076725",
+			"name": "MTV NEWS",
+			"screen_name": "MTVNEWS",
+			"location": "",
+			"description": "very fun and social wow!",
+			"url": "https://t.co/GRoD28cpet",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRoD28cpet",
+							"expanded_url": "http://mtvnews.com",
+							"display_url": "mtvnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5150408,
+			"friends_count": 5750,
+			"listed_count": 11686,
+			"created_at": "Thu May 14 20:33:18 +0000 2009",
+			"favourites_count": 3536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 111509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "00BBE4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134510987288219650/YWUepcjV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134510987288219650/YWUepcjV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40076725/1548947685",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3576,
+		"favorite_count": 9077,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From #BLACKPINK (@ygofficialblink), to #RedVelvet (@RVsmtown) and @loonatheworld, women of K-pop are charting their own course with greater independence than ever before\nhttps://t.co/BjqYXLDY9T"
+	},
+	{
 		"created_at": "Thu Jun 06 03:20:35 +0000 2019",
 		"id": 1136467784785748000,
 		"id_str": "1136472927354966016",
