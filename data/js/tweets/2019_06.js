@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 11:54:47 +0000 2019",
+		"id": 1143850088650936300,
+		"id_str": "1143850088650936320",
+		"full_text": "#LOONA_VLIVE\n아이돌이 찾아오는 이 집의 정체는? [이세퀴] TEASER/A house where idols swarm in, what's going on?[IQS] | 잼플리 Jamfully\nhttps://t.co/dbt5upU8Pi\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_VLIVE",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "V앱",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						162,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dbt5upU8Pi",
+					"expanded_url": "http://www.vlive.tv/video/136473",
+					"display_url": "vlive.tv/video/136473",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_VLIVE\n아이돌이 찾아오는 이 집의 정체는? [이세퀴] TEASER/A house where idols swarm in, what's going on?[IQS] | 잼플리 Jamfully\nhttps://t.co/dbt5upU8Pi\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Wed Jun 26 07:03:33 +0000 2019",
+		"id": 1143776795872890900,
+		"id_str": "1143776795872890882",
+		"full_text": "#LOONA_Facebook\n[이달의소녀킼킼 #149]\nhttps://t.co/iXlebJiL4D\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Facebook",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iXlebJiL4D",
+					"expanded_url": "https://www.facebook.com/289822978061901_835303590180501",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Facebook\n[이달의소녀킼킼 #149]\nhttps://t.co/iXlebJiL4D\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Wed Jun 26 03:20:34 +0000 2019",
+		"id": 1143715548888305700,
+		"id_str": "1143720682678816769",
+		"full_text": "[이달의소녀킼킼 #149]\nI’ll Be There~🎵\n\n#이달의소녀 #LOONA #LOONAKick #희진 #현진 #ViVi #김립 #HeeJin #HyunJin #비비 #KimLip https://t.co/IUherF0vOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143707906694504400,
+					"id_str": "1143707906694504448",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143707906694504448/pu/img/FzG5fbxh6MeD1cNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143707906694504448/pu/img/FzG5fbxh6MeD1cNP.jpg",
+					"url": "https://t.co/IUherF0vOh",
+					"display_url": "pic.twitter.com/IUherF0vOh",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1143715548888305665/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143707906694504400,
+					"id_str": "1143707906694504448",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143707906694504448/pu/img/FzG5fbxh6MeD1cNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143707906694504448/pu/img/FzG5fbxh6MeD1cNP.jpg",
+					"url": "https://t.co/IUherF0vOh",
+					"display_url": "pic.twitter.com/IUherF0vOh",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1143715548888305665/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 35292,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143707906694504448/pu/vid/480x852/7v1c9TVvRSQkoPjz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1143707906694504448/pu/pl/fbjJWTqIWomGcPpk.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143707906694504448/pu/vid/360x638/bI6jTVgvnLKgXmra.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143707906694504448/pu/vid/320x568/gU-rsVeDxH5dfy-H.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315440,
+			"friends_count": 0,
+			"listed_count": 4266,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5986,
+		"favorite_count": 16265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #149]\nI’ll Be There~🎵\n\n#이달의소녀 #LOONA #LOONAKick #희진 #현진 #ViVi #김립 #HeeJin #HyunJin #비비 #KimLip https://t.co/IUherF0vOh"
+	},
+	{
+		"created_at": "Wed Jun 26 03:04:33 +0000 2019",
+		"id": 1143716651076112400,
+		"id_str": "1143716651076112384",
+		"full_text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #149] I’ll Be There~🎵 ⠀⠀⠀⠀⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #희진 #현진 #ViVi #김립 #HeeJin #HyunJin #비비 #KimLip\nhttps://t.co/1DmRGU9C8a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Instagram",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1DmRGU9C8a",
+					"expanded_url": "https://www.instagram.com/p/BzJ8YOIhwMw/",
+					"display_url": "instagram.com/p/BzJ8YOIhwMw/",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Instagram\nVideo: 💕 [이달의소녀킼킼 #149] I’ll Be There~🎵 ⠀⠀⠀⠀⠀⠀⠀⠀⠀ #이달의소녀 #LOONA #LOONAKick #희진 #현진 #ViVi #김립 #HeeJin #HyunJin #비비 #KimLip\nhttps://t.co/1DmRGU9C8a"
+	},
+	{
 		"created_at": "Tue Jun 25 09:30:38 +0000 2019",
 		"id": 1143451422693961700,
 		"id_str": "1143451422693961730",
