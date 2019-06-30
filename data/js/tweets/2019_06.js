@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 07:17:23 +0000 2019",
+		"id": 1145229828829909000,
+		"id_str": "1145229828829908998",
+		"full_text": "#LOONA_Facebook\nPhotos from 이달의 소녀's post\nhttps://t.co/Uo2QiarQpD\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_Facebook",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uo2QiarQpD",
+					"expanded_url": "https://www.facebook.com/289822978061901_838017773242416",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_Facebook\nPhotos from 이달의 소녀's post\nhttps://t.co/Uo2QiarQpD\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Sun Jun 30 05:47:58 +0000 2019",
+		"id": 1145201220945997800,
+		"id_str": "1145207328754622465",
+		"full_text": "“오늘 우리 천천히, 여유롭게 서로에게 힘이 되어주는 시간 가져요.” \n#이달의소녀 #OliviaHye 와 함께하는 시간 잊지 않으셨죠? 수박같은 오빛! 사인회에서 만나요🤗▶️ https://t.co/svvoesj1q1\n\n#LOONA #올리비아혜 https://t.co/1Jo21r9SZG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/svvoesj1q1",
+					"expanded_url": "https://www.facebook.com/289822978061901/posts/838017773242416?s=100013292502787&sfns=mo",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1145200938476429300,
+					"id_str": "1145200938476429313",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"url": "https://t.co/1Jo21r9SZG",
+					"display_url": "pic.twitter.com/1Jo21r9SZG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1145201220945997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145200938476429300,
+					"id_str": "1145200938476429313",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"url": "https://t.co/1Jo21r9SZG",
+					"display_url": "pic.twitter.com/1Jo21r9SZG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1145201220945997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145200938488979500,
+					"id_str": "1145200938488979456",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D-SSL58UYAAw9No.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-SSL58UYAAw9No.jpg",
+					"url": "https://t.co/1Jo21r9SZG",
+					"display_url": "pic.twitter.com/1Jo21r9SZG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1145201220945997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316604,
+			"friends_count": 0,
+			"listed_count": 4276,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7081,
+		"favorite_count": 17856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“오늘 우리 천천히, 여유롭게 서로에게 힘이 되어주는 시간 가져요.” \n#이달의소녀 #OliviaHye 와 함께하는 시간 잊지 않으셨죠? 수박같은 오빛! 사인회에서 만나요🤗▶️ https://t.co/svvoesj1q1\n\n#LOONA #올리비아혜 https://t.co/1Jo21r9SZG"
+	},
+	{
 		"created_at": "Sat Jun 29 11:20:34 +0000 2019",
 		"id": 1144926888873230300,
 		"id_str": "1144928642377637889",
