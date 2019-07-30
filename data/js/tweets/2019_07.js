@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 13:47:58 +0000 2019",
+		"id": 1156173470188765200,
+		"id_str": "1156199760639995905",
+		"full_text": "[#딩고무비] 이달소가 딩고에 떴다~!~! 이브&amp;고원 미모 무엇 ㅠㅠㅠ 반려견 하늘이랑 뽀미 얘기도 나온다구 오빛 뭐하냐구 얼른 딩고무비 유튜브로 허리허리업 @loonatheworld\n\n&gt;&gt; 딩차딩차 #마이펫 편 바로보기🐶\nhttps://t.co/1Dki1TLIEt\n\n#딩고 #dingo #이달의소녀 #이브 #고원 #마이펫의이중생활2 https://t.co/h13QpI4ora",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고무비",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "마이펫",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "딩고",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "dingo",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "마이펫의이중생활2",
+					"indices": [
+						186,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						92,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1Dki1TLIEt",
+					"expanded_url": "http://bit.ly/2SPv4DL",
+					"display_url": "bit.ly/2SPv4DL",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156173409543307300,
+					"id_str": "1156173409543307264",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuNlx6UwAAEOr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuNlx6UwAAEOr3.jpg",
+					"url": "https://t.co/h13QpI4ora",
+					"display_url": "pic.twitter.com/h13QpI4ora",
+					"expanded_url": "https://twitter.com/dingo_official/status/1156173470188765188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156173409543307300,
+					"id_str": "1156173409543307264",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuNlx6UwAAEOr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuNlx6UwAAEOr3.jpg",
+					"url": "https://t.co/h13QpI4ora",
+					"display_url": "pic.twitter.com/h13QpI4ora",
+					"expanded_url": "https://twitter.com/dingo_official/status/1156173470188765188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156173437217341400,
+					"id_str": "1156173437217341441",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuNnZAVAAEP5-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuNnZAVAAEP5-q.jpg",
+					"url": "https://t.co/h13QpI4ora",
+					"display_url": "pic.twitter.com/h13QpI4ora",
+					"expanded_url": "https://twitter.com/dingo_official/status/1156173470188765188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41062,
+			"friends_count": 0,
+			"listed_count": 156,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 6480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2162,
+		"favorite_count": 4393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고무비] 이달소가 딩고에 떴다~!~! 이브&amp;고원 미모 무엇 ㅠㅠㅠ 반려견 하늘이랑 뽀미 얘기도 나온다구 오빛 뭐하냐구 얼른 딩고무비 유튜브로 허리허리업 @loonatheworld\n\n&gt;&gt; 딩차딩차 #마이펫 편 바로보기🐶\nhttps://t.co/1Dki1TLIEt\n\n#딩고 #dingo #이달의소녀 #이브 #고원 #마이펫의이중생활2 https://t.co/h13QpI4ora"
+	},
+	{
+		"created_at": "Tue Jul 30 12:28:16 +0000 2019",
+		"id": 1156179703490863000,
+		"id_str": "1156179703490863110",
+		"full_text": "#LOONA_VLIVE\n하영의 거침없는 말빨에 와르르된 이달의 소녀들 | 마이펫의 이중생활2 | 딩고무비 | Dingo Movie / 딩고무비\nhttps://t.co/3t5MldiKKz\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_VLIVE",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "V앱",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3t5MldiKKz",
+					"expanded_url": "http://www.vlive.tv/video/142304",
+					"display_url": "vlive.tv/video/142304",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "이달의 소녀(LOOΠΔ) 김립 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 81,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_VLIVE\n하영의 거침없는 말빨에 와르르된 이달의 소녀들 | 마이펫의 이중생활2 | 딩고무비 | Dingo Movie / 딩고무비\nhttps://t.co/3t5MldiKKz\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Sun Jul 28 13:07:56 +0000 2019",
 		"id": 1155464911104987100,
 		"id_str": "1155464911104987136",
