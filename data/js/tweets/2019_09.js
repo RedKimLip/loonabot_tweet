@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 08:47:59 +0000 2019",
+		"id": 1177073001323360300,
+		"id_str": "1177142760580796416",
+		"full_text": "#이달의소녀 #LOONA #비비 #ViVi\n#아이돌그라운드 #흥부자 #리액션대장\n#오홍홍홍 #너무조아효 \n\nhttps://t.co/QVq6MWGE93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "아이돌그라운드",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "흥부자",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "리액션대장",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "오홍홍홍",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "너무조아효",
+					"indices": [
+						51,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QVq6MWGE93",
+					"expanded_url": "https://www.youtube.com/watch?v=ruF9UqbygJg",
+					"display_url": "youtube.com/watch?v=ruF9Uq…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65,
+			"friends_count": 103,
+			"listed_count": 1,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176379639159066624/5aMs3fZj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176379639159066624/5aMs3fZj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1569305737",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 862,
+		"favorite_count": 2426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#이달의소녀 #LOONA #비비 #ViVi\n#아이돌그라운드 #흥부자 #리액션대장\n#오홍홍홍 #너무조아효 \n\nhttps://t.co/QVq6MWGE93"
+	},
+	{
 		"created_at": "Wed Sep 25 13:38:12 +0000 2019",
 		"id": 1176853411259658200,
 		"id_str": "1176853411259658240",
