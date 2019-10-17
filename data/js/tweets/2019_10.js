@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 17 04:47:58 +0000 2019",
+		"id": 1184680990095995000,
+		"id_str": "1184692506832920577",
+		"full_text": "올리비아 혜의 파워는 어디까지?!!\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#올리비아혜 #혜주 #고원 #근육몬\n#너에게_쓰는_편지\n\nhttps://t.co/hBfDGF9GZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌그라운드",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "혜주",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "근육몬",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "너에게_쓰는_편지",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hBfDGF9GZ1",
+					"expanded_url": "https://www.youtube.com/watch?v=bJ-jCrLTGqI",
+					"display_url": "youtube.com/watch?v=bJ-jCr…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 103,
+			"listed_count": 2,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176379639159066624/5aMs3fZj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176379639159066624/5aMs3fZj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1569305737",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 828,
+		"favorite_count": 2886,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올리비아 혜의 파워는 어디까지?!!\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#올리비아혜 #혜주 #고원 #근육몬\n#너에게_쓰는_편지\n\nhttps://t.co/hBfDGF9GZ1"
+	},
+	{
 		"created_at": "Tue Oct 15 09:27:34 +0000 2019",
 		"id": 1184038095521538000,
 		"id_str": "1184038095521538048",
