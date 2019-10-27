@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 27 09:48:07 +0000 2019",
+		"id": 1188093959404474400,
+		"id_str": "1188391917672976384",
+		"full_text": "#LOONA touched the world? ✋🌎\n🌕 #이달의소녀 tried to guess famous landmarks and other objects. 🎡\n \nNow they are eager to get in touch with international #Orbits! 😍\nDid they guess your city’s landmark? 👀Watch the full video👇\n\n#NowMaking #MyMusicTaste\n\nhttps://t.co/86IgNx98Wy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "Orbits",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "NowMaking",
+					"indices": [
+						219,
+						229
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						230,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/86IgNx98Wy",
+					"expanded_url": "https://bit.ly/2qFd6JZ",
+					"display_url": "bit.ly/2qFd6JZ",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. STOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87196,
+			"friends_count": 100,
+			"listed_count": 218,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 4274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1553832766",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2039,
+		"favorite_count": 5515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LOONA touched the world? ✋🌎\n🌕 #이달의소녀 tried to guess famous landmarks and other objects. 🎡\n \nNow they are eager to get in touch with international #Orbits! 😍\nDid they guess your city’s landmark? 👀Watch the full video👇\n\n#NowMaking #MyMusicTaste\n\nhttps://t.co/86IgNx98Wy"
+	},
+	{
 		"created_at": "Fri Oct 25 16:50:35 +0000 2019",
 		"id": 1187773460241625000,
 		"id_str": "1187773460241625088",
