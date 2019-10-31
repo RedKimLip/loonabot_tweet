@@ -1,6 +1,2341 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 14:47:58 +0000 2019",
+		"id": 1189850296094036000,
+		"id_str": "1189916932151140352",
+		"full_text": "✅RT이벤트\n#이달소 친필 폴라 가질 사람~?\n영상 보기👉https://t.co/9Ni0QwZ9aY\n\n▪미션: #뮤플리 유튜브 구독 + RT\nㄴ구독 인증하면 당첨 확률 ☝☝☝\n▪경품: 친필 폴라로이드\n▪기간: 10/31 ~ 11/14\n▪발표: 11/15 (개별연락)\n\n@loonatheworld #이달의소녀 #LOOΠΔ #LOONA https://t.co/8yPzdo0HqR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "뮤플리",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						179,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Ni0QwZ9aY",
+					"expanded_url": "https://youtu.be/KjqMOxEIJ54",
+					"display_url": "youtu.be/KjqMOxEIJ54",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189850284887031800,
+					"id_str": "1189850284887031808",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMyh66WwAA-OmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMyh66WwAA-OmH.jpg",
+					"url": "https://t.co/8yPzdo0HqR",
+					"display_url": "pic.twitter.com/8yPzdo0HqR",
+					"expanded_url": "https://twitter.com/MuFully/status/1189850296094035968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								},
+								{
+									"type": "user",
+									"user_id": "1112618601356226561",
+									"screen_name": "MuFully",
+									"name": "mu:fully (뮤플리)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 404,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 552,
+									"y": 81,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 166,
+									"y": 108,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 570,
+									"y": 388,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 760,
+									"y": 399,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 364,
+									"y": 75,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 76,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 399,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 648,
+									"y": 698,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 60,
+									"y": 697,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 254,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 448,
+									"y": 698,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 862,
+									"y": 698,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 290,
+									"y": 57,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 480,
+									"y": 64,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 404,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 552,
+									"y": 81,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 166,
+									"y": 108,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 570,
+									"y": 388,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 760,
+									"y": 399,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 364,
+									"y": 75,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 76,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 399,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 648,
+									"y": 698,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 60,
+									"y": 697,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 254,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 448,
+									"y": 698,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 862,
+									"y": 698,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 290,
+									"y": 57,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 480,
+									"y": 64,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 404,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 552,
+									"y": 81,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 166,
+									"y": 108,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 570,
+									"y": 388,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 760,
+									"y": 399,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 364,
+									"y": 75,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 76,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 399,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 648,
+									"y": 698,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 60,
+									"y": 697,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 254,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 448,
+									"y": 698,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 862,
+									"y": 698,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 290,
+									"y": 57,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 480,
+									"y": 64,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 259,
+									"y": 286,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 391,
+									"y": 57,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 117,
+									"y": 76,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 403,
+									"y": 274,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 538,
+									"y": 282,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 257,
+									"y": 53,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 532,
+									"y": 53,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 125,
+									"y": 282,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 459,
+									"y": 494,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 42,
+									"y": 493,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 179,
+									"y": 501,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 317,
+									"y": 494,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 610,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 205,
+									"y": 40,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 340,
+									"y": 45,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189850284887031800,
+					"id_str": "1189850284887031808",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMyh66WwAA-OmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMyh66WwAA-OmH.jpg",
+					"url": "https://t.co/8yPzdo0HqR",
+					"display_url": "pic.twitter.com/8yPzdo0HqR",
+					"expanded_url": "https://twitter.com/MuFully/status/1189850296094035968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								},
+								{
+									"type": "user",
+									"user_id": "1112618601356226561",
+									"screen_name": "MuFully",
+									"name": "mu:fully (뮤플리)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 404,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 552,
+									"y": 81,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 166,
+									"y": 108,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 570,
+									"y": 388,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 760,
+									"y": 399,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 364,
+									"y": 75,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 76,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 399,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 648,
+									"y": 698,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 60,
+									"y": 697,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 254,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 448,
+									"y": 698,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 862,
+									"y": 698,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 290,
+									"y": 57,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 480,
+									"y": 64,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 404,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 552,
+									"y": 81,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 166,
+									"y": 108,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 570,
+									"y": 388,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 760,
+									"y": 399,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 364,
+									"y": 75,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 76,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 399,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 648,
+									"y": 698,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 60,
+									"y": 697,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 254,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 448,
+									"y": 698,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 862,
+									"y": 698,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 290,
+									"y": 57,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 480,
+									"y": 64,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 404,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 552,
+									"y": 81,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 166,
+									"y": 108,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 570,
+									"y": 388,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 760,
+									"y": 399,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 364,
+									"y": 75,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 76,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 399,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 648,
+									"y": 698,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 60,
+									"y": 697,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 254,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 448,
+									"y": 698,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 862,
+									"y": 698,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 290,
+									"y": 57,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 480,
+									"y": 64,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 259,
+									"y": 286,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 391,
+									"y": 57,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 117,
+									"y": 76,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 403,
+									"y": 274,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 538,
+									"y": 282,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 257,
+									"y": 53,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 532,
+									"y": 53,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 125,
+									"y": 282,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 459,
+									"y": 494,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 42,
+									"y": 493,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 179,
+									"y": 501,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 317,
+									"y": 494,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 610,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 205,
+									"y": 40,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 340,
+									"y": 45,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "mu:fully (뮤플리)",
+			"screen_name": "MuFully",
+			"location": "",
+			"description": "KPOP을 더 즐겁게! 풀 영상은 아래 링크 클릭!👇",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5631,
+			"friends_count": 20,
+			"listed_count": 7,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1554104902",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2422,
+		"favorite_count": 3907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✅RT이벤트\n#이달소 친필 폴라 가질 사람~?\n영상 보기👉https://t.co/9Ni0QwZ9aY\n\n▪미션: #뮤플리 유튜브 구독 + RT\nㄴ구독 인증하면 당첨 확률 ☝☝☝\n▪경품: 친필 폴라로이드\n▪기간: 10/31 ~ 11/14\n▪발표: 11/15 (개별연락)\n\n@loonatheworld #이달의소녀 #LOOΠΔ #LOONA https://t.co/8yPzdo0HqR"
+	},
+	{
+		"created_at": "Thu Oct 31 11:29:14 +0000 2019",
+		"id": 1189866919400263700,
+		"id_str": "1189866919400263680",
+		"full_text": "#Mnet #MCOUNTDOWN #엠카운트다운\n[4K SKYCAM] 이달의 소녀 (LOONA) - 보름달 (Full Moon) FanCam 191031 M COUNTDOWN High Angle Cam\nhttps://t.co/oKy056YZXb\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mnet",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKy056YZXb",
+					"expanded_url": "https://www.youtube.com/watch?v=BNbiyc2kf60",
+					"display_url": "youtube.com/watch?v=BNbiyc…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "#이달의소녀 #김립 #KimLip 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 103,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Mnet #MCOUNTDOWN #엠카운트다운\n[4K SKYCAM] 이달의 소녀 (LOONA) - 보름달 (Full Moon) FanCam 191031 M COUNTDOWN High Angle Cam\nhttps://t.co/oKy056YZXb\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Thu Oct 31 10:28:22 +0000 2019",
+		"id": 1189851598362730500,
+		"id_str": "1189851598362730496",
+		"full_text": "[MPD직캠] 이달의 소녀 직캠 4K ‘보름달’ (LOONA FanCam) | MCOUNTDOWN_2019.10.31\nhttps://t.co/FUnKw2HmJH\n　\n#M2 #엠카운트다운 #직캠\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "M2",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FUnKw2HmJH",
+					"expanded_url": "https://www.youtube.com/watch?v=fRKHDLvm-Ec",
+					"display_url": "youtube.com/watch?v=fRKHDL…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "#이달의소녀 #김립 #KimLip 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 103,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPD직캠] 이달의 소녀 직캠 4K ‘보름달’ (LOONA FanCam) | MCOUNTDOWN_2019.10.31\nhttps://t.co/FUnKw2HmJH\n　\n#M2 #엠카운트다운 #직캠\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Thu Oct 31 10:28:21 +0000 2019",
+		"id": 1189851597184090000,
+		"id_str": "1189851597184090112",
+		"full_text": "[MPD직캠] 이달의 소녀 최리 직캠 4K ‘보름달’ (LOONA Choerry FanCam) | MCOUNTDOWN_2019.10.31\nhttps://t.co/xoWZefRSrt\n　\n#M2 #엠카운트다운 #직캠\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "M2",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xoWZefRSrt",
+					"expanded_url": "https://www.youtube.com/watch?v=FYYtjp-lLZ0",
+					"display_url": "youtube.com/watch?v=FYYtjp…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "#이달의소녀 #김립 #KimLip 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 103,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPD직캠] 이달의 소녀 최리 직캠 4K ‘보름달’ (LOONA Choerry FanCam) | MCOUNTDOWN_2019.10.31\nhttps://t.co/xoWZefRSrt\n　\n#M2 #엠카운트다운 #직캠\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Thu Oct 31 10:28:21 +0000 2019",
+		"id": 1189851595816784000,
+		"id_str": "1189851595816783873",
+		"full_text": "[MPD직캠] 이달의 소녀 올리비아 혜 직캠 4K ‘보름달’ (LOONA Olivia Hye FanCam) | MCOUNTDOWN_2019.10.31\nhttps://t.co/fInLcMOkXp\n　\n#M2 #엠카운트다운 #직캠\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "M2",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fInLcMOkXp",
+					"expanded_url": "https://www.youtube.com/watch?v=Em5Lp5tyYW0",
+					"display_url": "youtube.com/watch?v=Em5Lp5…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "#이달의소녀 #김립 #KimLip 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 103,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPD직캠] 이달의 소녀 올리비아 혜 직캠 4K ‘보름달’ (LOONA Olivia Hye FanCam) | MCOUNTDOWN_2019.10.31\nhttps://t.co/fInLcMOkXp\n　\n#M2 #엠카운트다운 #직캠\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Thu Oct 31 08:20:34 +0000 2019",
+		"id": 1189814350808137700,
+		"id_str": "1189819439597928449",
+		"full_text": "#이달의소녀 와 함께 보름달 볼 오빛?!\n잠시 후 6PM, 엠카운트다운에서 확인하세요😆\n\n#LOONA https://t.co/pTWgCMWM3Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						50,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189814338497978400,
+					"id_str": "1189814338497978368",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMR1kLWoAAcEAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMR1kLWoAAcEAq.jpg",
+					"url": "https://t.co/pTWgCMWM3Z",
+					"display_url": "pic.twitter.com/pTWgCMWM3Z",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1189814350808137728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 218,
+									"h": 260,
+									"w": 260
+								},
+								{
+									"x": 316,
+									"y": 116,
+									"h": 281,
+									"w": 281
+								},
+								{
+									"x": 640,
+									"y": 227,
+									"h": 246,
+									"w": 246
+								},
+								{
+									"x": 456,
+									"y": 565,
+									"h": 394,
+									"w": 394
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 42,
+									"y": 144,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 209,
+									"y": 77,
+									"h": 186,
+									"w": 186
+								},
+								{
+									"x": 425,
+									"y": 150,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 302,
+									"y": 375,
+									"h": 261,
+									"w": 261
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 218,
+									"h": 260,
+									"w": 260
+								},
+								{
+									"x": 316,
+									"y": 116,
+									"h": 281,
+									"w": 281
+								},
+								{
+									"x": 640,
+									"y": 227,
+									"h": 246,
+									"w": 246
+								},
+								{
+									"x": 456,
+									"y": 565,
+									"h": 394,
+									"w": 394
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 218,
+									"h": 260,
+									"w": 260
+								},
+								{
+									"x": 316,
+									"y": 116,
+									"h": 281,
+									"w": 281
+								},
+								{
+									"x": 640,
+									"y": 227,
+									"h": 246,
+									"w": 246
+								},
+								{
+									"x": 456,
+									"y": 565,
+									"h": 394,
+									"w": 394
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189814338497978400,
+					"id_str": "1189814338497978368",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMR1kLWoAAcEAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMR1kLWoAAcEAq.jpg",
+					"url": "https://t.co/pTWgCMWM3Z",
+					"display_url": "pic.twitter.com/pTWgCMWM3Z",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1189814350808137728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 218,
+									"h": 260,
+									"w": 260
+								},
+								{
+									"x": 316,
+									"y": 116,
+									"h": 281,
+									"w": 281
+								},
+								{
+									"x": 640,
+									"y": 227,
+									"h": 246,
+									"w": 246
+								},
+								{
+									"x": 456,
+									"y": 565,
+									"h": 394,
+									"w": 394
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 42,
+									"y": 144,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 209,
+									"y": 77,
+									"h": 186,
+									"w": 186
+								},
+								{
+									"x": 425,
+									"y": 150,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 302,
+									"y": 375,
+									"h": 261,
+									"w": 261
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 218,
+									"h": 260,
+									"w": 260
+								},
+								{
+									"x": 316,
+									"y": 116,
+									"h": 281,
+									"w": 281
+								},
+								{
+									"x": 640,
+									"y": 227,
+									"h": 246,
+									"w": 246
+								},
+								{
+									"x": 456,
+									"y": 565,
+									"h": 394,
+									"w": 394
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 218,
+									"h": 260,
+									"w": 260
+								},
+								{
+									"x": 316,
+									"y": 116,
+									"h": 281,
+									"w": 281
+								},
+								{
+									"x": 640,
+									"y": 227,
+									"h": 246,
+									"w": 246
+								},
+								{
+									"x": 456,
+									"y": 565,
+									"h": 394,
+									"w": 394
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 357800,
+			"friends_count": 0,
+			"listed_count": 4930,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10342,
+		"favorite_count": 24079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 와 함께 보름달 볼 오빛?!\n잠시 후 6PM, 엠카운트다운에서 확인하세요😆\n\n#LOONA https://t.co/pTWgCMWM3Z"
+	},
+	{
+		"created_at": "Thu Oct 31 06:20:34 +0000 2019",
+		"id": 1189783252275363800,
+		"id_str": "1189789241057972225",
+		"full_text": "[#이달의소녀] \n2019년 10월 31일 (목)\nMnet ‘엠카운트다운’ 본방송에 참여하시는 오빛 여러분들께서는 4PM까지 사진 속 장소(상암 CJ E&amp;M센터 앞)로 모여주시기 바랍니다.\n\n#LOONA #엠카운트다운 https://t.co/VGhA9y1Fdb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189783232423891000,
+					"id_str": "1189783232423890944",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EIL1i9BXkAAlEb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIL1i9BXkAAlEb9.jpg",
+					"url": "https://t.co/VGhA9y1Fdb",
+					"display_url": "pic.twitter.com/VGhA9y1Fdb",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1189783252275363845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189783232423891000,
+					"id_str": "1189783232423890944",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EIL1i9BXkAAlEb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIL1i9BXkAAlEb9.jpg",
+					"url": "https://t.co/VGhA9y1Fdb",
+					"display_url": "pic.twitter.com/VGhA9y1Fdb",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1189783252275363845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14531,
+			"friends_count": 1,
+			"listed_count": 259,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1550570994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀] \n2019년 10월 31일 (목)\nMnet ‘엠카운트다운’ 본방송에 참여하시는 오빛 여러분들께서는 4PM까지 사진 속 장소(상암 CJ E&amp;M센터 앞)로 모여주시기 바랍니다.\n\n#LOONA #엠카운트다운 https://t.co/VGhA9y1Fdb"
+	},
+	{
+		"created_at": "Wed Oct 30 22:20:34 +0000 2019",
+		"id": 1189662597336858600,
+		"id_str": "1189668445287260161",
+		"full_text": "[#이달의소녀]\n2019년 10월 31일 (목) Mnet ‘엠카운트다운’사전녹화에 참여하시는 오빛 여러분들께서는 7:30AM까지 인원체크를 진행했던 장소로 다시 모여주세요‼️\n\n#LOONA #엠카운트다운",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189638924852875300,
+		"in_reply_to_status_id_str": "1189638924852875264",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14531,
+			"friends_count": 1,
+			"listed_count": 259,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1550570994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#이달의소녀]\n2019년 10월 31일 (목) Mnet ‘엠카운트다운’사전녹화에 참여하시는 오빛 여러분들께서는 7:30AM까지 인원체크를 진행했던 장소로 다시 모여주세요‼️\n\n#LOONA #엠카운트다운"
+	},
+	{
 		"created_at": "Wed Oct 30 12:47:58 +0000 2019",
 		"id": 1189467865360941000,
 		"id_str": "1189524345313468417",
