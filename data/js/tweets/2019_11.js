@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 11:36:32 +0000 2019",
+		"id": 1192767856506802200,
+		"id_str": "1192767856506802177",
+		"full_text": "#LOONA_VLIVE\n[이달의 소녀] 달의 주파수 ep.6 | 이달의 소녀(LOONA)\nhttps://t.co/NKHxGPbHdc\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_VLIVE",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "V앱",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						99,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NKHxGPbHdc",
+					"expanded_url": "http://www.vlive.tv/video/158975",
+					"display_url": "vlive.tv/video/158975",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "#이달의소녀 #김립 #KimLip 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 103,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_VLIVE\n[이달의 소녀] 달의 주파수 ep.6 | 이달의 소녀(LOONA)\nhttps://t.co/NKHxGPbHdc\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Fri Nov 08 09:47:58 +0000 2019",
+		"id": 1192728527679811600,
+		"id_str": "1192740538035920896",
+		"full_text": "GUEST | @loonatheworld #이달소 \n\n이달소 촬영 갔다가 입덕하고 돌아온 후기💘\n👉https://t.co/ntIYTPXTaI\n\n🎥낰낰낰 #할로윈 특집 본편\n👉https://t.co/9Ni0QwZ9aY\n\n#LOONA #이달의소녀 #낰낰낰 #비하인드 https://t.co/Oexws2X4YB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "할로윈",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "낰낰낰",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ntIYTPXTaI",
+					"expanded_url": "https://youtu.be/d-42rI4-gkA",
+					"display_url": "youtu.be/d-42rI4-gkA",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/9Ni0QwZ9aY",
+					"expanded_url": "https://youtu.be/KjqMOxEIJ54",
+					"display_url": "youtu.be/KjqMOxEIJ54",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192728515554074600,
+					"id_str": "1192728515554074625",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EI1sQ_sUYAESC9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI1sQ_sUYAESC9D.jpg",
+					"url": "https://t.co/Oexws2X4YB",
+					"display_url": "pic.twitter.com/Oexws2X4YB",
+					"expanded_url": "https://twitter.com/MuFully/status/1192728527679811584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								},
+								{
+									"type": "user",
+									"user_id": "1112618601356226561",
+									"screen_name": "MuFully",
+									"name": "mu:fully (뮤플리)"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 308,
+									"y": 88,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 436,
+									"y": 78,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 167,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 821,
+									"y": 147,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 543,
+									"y": 156,
+									"h": 195,
+									"w": 195
+								},
+								{
+									"x": 769,
+									"y": 137,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 167,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 821,
+									"y": 147,
+									"h": 250,
+									"w": 250
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192728515554074600,
+					"id_str": "1192728515554074625",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EI1sQ_sUYAESC9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI1sQ_sUYAESC9D.jpg",
+					"url": "https://t.co/Oexws2X4YB",
+					"display_url": "pic.twitter.com/Oexws2X4YB",
+					"expanded_url": "https://twitter.com/MuFully/status/1192728527679811584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								},
+								{
+									"type": "user",
+									"user_id": "1112618601356226561",
+									"screen_name": "MuFully",
+									"name": "mu:fully (뮤플리)"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 308,
+									"y": 88,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 436,
+									"y": 78,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 167,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 821,
+									"y": 147,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 543,
+									"y": 156,
+									"h": 195,
+									"w": 195
+								},
+								{
+									"x": 769,
+									"y": 137,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 167,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 821,
+									"y": 147,
+									"h": 250,
+									"w": 250
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "mu:fully (뮤플리)",
+			"screen_name": "MuFully",
+			"location": "",
+			"description": "KPOP을 더 즐겁게! 풀 영상은 아래 링크 클릭!👇",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5928,
+			"friends_count": 20,
+			"listed_count": 7,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1554104902",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1470,
+		"favorite_count": 3483,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "GUEST | @loonatheworld #이달소 \n\n이달소 촬영 갔다가 입덕하고 돌아온 후기💘\n👉https://t.co/ntIYTPXTaI\n\n🎥낰낰낰 #할로윈 특집 본편\n👉https://t.co/9Ni0QwZ9aY\n\n#LOONA #이달의소녀 #낰낰낰 #비하인드 https://t.co/Oexws2X4YB"
+	},
+	{
 		"created_at": "Thu Nov 07 03:20:34 +0000 2019",
 		"id": 1192276996249665500,
 		"id_str": "1192280657315139584",
