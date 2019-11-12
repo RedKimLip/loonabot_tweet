@@ -1,6 +1,1504 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 09:48:39 +0000 2019",
+		"id": 1194190259942236200,
+		"id_str": "1194190259942236160",
+		"full_text": "#LOONA_VLIVE\n이달소 촬영 갔다가 입덕하고 돌아온 후기💘 ㅣ이달의 소녀ㅣ낰낰낰 할로윈 비하인드 | 뮤플리 mu:fully\nhttps://t.co/0Mj7zcPRLU\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_VLIVE",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "V앱",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Mj7zcPRLU",
+					"expanded_url": "http://www.vlive.tv/video/159612",
+					"display_url": "vlive.tv/video/159612",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884869555343863800,
+			"id_str": "884869555343863808",
+			"name": "레드립",
+			"screen_name": "RedKimLip",
+			"location": "",
+			"description": "#이달의소녀 #김립 #KimLip 💋\n@loonatheworld",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 103,
+			"listed_count": 10,
+			"created_at": "Tue Jul 11 20:18:36 +0000 2017",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994166992247533570/3n3Z1oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884869555343863808/1499807258",
+			"profile_link_color": "D8193D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_VLIVE\n이달소 촬영 갔다가 입덕하고 돌아온 후기💘 ㅣ이달의 소녀ㅣ낰낰낰 할로윈 비하인드 | 뮤플리 mu:fully\nhttps://t.co/0Mj7zcPRLU\n　\n#VLIVE #브이앱 #V앱\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Tue Nov 12 07:48:21 +0000 2019",
+		"id": 1194087672781922300,
+		"id_str": "1194159984227078144",
+		"full_text": "#이달의소녀 수능 응원받고! Butterfly처럼 훨훨 Hi High~~~🦋 2020학년도 수험생 여러분들을 엠투와 이달의 소녀가 응원합니다👊❤ #0교시응원영역 #LOONA @loonatheworld\n \n▶ https://t.co/ymiOLCmlc6 https://t.co/gxJXDwWZKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "0교시응원영역",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ymiOLCmlc6",
+					"expanded_url": "https://bit.ly/2rAbmlT",
+					"display_url": "bit.ly/2rAbmlT",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194087656835055600,
+					"id_str": "1194087656835055616",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJAZbhVAAAijCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJAZbhVAAAijCq.jpg",
+					"url": "https://t.co/gxJXDwWZKq",
+					"display_url": "pic.twitter.com/gxJXDwWZKq",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194087672781922304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 793,
+									"y": 148,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 563,
+									"y": 165,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 328,
+									"y": 135,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 119,
+									"y": 160,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 999,
+									"y": 174,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 335,
+									"y": 241,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1269,
+									"y": 238,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 901,
+									"y": 264,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 526,
+									"y": 217,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 191,
+									"y": 256,
+									"h": 178,
+									"w": 178
+								},
+								{
+									"x": 1599,
+									"y": 279,
+									"h": 161,
+									"w": 161
+								},
+								{
+									"x": 536,
+									"y": 386,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 449,
+									"y": 84,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 319,
+									"y": 93,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 186,
+									"y": 76,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 67,
+									"y": 90,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 566,
+									"y": 98,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 189,
+									"y": 136,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1269,
+									"y": 238,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 901,
+									"y": 264,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 526,
+									"y": 217,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 191,
+									"y": 256,
+									"h": 178,
+									"w": 178
+								},
+								{
+									"x": 1599,
+									"y": 279,
+									"h": 161,
+									"w": 161
+								},
+								{
+									"x": 536,
+									"y": 386,
+									"h": 138,
+									"w": 138
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194087656835055600,
+					"id_str": "1194087656835055616",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJAZbhVAAAijCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJAZbhVAAAijCq.jpg",
+					"url": "https://t.co/gxJXDwWZKq",
+					"display_url": "pic.twitter.com/gxJXDwWZKq",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194087672781922304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 793,
+									"y": 148,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 563,
+									"y": 165,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 328,
+									"y": 135,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 119,
+									"y": 160,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 999,
+									"y": 174,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 335,
+									"y": 241,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1269,
+									"y": 238,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 901,
+									"y": 264,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 526,
+									"y": 217,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 191,
+									"y": 256,
+									"h": 178,
+									"w": 178
+								},
+								{
+									"x": 1599,
+									"y": 279,
+									"h": 161,
+									"w": 161
+								},
+								{
+									"x": 536,
+									"y": 386,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 449,
+									"y": 84,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 319,
+									"y": 93,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 186,
+									"y": 76,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 67,
+									"y": 90,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 566,
+									"y": 98,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 189,
+									"y": 136,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1269,
+									"y": 238,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 901,
+									"y": 264,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 526,
+									"y": 217,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 191,
+									"y": 256,
+									"h": 178,
+									"w": 178
+								},
+								{
+									"x": 1599,
+									"y": 279,
+									"h": 161,
+									"w": 161
+								},
+								{
+									"x": 536,
+									"y": 386,
+									"h": 138,
+									"w": 138
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945812,
+			"friends_count": 322,
+			"listed_count": 1611,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1770,
+		"favorite_count": 4490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 수능 응원받고! Butterfly처럼 훨훨 Hi High~~~🦋 2020학년도 수험생 여러분들을 엠투와 이달의 소녀가 응원합니다👊❤ #0교시응원영역 #LOONA @loonatheworld\n \n▶ https://t.co/ymiOLCmlc6 https://t.co/gxJXDwWZKq"
+	},
+	{
+		"created_at": "Tue Nov 12 07:48:10 +0000 2019",
+		"id": 1194092223308140500,
+		"id_str": "1194159940254019585",
+		"full_text": "수험생 여러분들을 응원하는 #이달의소녀 의 수능 만점 기원 카드가 도착했습니다💌 #0교시응원영역 #LOONA @loonatheworld https://t.co/yyREEZZBaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "0교시응원영역",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						54,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194092203351650300,
+					"id_str": "1194092203351650305",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEiEnWsAEfR_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEiEnWsAEfR_g.jpg",
+					"url": "https://t.co/yyREEZZBaa",
+					"display_url": "pic.twitter.com/yyREEZZBaa",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092223308140546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194092203351650300,
+					"id_str": "1194092203351650305",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEiEnWsAEfR_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEiEnWsAEfR_g.jpg",
+					"url": "https://t.co/yyREEZZBaa",
+					"display_url": "pic.twitter.com/yyREEZZBaa",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092223308140546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1194092203250876400,
+					"id_str": "1194092203250876416",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEiEPVAAAyVEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEiEPVAAAyVEv.jpg",
+					"url": "https://t.co/yyREEZZBaa",
+					"display_url": "pic.twitter.com/yyREEZZBaa",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092223308140546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1194092203355918300,
+					"id_str": "1194092203355918346",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEiEoX0AoAhUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEiEoX0AoAhUw.jpg",
+					"url": "https://t.co/yyREEZZBaa",
+					"display_url": "pic.twitter.com/yyREEZZBaa",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092223308140546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1194092203364298800,
+					"id_str": "1194092203364298752",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEiEqXsAAGRKa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEiEqXsAAGRKa.jpg",
+					"url": "https://t.co/yyREEZZBaa",
+					"display_url": "pic.twitter.com/yyREEZZBaa",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092223308140546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 846,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1653,
+							"h": 1165,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945812,
+			"friends_count": 322,
+			"listed_count": 1611,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1159,
+		"favorite_count": 2765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수험생 여러분들을 응원하는 #이달의소녀 의 수능 만점 기원 카드가 도착했습니다💌 #0교시응원영역 #LOONA @loonatheworld https://t.co/yyREEZZBaa"
+	},
+	{
+		"created_at": "Tue Nov 12 07:48:03 +0000 2019",
+		"id": 1194092293659213800,
+		"id_str": "1194159909421625349",
+		"full_text": "@loonatheworld 수험생 여러분들을 응원하는 #이달의소녀 의 수능 만점 기원 카드가 도착했습니다💌 #0교시응원영역 #LOONA @loonatheworld https://t.co/otVf8cm82H",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "0교시응원영역",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						69,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						76,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194092274847801300,
+					"id_str": "1194092274847801347",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEmO9XYAMSp7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEmO9XYAMSp7A.jpg",
+					"url": "https://t.co/otVf8cm82H",
+					"display_url": "pic.twitter.com/otVf8cm82H",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092293659213825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194092274847801300,
+					"id_str": "1194092274847801347",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEmO9XYAMSp7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEmO9XYAMSp7A.jpg",
+					"url": "https://t.co/otVf8cm82H",
+					"display_url": "pic.twitter.com/otVf8cm82H",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092293659213825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1194092274734362600,
+					"id_str": "1194092274734362624",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEmOiUcAAsR-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEmOiUcAAsR-D.jpg",
+					"url": "https://t.co/otVf8cm82H",
+					"display_url": "pic.twitter.com/otVf8cm82H",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092293659213825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1194092274847748000,
+					"id_str": "1194092274847748096",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEmO9WkAAr1Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEmO9WkAAr1Gz.jpg",
+					"url": "https://t.co/otVf8cm82H",
+					"display_url": "pic.twitter.com/otVf8cm82H",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092293659213825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1194092274742743000,
+					"id_str": "1194092274742743040",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EJJEmOkUUAAllv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJJEmOkUUAAllv7.jpg",
+					"url": "https://t.co/otVf8cm82H",
+					"display_url": "pic.twitter.com/otVf8cm82H",
+					"expanded_url": "https://twitter.com/M2MPD/status/1194092293659213825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1165,
+							"h": 1653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1194092223308140500,
+		"in_reply_to_status_id_str": "1194092223308140546",
+		"in_reply_to_user_id": 589808615,
+		"in_reply_to_user_id_str": "589808615",
+		"in_reply_to_screen_name": "M2MPD",
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945812,
+			"friends_count": 322,
+			"listed_count": 1611,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 769,
+		"favorite_count": 2130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@loonatheworld 수험생 여러분들을 응원하는 #이달의소녀 의 수능 만점 기원 카드가 도착했습니다💌 #0교시응원영역 #LOONA @loonatheworld https://t.co/otVf8cm82H"
+	},
+	{
 		"created_at": "Sun Nov 10 18:25:37 +0000 2019",
 		"id": 1193595584705368000,
 		"id_str": "1193595584705368064",
