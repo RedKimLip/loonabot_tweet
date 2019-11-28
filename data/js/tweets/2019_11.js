@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 09:32:40 +0000 2019",
+		"id": 1199733202367107000,
+		"id_str": "1199984441059266560",
+		"full_text": "백야\n#이달의소녀 #김립 #LOONA #KimLip https://t.co/Al7HDhJG1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199733193307410400,
+					"id_str": "1199733193307410432",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZO-5xVUAAL8BG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKZO-5xVUAAL8BG.jpg",
+					"url": "https://t.co/Al7HDhJG1q",
+					"display_url": "pic.twitter.com/Al7HDhJG1q",
+					"expanded_url": "https://twitter.com/kissmylips_kr/status/1199733202367107072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199733193307410400,
+					"id_str": "1199733193307410432",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZO-5xVUAAL8BG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKZO-5xVUAAL8BG.jpg",
+					"url": "https://t.co/Al7HDhJG1q",
+					"display_url": "pic.twitter.com/Al7HDhJG1q",
+					"expanded_url": "https://twitter.com/kissmylips_kr/status/1199733202367107072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1199733193307385900,
+					"id_str": "1199733193307385856",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZO-5xU8AASnqh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKZO-5xU8AASnqh.jpg",
+					"url": "https://t.co/Al7HDhJG1q",
+					"display_url": "pic.twitter.com/Al7HDhJG1q",
+					"expanded_url": "https://twitter.com/kissmylips_kr/status/1199733202367107072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 960139280197693400,
+			"id_str": "960139280197693440",
+			"name": "kiss my lips.",
+			"screen_name": "kissmylips_kr",
+			"location": "",
+			"description": "loonatheworld Kim Lip💋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18600,
+			"friends_count": 4,
+			"listed_count": 1843,
+			"created_at": "Sun Feb 04 13:13:37 +0000 2018",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131541605767188480/99e4SIfq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131541605767188480/99e4SIfq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/960139280197693440/1517750710",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 851,
+		"favorite_count": 1920,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백야\n#이달의소녀 #김립 #LOONA #KimLip https://t.co/Al7HDhJG1q"
+	},
+	{
 		"created_at": "Thu Nov 28 07:31:43 +0000 2019",
 		"id": 1198889057318850600,
 		"id_str": "1199954004370788352",
