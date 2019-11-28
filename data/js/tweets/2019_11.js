@@ -1,6 +1,870 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 07:31:43 +0000 2019",
+		"id": 1198889057318850600,
+		"id_str": "1199954004370788352",
+		"full_text": "191124 고원\n\nhttps://t.co/5ZQz4tkmS8\nhttps://t.co/qns2dYfgsZ\nhttps://t.co/jjsVQN5ruk\nhttps://t.co/RIAsDWQbdy\n\n#이달의소녀 #LOONA #고원 #GoWon https://t.co/u8Ip5gbdGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5ZQz4tkmS8",
+					"expanded_url": "https://bit.ly/37C8iWY",
+					"display_url": "bit.ly/37C8iWY",
+					"indices": [
+						11,
+						34
+					]
+				},
+				{
+					"url": "https://t.co/qns2dYfgsZ",
+					"expanded_url": "https://bit.ly/2pMr6BB",
+					"display_url": "bit.ly/2pMr6BB",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/jjsVQN5ruk",
+					"expanded_url": "https://bit.ly/35vI9XR",
+					"display_url": "bit.ly/35vI9XR",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/RIAsDWQbdy",
+					"expanded_url": "https://bit.ly/2KRNyk3",
+					"display_url": "bit.ly/2KRNyk3",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1198884499360104400,
+					"id_str": "1198884499360104449",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNLGacUwAEbUTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNLGacUwAEbUTw.jpg",
+					"url": "https://t.co/u8Ip5gbdGS",
+					"display_url": "pic.twitter.com/u8Ip5gbdGS",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1198889057318850560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 1021,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 385,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 1021,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 680,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198884499360104400,
+					"id_str": "1198884499360104449",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNLGacUwAEbUTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNLGacUwAEbUTw.jpg",
+					"url": "https://t.co/u8Ip5gbdGS",
+					"display_url": "pic.twitter.com/u8Ip5gbdGS",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1198889057318850560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 1021,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 385,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 1021,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 680,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198884538929143800,
+					"id_str": "1198884538929143809",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNLIt2UYAEQXrY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNLIt2UYAEQXrY.jpg",
+					"url": "https://t.co/u8Ip5gbdGS",
+					"display_url": "pic.twitter.com/u8Ip5gbdGS",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1198889057318850560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1198884539038191600,
+					"id_str": "1198884539038191616",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNLIuQUUAAyxXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNLIuQUUAAyxXY.jpg",
+					"url": "https://t.co/u8Ip5gbdGS",
+					"display_url": "pic.twitter.com/u8Ip5gbdGS",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1198889057318850560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 557,
+									"y": 667,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 527,
+									"y": 1362,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 857,
+									"y": 1369,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 455,
+									"y": 263,
+									"h": 311,
+									"w": 311
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 444,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 351,
+									"y": 908,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 571,
+									"y": 912,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 303,
+									"y": 175,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 210,
+									"y": 251,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 198,
+									"y": 514,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 323,
+									"y": 516,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 171,
+									"y": 99,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 557,
+									"y": 667,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 527,
+									"y": 1362,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 857,
+									"y": 1369,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 455,
+									"y": 263,
+									"h": 311,
+									"w": 311
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198884539055034400,
+					"id_str": "1198884539055034368",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNLIuUVUAAg7si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNLIuUVUAAg7si.jpg",
+					"url": "https://t.co/u8Ip5gbdGS",
+					"display_url": "pic.twitter.com/u8Ip5gbdGS",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1198889057318850560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 827,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 460,
+									"y": 762,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 280,
+									"y": 198,
+									"h": 221,
+									"w": 221
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 921,
+									"y": 1241,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 690,
+									"y": 1144,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 420,
+									"y": 297,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 921,
+									"y": 1241,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 690,
+									"y": 1144,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 420,
+									"y": 297,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 347,
+									"y": 468,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 260,
+									"y": 431,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 158,
+									"y": 112,
+									"h": 125,
+									"w": 125
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1056454208268906500,
+			"id_str": "1056454208268906496",
+			"name": "6시 내고원",
+			"screen_name": "My_Gowon",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5575,
+			"friends_count": 0,
+			"listed_count": 837,
+			"created_at": "Sun Oct 28 07:54:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112733736867528705/Nimx6FQS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112733736867528705/Nimx6FQS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056454208268906496/1569934873",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 802,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191124 고원\n\nhttps://t.co/5ZQz4tkmS8\nhttps://t.co/qns2dYfgsZ\nhttps://t.co/jjsVQN5ruk\nhttps://t.co/RIAsDWQbdy\n\n#이달의소녀 #LOONA #고원 #GoWon https://t.co/u8Ip5gbdGS"
+	},
+	{
+		"created_at": "Thu Nov 28 07:31:21 +0000 2019",
+		"id": 1199692210096099300,
+		"id_str": "1199953911991267329",
+		"full_text": "191127 🦢 #이브 #Yves \n#이달의소녀 #LOONA \n기야워서 올립니당👋 아츄 https://t.co/EVaCttS4PN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199692009729974300,
+					"id_str": "1199692009729974275",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199692009729974275/pu/img/9b9A4xzWLwaKY1X6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199692009729974275/pu/img/9b9A4xzWLwaKY1X6.jpg",
+					"url": "https://t.co/EVaCttS4PN",
+					"display_url": "pic.twitter.com/EVaCttS4PN",
+					"expanded_url": "https://twitter.com/WS_yves/status/1199692210096099328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199692009729974300,
+					"id_str": "1199692009729974275",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199692009729974275/pu/img/9b9A4xzWLwaKY1X6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199692009729974275/pu/img/9b9A4xzWLwaKY1X6.jpg",
+					"url": "https://t.co/EVaCttS4PN",
+					"display_url": "pic.twitter.com/EVaCttS4PN",
+					"expanded_url": "https://twitter.com/WS_yves/status/1199692210096099328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44833,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199692009729974275/pu/vid/480x480/IYysWNQSI1AfHRHv.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1199692009729974275/pu/pl/hpQLSRmp0OJ7s03s.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199692009729974275/pu/vid/720x720/Njvdgy_fwXY_gIzp.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199692009729974275/pu/vid/320x320/NV8F8pRygmvLmrS3.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038939772335534100,
+			"id_str": "1038939772335534080",
+			"name": "white swan",
+			"screen_name": "WS_yves",
+			"location": "니가젤조아니가젤예뻐하수영💕",
+			"description": "#이브 #이달의소녀 #Yves #LOONA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9905,
+			"friends_count": 2,
+			"listed_count": 1158,
+			"created_at": "Sun Sep 09 23:58:39 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112732431503679488/0lh0sV_Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112732431503679488/0lh0sV_Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038939772335534080/1554131070",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 1290,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191127 🦢 #이브 #Yves \n#이달의소녀 #LOONA \n기야워서 올립니당👋 아츄 https://t.co/EVaCttS4PN"
+	},
+	{
 		"created_at": "Thu Nov 14 12:48:13 +0000 2019",
 		"id": 1194960223905230800,
 		"id_str": "1194960223905230849",
