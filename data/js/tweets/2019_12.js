@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 21:47:06 +0000 2019",
+		"id": 1205533463501267000,
+		"id_str": "1205605087118147584",
+		"full_text": "LOOΠΔ Stan-ding at the Top of the Charts: Hours after its release even with the New Music Friday releases, LOOΠΔ (@loonatheworld)'s new ballad \"365\" is No. 1 on U.S. @iTunes Top Songs chart! Earlier this year, the #Kpop girl group hit No. 1 on Top Albums!\n\nhttps://t.co/KCuDiubhE7 https://t.co/tjHuAhxt7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kpop",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"screen_name": "iTunes",
+					"name": "iTunes",
+					"id": 66515223,
+					"id_str": "66515223",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KCuDiubhE7",
+					"expanded_url": "https://music.apple.com/us/album/365-single/1491456577",
+					"display_url": "music.apple.com/us/album/365-s…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205533458166104000,
+					"id_str": "1205533458166104064",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ELrqSwLWwAAg8xr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELrqSwLWwAAg8xr.jpg",
+					"url": "https://t.co/tjHuAhxt7y",
+					"display_url": "pic.twitter.com/tjHuAhxt7y",
+					"expanded_url": "https://twitter.com/Jeff__Benjamin/status/1205533463501266944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 975,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 132,
+									"y": 821,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 530,
+									"y": 13,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 12,
+									"y": 924,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 107,
+									"y": 44,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 723,
+									"y": 270,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 790,
+									"y": 807,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 799,
+									"y": 535,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 975,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 132,
+									"y": 821,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 530,
+									"y": 13,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 12,
+									"y": 924,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 107,
+									"y": 44,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 723,
+									"y": 270,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 790,
+									"y": 807,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 799,
+									"y": 535,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 975,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 132,
+									"y": 821,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 530,
+									"y": 13,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 12,
+									"y": 924,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 107,
+									"y": 44,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 723,
+									"y": 270,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 790,
+									"y": 807,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 799,
+									"y": 535,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 647,
+									"y": 109,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 87,
+									"y": 545,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 351,
+									"y": 8,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 7,
+									"y": 613,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 71,
+									"y": 29,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 480,
+									"y": 179,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 524,
+									"y": 535,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 530,
+									"y": 355,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205533458166104000,
+					"id_str": "1205533458166104064",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ELrqSwLWwAAg8xr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELrqSwLWwAAg8xr.jpg",
+					"url": "https://t.co/tjHuAhxt7y",
+					"display_url": "pic.twitter.com/tjHuAhxt7y",
+					"expanded_url": "https://twitter.com/Jeff__Benjamin/status/1205533463501266944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 975,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 132,
+									"y": 821,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 530,
+									"y": 13,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 12,
+									"y": 924,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 107,
+									"y": 44,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 723,
+									"y": 270,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 790,
+									"y": 807,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 799,
+									"y": 535,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 975,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 132,
+									"y": 821,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 530,
+									"y": 13,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 12,
+									"y": 924,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 107,
+									"y": 44,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 723,
+									"y": 270,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 790,
+									"y": 807,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 799,
+									"y": 535,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 975,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 132,
+									"y": 821,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 530,
+									"y": 13,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 12,
+									"y": 924,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 107,
+									"y": 44,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 723,
+									"y": 270,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 790,
+									"y": 807,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 799,
+									"y": 535,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 647,
+									"y": 109,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 87,
+									"y": 545,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 351,
+									"y": 8,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 7,
+									"y": 613,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 71,
+									"y": 29,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 480,
+									"y": 179,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 524,
+									"y": 535,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 530,
+									"y": 355,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205533458157785000,
+					"id_str": "1205533458157785088",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ELrqSwJX0AA8i_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELrqSwJX0AA8i_q.jpg",
+					"url": "https://t.co/tjHuAhxt7y",
+					"display_url": "pic.twitter.com/tjHuAhxt7y",
+					"expanded_url": "https://twitter.com/Jeff__Benjamin/status/1205533463501266944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 597,
+							"h": 1301,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 312,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 551,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 781,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 781,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 54,
+									"y": 408,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 720,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21621886,
+			"id_str": "21621886",
+			"name": "Jeff Benjamin",
+			"screen_name": "Jeff__Benjamin",
+			"location": "New York, NY",
+			"description": "K-Pop Columnist @Billboard|Correspondent @KBSWorldWeKPop|Words @NYTimes @RollingStone @TeenVogue @GQmagazine @Forbes @PaperMagazine|JeffBenjaminWrites@gmail.com",
+			"url": "https://t.co/5gr4jyft7I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5gr4jyft7I",
+							"expanded_url": "http://instagram.com/Jeff__Benjamin",
+							"display_url": "instagram.com/Jeff__Benjamin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136339,
+			"friends_count": 2354,
+			"listed_count": 973,
+			"created_at": "Mon Feb 23 02:01:05 +0000 2009",
+			"favourites_count": 33931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205261520411779073/yy5CfPNJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205261520411779073/yy5CfPNJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21621886/1401327802",
+			"profile_link_color": "18BEC4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 1205,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOOΠΔ Stan-ding at the Top of the Charts: Hours after its release even with the New Music Friday releases, LOOΠΔ (@loonatheworld)'s new ballad \"365\" is No. 1 on U.S. @iTunes Top Songs chart! Earlier this year, the #Kpop girl group hit No. 1 on Top Albums!\n\nhttps://t.co/KCuDiubhE7 https://t.co/tjHuAhxt7y"
+	},
+	{
 		"created_at": "Fri Dec 06 01:47:46 +0000 2019",
 		"id": 1201190251244339200,
 		"id_str": "1202766548164730882",
