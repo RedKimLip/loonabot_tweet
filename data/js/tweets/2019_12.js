@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 08:38:09 +0000 2019",
+		"id": 1205748792214950000,
+		"id_str": "1205768928988782593",
+		"full_text": "컴백이다 곧 https://t.co/PYYvWWjZds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205748611360837600,
+					"id_str": "1205748611360837632",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205748611360837632/pu/img/OxnKIaPIkRz7il98.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205748611360837632/pu/img/OxnKIaPIkRz7il98.jpg",
+					"url": "https://t.co/PYYvWWjZds",
+					"display_url": "pic.twitter.com/PYYvWWjZds",
+					"expanded_url": "https://twitter.com/loveonlymotion/status/1205748792214949888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205748611360837600,
+					"id_str": "1205748611360837632",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205748611360837632/pu/img/OxnKIaPIkRz7il98.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205748611360837632/pu/img/OxnKIaPIkRz7il98.jpg",
+					"url": "https://t.co/PYYvWWjZds",
+					"display_url": "pic.twitter.com/PYYvWWjZds",
+					"expanded_url": "https://twitter.com/loveonlymotion/status/1205748792214949888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 39222,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205748611360837632/pu/vid/720x1280/Qwflcg8KtodXLuRl.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205748611360837632/pu/vid/360x640/yulBepUEIjF1L61t.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205748611360837632/pu/vid/320x568/c2mKYDgho8V8vhYW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1205748611360837632/pu/pl/-r0afMEeRhh8OfjA.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1199175365316362200,
+			"id_str": "1199175365316362240",
+			"name": "쥬콩",
+			"screen_name": "loveonlymotion",
+			"location": "🦋",
+			"description": "콩쥬님 ᙏ̤̫ ♡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 61,
+			"listed_count": 10,
+			"created_at": "Tue Nov 26 03:57:53 +0000 2019",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201890613680934912/x8uI1qCV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201890613680934912/x8uI1qCV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199175365316362240/1574740863",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1576,
+		"favorite_count": 2103,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴백이다 곧 https://t.co/PYYvWWjZds"
+	},
+	{
 		"created_at": "Fri Dec 13 21:47:06 +0000 2019",
 		"id": 1205533463501267000,
 		"id_str": "1205605087118147584",
