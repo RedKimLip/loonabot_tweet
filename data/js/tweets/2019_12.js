@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 09:01:27 +0000 2019",
+		"id": 1206127467414507500,
+		"id_str": "1206137178733957120",
+		"full_text": "191214 '365'\n4K full ver📹 https://t.co/gYk1MfHRv9\n#이달의소녀 #LOONA #츄 #Chuu #김지우 https://t.co/md7deCYrxC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						64,
+						66
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						73,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gYk1MfHRv9",
+					"expanded_url": "https://www.youtube.com/watch?v=d2sQP9tvQ2U&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=d2sQP9…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206127131660411000,
+					"id_str": "1206127131660410881",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206127131660410881/pu/img/FliZqnW4nJ9pKNyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206127131660410881/pu/img/FliZqnW4nJ9pKNyb.jpg",
+					"url": "https://t.co/md7deCYrxC",
+					"display_url": "pic.twitter.com/md7deCYrxC",
+					"expanded_url": "https://twitter.com/peachcream_chuu/status/1206127467414507521/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206127131660411000,
+					"id_str": "1206127131660410881",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206127131660410881/pu/img/FliZqnW4nJ9pKNyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206127131660410881/pu/img/FliZqnW4nJ9pKNyb.jpg",
+					"url": "https://t.co/md7deCYrxC",
+					"display_url": "pic.twitter.com/md7deCYrxC",
+					"expanded_url": "https://twitter.com/peachcream_chuu/status/1206127467414507521/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 123156,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1206127131660410881/pu/pl/AUzCoKRI3YEh4Xuc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206127131660410881/pu/vid/480x480/DKV7YZal2B3LjjfO.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206127131660410881/pu/vid/320x320/eI4VWZg-2PbV4PQh.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206127131660410881/pu/vid/720x720/2m6OCGKfbEN9iCVi.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941556432121425900,
+			"id_str": "941556432121425920",
+			"name": "peach and cream 🍑",
+			"screen_name": "peachcream_chuu",
+			"location": "HQ / CAM = 💗",
+			"description": "#이달의소녀 #츄  피치앤크림 🍑",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18089,
+			"friends_count": 4,
+			"listed_count": 2016,
+			"created_at": "Fri Dec 15 06:32:01 +0000 2017",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118147440497106944/QMUHQ_Bn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118147440497106944/QMUHQ_Bn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941556432121425920/1514961396",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "191214 '365'\n4K full ver📹 https://t.co/gYk1MfHRv9\n#이달의소녀 #LOONA #츄 #Chuu #김지우 https://t.co/md7deCYrxC"
+	},
+	{
+		"created_at": "Sun Dec 15 08:23:41 +0000 2019",
+		"id": 1206113940628881400,
+		"id_str": "1206127674722177025",
+		"full_text": "191214 'Heart Attack'\n4K full ver📹 https://t.co/ccqyLsdhKq\n#이달의소녀 #LOONA #츄 #Chuu #김지우 https://t.co/fJw3cBnxR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						73,
+						75
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ccqyLsdhKq",
+					"expanded_url": "https://www.youtube.com/watch?v=lmWFZYDNq5I&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=lmWFZY…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206113373357662200,
+					"id_str": "1206113373357662209",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206113373357662209/pu/img/nirEpl11PphpUNRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206113373357662209/pu/img/nirEpl11PphpUNRM.jpg",
+					"url": "https://t.co/fJw3cBnxR5",
+					"display_url": "pic.twitter.com/fJw3cBnxR5",
+					"expanded_url": "https://twitter.com/peachcream_chuu/status/1206113940628881408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206113373357662200,
+					"id_str": "1206113373357662209",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206113373357662209/pu/img/nirEpl11PphpUNRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206113373357662209/pu/img/nirEpl11PphpUNRM.jpg",
+					"url": "https://t.co/fJw3cBnxR5",
+					"display_url": "pic.twitter.com/fJw3cBnxR5",
+					"expanded_url": "https://twitter.com/peachcream_chuu/status/1206113940628881408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 75342,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1206113373357662209/pu/pl/MuGSYB6jOc0FD6tW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206113373357662209/pu/vid/480x480/XHOkFsJ0AEjSKmBP.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206113373357662209/pu/vid/320x320/Cfq6okODfk71pDWG.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206113373357662209/pu/vid/720x720/KPGh8odEFdjaIaIU.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941556432121425900,
+			"id_str": "941556432121425920",
+			"name": "peach and cream 🍑",
+			"screen_name": "peachcream_chuu",
+			"location": "HQ / CAM = 💗",
+			"description": "#이달의소녀 #츄  피치앤크림 🍑",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18089,
+			"friends_count": 4,
+			"listed_count": 2016,
+			"created_at": "Fri Dec 15 06:32:01 +0000 2017",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118147440497106944/QMUHQ_Bn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118147440497106944/QMUHQ_Bn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941556432121425920/1514961396",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 629,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "191214 'Heart Attack'\n4K full ver📹 https://t.co/ccqyLsdhKq\n#이달의소녀 #LOONA #츄 #Chuu #김지우 https://t.co/fJw3cBnxR5"
+	},
+	{
 		"created_at": "Sun Dec 15 04:02:35 +0000 2019",
 		"id": 1205862903443640300,
 		"id_str": "1206061967334502401",
