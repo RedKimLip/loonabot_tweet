@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 20:19:26 +0000 2019",
+		"id": 1206777003765973000,
+		"id_str": "1208119738632568832",
+		"full_text": "191214 Colors cam\n#츄 #이달의소녀 #LOONA #chuu #김지우\n\n🎥https://t.co/nVE4q9Yn15 https://t.co/IlYcHh3GYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						18,
+						20
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "chuu",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						41,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nVE4q9Yn15",
+					"expanded_url": "https://youtu.be/HZQ0hyM0yxA",
+					"display_url": "youtu.be/HZQ0hyM0yxA",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206776740837675000,
+					"id_str": "1206776740837675010",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206776740837675010/pu/img/ZRzCgW8AYTEBaeKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206776740837675010/pu/img/ZRzCgW8AYTEBaeKv.jpg",
+					"url": "https://t.co/IlYcHh3GYX",
+					"display_url": "pic.twitter.com/IlYcHh3GYX",
+					"expanded_url": "https://twitter.com/locomotion__/status/1206777003765972992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206776740837675000,
+					"id_str": "1206776740837675010",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206776740837675010/pu/img/ZRzCgW8AYTEBaeKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206776740837675010/pu/img/ZRzCgW8AYTEBaeKv.jpg",
+					"url": "https://t.co/IlYcHh3GYX",
+					"display_url": "pic.twitter.com/IlYcHh3GYX",
+					"expanded_url": "https://twitter.com/locomotion__/status/1206777003765972992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22022,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206776740837675010/pu/vid/720x720/Kg2ajI42UxfWGwZM.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206776740837675010/pu/vid/320x320/zGDpF16ACMuzB7SA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1206776740837675010/pu/pl/oHlR8dlqGquSoQ5u.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206776740837675010/pu/vid/480x480/p9tUO-g3bxQ_JoMK.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 952211063960776700,
+			"id_str": "952211063960776704",
+			"name": "locomotion🌙",
+			"screen_name": "locomotion__",
+			"location": "",
+			"description": "강하쥐 자랑 계정 #이달의소녀 #츄",
+			"url": "https://t.co/PVOOWnU8QN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PVOOWnU8QN",
+							"expanded_url": "http://locomotion1020.tistory.com",
+							"display_url": "locomotion1020.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31059,
+			"friends_count": 2,
+			"listed_count": 2402,
+			"created_at": "Sat Jan 13 16:09:43 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952375452550623232/ytLzsoby_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952375452550623232/ytLzsoby_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/952211063960776704/1515898091",
+			"profile_link_color": "D81C3F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 1805,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "191214 Colors cam\n#츄 #이달의소녀 #LOONA #chuu #김지우\n\n🎥https://t.co/nVE4q9Yn15 https://t.co/IlYcHh3GYX"
+	},
+	{
 		"created_at": "Fri Dec 20 16:52:23 +0000 2019",
 		"id": 1206897898648064000,
 		"id_str": "1208067634027208707",
@@ -2517,7 +2772,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Fri Dec 20 16:49:47 +0000 2019",
 		"id": 1206968444094009300,
 		"id_str": "1208066980361560072",
-		"full_text": "191216 ⚾️🧖‍♀️ \n\n#이달의소녀 #LOONA #츄 #Chuu \n@loonatheworld\n\n🔗 https://t.co/yKrFjoMcqT https://t.co/tdAb49ybQS",
+		"full_text": "191216 ⚾️🧖♀️ \n\n#이달의소녀 #LOONA #츄 #Chuu \n@loonatheworld\n\n🔗 https://t.co/yKrFjoMcqT https://t.co/tdAb49ybQS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2739,7 +2994,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "191216 ⚾️🧖‍♀️ \n\n#이달의소녀 #LOONA #츄 #Chuu \n@loonatheworld\n\n🔗 https://t.co/yKrFjoMcqT https://t.co/tdAb49ybQS"
+		"text": "191216 ⚾️🧖♀️ \n\n#이달의소녀 #LOONA #츄 #Chuu \n@loonatheworld\n\n🔗 https://t.co/yKrFjoMcqT https://t.co/tdAb49ybQS"
 	},
 	{
 		"created_at": "Fri Dec 20 16:49:27 +0000 2019",
@@ -3456,7 +3711,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Fri Dec 20 16:49:17 +0000 2019",
 		"id": 1207072235720036400,
 		"id_str": "1208066854272393220",
-		"full_text": "191216\n\n천천히, 천천히 혜 🚶🏻‍♀️🚶🏻‍♀️\n#올리비아혜 #손혜주 #OliviaHye #이달의소녀 #LOONA https://t.co/eqF7H8nXs6",
+		"full_text": "191216\n\n천천히, 천천히 혜 🚶🏻♀️🚶🏻♀️\n#올리비아혜 #손혜주 #OliviaHye #이달의소녀 #LOONA https://t.co/eqF7H8nXs6",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -3989,7 +4244,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "191216\n\n천천히, 천천히 혜 🚶🏻‍♀️🚶🏻‍♀️\n#올리비아혜 #손혜주 #OliviaHye #이달의소녀 #LOONA https://t.co/eqF7H8nXs6"
+		"text": "191216\n\n천천히, 천천히 혜 🚶🏻♀️🚶🏻♀️\n#올리비아혜 #손혜주 #OliviaHye #이달의소녀 #LOONA https://t.co/eqF7H8nXs6"
 	},
 	{
 		"created_at": "Fri Dec 20 16:48:51 +0000 2019",
