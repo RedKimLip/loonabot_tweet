@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 19:45:07 +0000 2019",
+		"id": 1208271343969423400,
+		"id_str": "1208473491776753665",
+		"full_text": "우리 아이돌에게 보내는 응원의 메시지 영상을 찍어 withyou.show@gmail.com로 메일 전송 또는 SNS에 해시태그 #쇼챔피언위드유 와 함께 올려주세요! (*해당영상은 &lt;쇼챔피언&gt;방송으로 송출 될 수 있습니다.) https://t.co/5hZjroPdso",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언위드유",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208271267163324400,
+					"id_str": "1208271267163324416",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208271267163324416/pu/img/Ql_kcOdTRvop5QrG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208271267163324416/pu/img/Ql_kcOdTRvop5QrG.jpg",
+					"url": "https://t.co/5hZjroPdso",
+					"display_url": "pic.twitter.com/5hZjroPdso",
+					"expanded_url": "https://twitter.com/showchampion1/status/1208271343969423360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208271267163324400,
+					"id_str": "1208271267163324416",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208271267163324416/pu/img/Ql_kcOdTRvop5QrG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208271267163324416/pu/img/Ql_kcOdTRvop5QrG.jpg",
+					"url": "https://t.co/5hZjroPdso",
+					"display_url": "pic.twitter.com/5hZjroPdso",
+					"expanded_url": "https://twitter.com/showchampion1/status/1208271343969423360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 94000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208271267163324416/pu/vid/854x480/WzpfnggH_v1cmo2g.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208271267163324416/pu/vid/640x360/0Efy5mrRMTdcNmKT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1208271267163324416/pu/pl/gPL5xXbTqrkVuDTj.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208271267163324416/pu/vid/480x270/UM9yzyuedaZ_n9En.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC MUSIC 쇼챔피언 매주 수요일 저녁 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/kg7On1VCNH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kg7On1VCNH",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105294,
+			"friends_count": 1431,
+			"listed_count": 2572,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 아이돌에게 보내는 응원의 메시지 영상을 찍어 withyou.show@gmail.com로 메일 전송 또는 SNS에 해시태그 #쇼챔피언위드유 와 함께 올려주세요! (*해당영상은 &lt;쇼챔피언&gt;방송으로 송출 될 수 있습니다.) https://t.co/5hZjroPdso"
+	},
+	{
 		"created_at": "Fri Dec 20 20:19:26 +0000 2019",
 		"id": 1206777003765973000,
 		"id_str": "1208119738632568832",
