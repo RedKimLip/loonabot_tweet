@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 21:42:31 +0000 2019",
+		"id": 1209227811220668400,
+		"id_str": "1209227811220668417",
+		"full_text": "#Form_of_Therapy\nDEEP DIVE: LOONA\nhttps://t.co/95TqfTPqHC\n#이달의소녀 #LOONA #이달소\n#마이뮤직테이스트 #MyMusicTaste",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Form_of_Therapy",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "마이뮤직테이스트",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/95TqfTPqHC",
+					"expanded_url": "https://youtu.be/ZAehBkUUnnA",
+					"display_url": "youtu.be/ZAehBkUUnnA",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027943210419548200,
+			"id_str": "1027943210419548161",
+			"name": "레드립 💋",
+			"screen_name": "redkimlip",
+			"location": "",
+			"description": "#이달의소녀 #LOONA @loonatheworld \n#김립 #KimLip\n\n📧 E-mail : redkimlip@gmail.com\n\n이달의 소녀 봇 @loonabot 관리자",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 121,
+			"listed_count": 0,
+			"created_at": "Fri Aug 10 15:42:14 +0000 2018",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027943210419548161/1573886512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Form_of_Therapy\nDEEP DIVE: LOONA\nhttps://t.co/95TqfTPqHC\n#이달의소녀 #LOONA #이달소\n#마이뮤직테이스트 #MyMusicTaste"
+	},
+	{
 		"created_at": "Sun Dec 22 23:34:39 +0000 2019",
 		"id": 1208893643085336600,
 		"id_str": "1208893643085336576",
