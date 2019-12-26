@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 17:08:35 +0000 2019",
+		"id": 1210194159652356000,
+		"id_str": "1210246038352613376",
+		"full_text": "The love which is lighted by mind of us, this is ECLIPSE. Fanart for @loonatheworld .Photo reference source cr: @liptight1019  #LOONA #이달의소녀 #BURN #ECLIPSE #BUTTERFLY #STANLOONA #HEEJIN #HYUNJIN #HASEUL #YEOJIN #VIVI #JINSOUL #KIMLIP #CHOERRY #YVES #CHUU #GOWON #OLIVIAHYE https://t.co/1O8B9EPaAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "BURN",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "ECLIPSE",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "BUTTERFLY",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "STANLOONA",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "HEEJIN",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "HYUNJIN",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "HASEUL",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "YEOJIN",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"text": "VIVI",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "JINSOUL",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "KIMLIP",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"text": "CHOERRY",
+					"indices": [
+						234,
+						242
+					]
+				},
+				{
+					"text": "YVES",
+					"indices": [
+						243,
+						248
+					]
+				},
+				{
+					"text": "CHUU",
+					"indices": [
+						249,
+						254
+					]
+				},
+				{
+					"text": "GOWON",
+					"indices": [
+						255,
+						261
+					]
+				},
+				{
+					"text": "OLIVIAHYE",
+					"indices": [
+						262,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"screen_name": "liptight1019",
+					"name": "LIPTIGHT",
+					"id": 1015573106230943700,
+					"id_str": "1015573106230943744",
+					"indices": [
+						112,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1210193692234895400,
+					"id_str": "1210193692234895362",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EMt4wE8UUAIi-qK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMt4wE8UUAIi-qK.jpg",
+					"url": "https://t.co/1O8B9EPaAT",
+					"display_url": "pic.twitter.com/1O8B9EPaAT",
+					"expanded_url": "https://twitter.com/blubetta_/status/1210194159652356096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210193692234895400,
+					"id_str": "1210193692234895362",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EMt4wE8UUAIi-qK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMt4wE8UUAIi-qK.jpg",
+					"url": "https://t.co/1O8B9EPaAT",
+					"display_url": "pic.twitter.com/1O8B9EPaAT",
+					"expanded_url": "https://twitter.com/blubetta_/status/1210194159652356096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1210193695821029400,
+					"id_str": "1210193695821029376",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EMt4wSTUYAAFxoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMt4wSTUYAAFxoL.jpg",
+					"url": "https://t.co/1O8B9EPaAT",
+					"display_url": "pic.twitter.com/1O8B9EPaAT",
+					"expanded_url": "https://twitter.com/blubetta_/status/1210194159652356096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738350918890987500,
+			"id_str": "738350918890987521",
+			"name": "Azka Fisyah",
+			"screen_name": "blubetta_",
+			"location": "",
+			"description": "odd yyxy circle",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 02 12:45:51 +0000 2016",
+			"favourites_count": 1343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206538943178493952/3e_ggXXR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206538943178493952/3e_ggXXR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738350918890987521/1576588750",
+			"profile_link_color": "393E46",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 432,
+		"favorite_count": 745,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The love which is lighted by mind of us, this is ECLIPSE. Fanart for @loonatheworld .Photo reference source cr: @liptight1019  #LOONA #이달의소녀 #BURN #ECLIPSE #BUTTERFLY #STANLOONA #HEEJIN #HYUNJIN #HASEUL #YEOJIN #VIVI #JINSOUL #KIMLIP #CHOERRY #YVES #CHUU #GOWON #OLIVIAHYE https://t.co/1O8B9EPaAT"
+	},
+	{
 		"created_at": "Thu Dec 26 15:43:20 +0000 2019",
 		"id": 1210224583531348000,
 		"id_str": "1210224583531347968",
