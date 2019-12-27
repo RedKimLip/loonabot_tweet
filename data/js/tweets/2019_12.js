@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 27 00:32:06 +0000 2019",
+		"id": 1210357654347866000,
+		"id_str": "1210357654347866112",
+		"full_text": "#LOONA_CF #스쿨룩스\n스쿨룩스 동복 찐 후기! 교복장인 스쿨룩스의 신상동복 언박싱♥ (feat. 이달의 소녀)\nhttps://t.co/mtxKyEp2zu\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_CF",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "스쿨룩스",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mtxKyEp2zu",
+					"expanded_url": "https://youtu.be/YotBQzlx8Ps",
+					"display_url": "youtu.be/YotBQzlx8Ps",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027943210419548200,
+			"id_str": "1027943210419548161",
+			"name": "레드립 💋",
+			"screen_name": "redkimlip",
+			"location": "",
+			"description": "#이달의소녀 #LOONA @loonatheworld \n#김립 #KimLip\n\n📧 E-mail : redkimlip@gmail.com\n\n이달의 소녀 봇 @loonabot 관리자",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 120,
+			"listed_count": 1,
+			"created_at": "Fri Aug 10 15:42:14 +0000 2018",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027943210419548161/1573886512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_CF #스쿨룩스\n스쿨룩스 동복 찐 후기! 교복장인 스쿨룩스의 신상동복 언박싱♥ (feat. 이달의 소녀)\nhttps://t.co/mtxKyEp2zu\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Fri Dec 27 00:30:35 +0000 2019",
+		"id": 1210357272821428200,
+		"id_str": "1210357272821428225",
+		"full_text": "#LOONA_CF #스쿨룩스\n예쁜교복 스쿨룩스의 교복 바지 입은 이달의 소녀♡ 메이킹 영상 전.격.공.개 I SKOOLOOKS Making Film with LOONA\nhttps://t.co/Y90rcLoliQ\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_CF",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "스쿨룩스",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y90rcLoliQ",
+					"expanded_url": "https://youtu.be/j7TILPoiffQ",
+					"display_url": "youtu.be/j7TILPoiffQ",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027943210419548200,
+			"id_str": "1027943210419548161",
+			"name": "레드립 💋",
+			"screen_name": "redkimlip",
+			"location": "",
+			"description": "#이달의소녀 #LOONA @loonatheworld \n#김립 #KimLip\n\n📧 E-mail : redkimlip@gmail.com\n\n이달의 소녀 봇 @loonabot 관리자",
+			"url": "https://t.co/QynukFehbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QynukFehbM",
+							"expanded_url": "http://t.me/loonatheworld",
+							"display_url": "t.me/loonatheworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 120,
+			"listed_count": 1,
+			"created_at": "Fri Aug 10 15:42:14 +0000 2018",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027943210419548161/1573886512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA_CF #스쿨룩스\n예쁜교복 스쿨룩스의 교복 바지 입은 이달의 소녀♡ 메이킹 영상 전.격.공.개 I SKOOLOOKS Making Film with LOONA\nhttps://t.co/Y90rcLoliQ\n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Thu Dec 26 17:08:35 +0000 2019",
 		"id": 1210194159652356000,
 		"id_str": "1210246038352613376",
