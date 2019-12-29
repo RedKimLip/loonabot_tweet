@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 29 20:37:13 +0000 2019",
+		"id": 1211295533626777600,
+		"id_str": "1211385705558990848",
+		"full_text": "good morning to happy hyejoo only\nhttps://t.co/QdNodDeyT4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208661534710173700,
+					"id_str": "1208661534710173696",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208661534710173696/pu/img/0oD1FpPn_U3E8726.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208661534710173696/pu/img/0oD1FpPn_U3E8726.jpg",
+					"url": "https://t.co/QdNodDeyT4",
+					"display_url": "pic.twitter.com/QdNodDeyT4",
+					"expanded_url": "https://twitter.com/loonatheworld_a/status/1208661727094525953/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1208661727094526000,
+					"source_status_id_str": "1208661727094525953",
+					"source_user_id": 1200257873189564400,
+					"source_user_id_str": "1200257873189564416",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208661534710173700,
+					"id_str": "1208661534710173696",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208661534710173696/pu/img/0oD1FpPn_U3E8726.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208661534710173696/pu/img/0oD1FpPn_U3E8726.jpg",
+					"url": "https://t.co/QdNodDeyT4",
+					"display_url": "pic.twitter.com/QdNodDeyT4",
+					"expanded_url": "https://twitter.com/loonatheworld_a/status/1208661727094525953/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1208661727094526000,
+					"source_status_id_str": "1208661727094525953",
+					"source_user_id": 1200257873189564400,
+					"source_user_id_str": "1200257873189564416",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51467,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208661534710173696/pu/vid/320x320/cN32sxlBCe73fnQJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1208661534710173696/pu/pl/WoS6pJPaOfPZg2_-.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208661534710173696/pu/vid/480x480/a6dpd1OiT02FT48r.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208661534710173696/pu/vid/640x640/kE-JUQyeQYMDtcPd.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1200257873189564400,
+							"id_str": "1200257873189564416",
+							"name": "이달소 아카이브",
+							"screen_name": "loonatheworld_a",
+							"location": "삭제한 트윗중 보고 싶으신게 있으시다면 디엠 주세용 ",
+							"description": "공주님들 fan account",
+							"url": "https://t.co/h7YkJjLo81",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/h7YkJjLo81",
+											"expanded_url": "http://asked.kr/loonatheworld_a",
+											"display_url": "asked.kr/loonatheworld_a",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 785,
+							"friends_count": 0,
+							"listed_count": 5,
+							"created_at": "Fri Nov 29 03:39:20 +0000 2019",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 44,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1200781499131318277/Oaoddn-l_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200781499131318277/Oaoddn-l_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880195321225150500,
+			"id_str": "880195321225150465",
+			"name": "cΔsker³⁶⁵ 🍫",
+			"screen_name": "caskerbox",
+			"location": "United States",
+			"description": "for LOOΠΔ | Δrts & translations | fan acc | team @gointosubbit |\n#이달의소녀 @loonatheworld | header ©uuhc_",
+			"url": "https://t.co/pUCGcNDMbY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pUCGcNDMbY",
+							"expanded_url": "https://www.youtube.com/c/caskerbox",
+							"display_url": "youtube.com/c/caskerbox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33801,
+			"friends_count": 165,
+			"listed_count": 634,
+			"created_at": "Wed Jun 28 22:44:52 +0000 2017",
+			"favourites_count": 17528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167086849673900033/ClZWZ6w2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167086849673900033/ClZWZ6w2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880195321225150465/1575989808",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 429,
+		"favorite_count": 1476,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "good morning to happy hyejoo only\nhttps://t.co/QdNodDeyT4"
+	},
+	{
 		"created_at": "Fri Dec 27 00:32:06 +0000 2019",
 		"id": 1210357654347866000,
 		"id_str": "1210357654347866112",
