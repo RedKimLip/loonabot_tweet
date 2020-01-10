@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 05:01:46 +0000 2020",
+		"id": 1214753326966853600,
+		"id_str": "1215498946514018304",
+		"full_text": "200107\n#이달의소녀 #LOONA #고원 #Gowon https://t.co/WzXpepWek7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "Gowon",
+					"indices": [
+						25,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214753302144962600,
+					"id_str": "1214753302144962560",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/ENursTgVUAAO-nI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENursTgVUAAO-nI.jpg",
+					"url": "https://t.co/WzXpepWek7",
+					"display_url": "pic.twitter.com/WzXpepWek7",
+					"expanded_url": "https://twitter.com/HPIC15/status/1214753326966853634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 468,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 954,
+									"y": 87,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 458,
+									"y": 120,
+									"h": 221,
+									"w": 221
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2153,
+									"y": 1367,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 2785,
+									"y": 256,
+									"h": 608,
+									"w": 608
+								},
+								{
+									"x": 1336,
+									"y": 352,
+									"h": 645,
+									"w": 645
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1259,
+									"y": 799,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1629,
+									"y": 149,
+									"h": 355,
+									"w": 355
+								},
+								{
+									"x": 781,
+									"y": 205,
+									"h": 377,
+									"w": 377
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 265,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 541,
+									"y": 49,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 259,
+									"y": 68,
+									"h": 125,
+									"w": 125
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214753302144962600,
+					"id_str": "1214753302144962560",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/ENursTgVUAAO-nI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENursTgVUAAO-nI.jpg",
+					"url": "https://t.co/WzXpepWek7",
+					"display_url": "pic.twitter.com/WzXpepWek7",
+					"expanded_url": "https://twitter.com/HPIC15/status/1214753326966853634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 468,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 954,
+									"y": 87,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 458,
+									"y": 120,
+									"h": 221,
+									"w": 221
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2153,
+									"y": 1367,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 2785,
+									"y": 256,
+									"h": 608,
+									"w": 608
+								},
+								{
+									"x": 1336,
+									"y": 352,
+									"h": 645,
+									"w": 645
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1259,
+									"y": 799,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1629,
+									"y": 149,
+									"h": 355,
+									"w": 355
+								},
+								{
+									"x": 781,
+									"y": 205,
+									"h": 377,
+									"w": 377
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 265,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 541,
+									"y": 49,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 259,
+									"y": 68,
+									"h": 125,
+									"w": 125
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214753302140706800,
+					"id_str": "1214753302140706818",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/ENursTfUYAIMn54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENursTfUYAIMn54.jpg",
+					"url": "https://t.co/WzXpepWek7",
+					"display_url": "pic.twitter.com/WzXpepWek7",
+					"expanded_url": "https://twitter.com/HPIC15/status/1214753326966853634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 781,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1196,
+							"h": 1837,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 662,
+									"y": 828,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 126,
+									"y": 158,
+									"h": 421,
+									"w": 421
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1015,
+									"y": 1268,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 193,
+									"y": 243,
+									"h": 645,
+									"w": 645
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1015,
+									"y": 1268,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 193,
+									"y": 243,
+									"h": 645,
+									"w": 645
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 469,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 71,
+									"y": 90,
+									"h": 238,
+									"w": 238
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1178211025818013700,
+			"id_str": "1178211025818013696",
+			"name": "H.PIC",
+			"screen_name": "HPIC15",
+			"location": "🐢🐢🐢",
+			"description": "@holdergif",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339,
+			"friends_count": 0,
+			"listed_count": 58,
+			"created_at": "Sun Sep 29 07:33:02 +0000 2019",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178212198767722496/pz_rj6Nw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178212198767722496/pz_rj6Nw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1178211025818013696/1569744046",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "200107\n#이달의소녀 #LOONA #고원 #Gowon https://t.co/WzXpepWek7"
+	},
+	{
 		"created_at": "Sat Jan 04 19:29:47 +0000 2020",
 		"id": 1212303634467152000,
 		"id_str": "1213543061675888640",
