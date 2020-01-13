@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 14:07:56 +0000 2020",
+		"id": 1216403198686023700,
+		"id_str": "1216723559713660929",
+		"full_text": "190815 LA\n#희진 #이달의소녀 #HeeJin #LOONA #田姬振 #本月少女\n@loonatheworld\n\nhttps://t.co/PGQ13cKanw\nhttps://t.co/hueJawsXpm\nhttps://t.co/gjygkVSC7z https://t.co/FPnHYMCmCd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "田姬振",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "本月少女",
+					"indices": [
+						41,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PGQ13cKanw",
+					"expanded_url": "https://i.loli.net/2020/01/13/ms2Orw6ViFqC3NA.jpg",
+					"display_url": "i.loli.net/2020/01/13/ms2…",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/hueJawsXpm",
+					"expanded_url": "https://i.loli.net/2020/01/13/2xrim9PTnlbyhUo.jpg",
+					"display_url": "i.loli.net/2020/01/13/2xr…",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/gjygkVSC7z",
+					"expanded_url": "https://i.loli.net/2020/01/13/1tViFaXsYzH5nyr.jpg",
+					"display_url": "i.loli.net/2020/01/13/1tV…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216403167841120300,
+					"id_str": "1216403167841120257",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGIPILUcAE2-0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGIPILUcAE2-0I.jpg",
+					"url": "https://t.co/FPnHYMCmCd",
+					"display_url": "pic.twitter.com/FPnHYMCmCd",
+					"expanded_url": "https://twitter.com/bar_heejin/status/1216403198686023686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 144,
+									"h": 182,
+									"w": 182
+								},
+								{
+									"x": 257,
+									"y": 434,
+									"h": 260,
+									"w": 260
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 168,
+									"y": 81,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 146,
+									"y": 246,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 506,
+									"y": 246,
+									"h": 312,
+									"w": 312
+								},
+								{
+									"x": 440,
+									"y": 742,
+									"h": 444,
+									"w": 444
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 506,
+									"y": 246,
+									"h": 312,
+									"w": 312
+								},
+								{
+									"x": 440,
+									"y": 742,
+									"h": 444,
+									"w": 444
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216403167841120300,
+					"id_str": "1216403167841120257",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGIPILUcAE2-0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGIPILUcAE2-0I.jpg",
+					"url": "https://t.co/FPnHYMCmCd",
+					"display_url": "pic.twitter.com/FPnHYMCmCd",
+					"expanded_url": "https://twitter.com/bar_heejin/status/1216403198686023686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 144,
+									"h": 182,
+									"w": 182
+								},
+								{
+									"x": 257,
+									"y": 434,
+									"h": 260,
+									"w": 260
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 168,
+									"y": 81,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 146,
+									"y": 246,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 506,
+									"y": 246,
+									"h": 312,
+									"w": 312
+								},
+								{
+									"x": 440,
+									"y": 742,
+									"h": 444,
+									"w": 444
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 506,
+									"y": 246,
+									"h": 312,
+									"w": 312
+								},
+								{
+									"x": 440,
+									"y": 742,
+									"h": 444,
+									"w": 444
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1216403167849545700,
+					"id_str": "1216403167849545728",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGIPINVAAAIkbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGIPINVAAAIkbU.jpg",
+					"url": "https://t.co/FPnHYMCmCd",
+					"display_url": "pic.twitter.com/FPnHYMCmCd",
+					"expanded_url": "https://twitter.com/bar_heejin/status/1216403198686023686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 154,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 548,
+									"y": 264,
+									"h": 346,
+									"w": 346
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 548,
+									"y": 264,
+									"h": 346,
+									"w": 346
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 87,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1216403167849545700,
+					"id_str": "1216403167849545729",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGIPINVAAEyg2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGIPINVAAEyg2Q.jpg",
+					"url": "https://t.co/FPnHYMCmCd",
+					"display_url": "pic.twitter.com/FPnHYMCmCd",
+					"expanded_url": "https://twitter.com/bar_heejin/status/1216403198686023686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 90,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 540,
+									"y": 274,
+									"h": 386,
+									"w": 386
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 316,
+									"y": 160,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 540,
+									"y": 274,
+									"h": 386,
+									"w": 386
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1046751526239141900,
+			"id_str": "1046751526239141888",
+			"name": "HeeJinBar",
+			"screen_name": "bar_heejin",
+			"location": "中华人民共和国",
+			"description": "Baidu Heejin Bar from China 🐰2차가공 금지 ❌ 상업적이용 금지 ❌ 로고크롭 금지❌ 🐰 only you.",
+			"url": "https://t.co/eCHHNHwItG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eCHHNHwItG",
+							"expanded_url": "https://weibo.com/u/5345008190",
+							"display_url": "weibo.com/u/5345008190",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5713,
+			"friends_count": 22,
+			"listed_count": 820,
+			"created_at": "Mon Oct 01 13:19:46 +0000 2018",
+			"favourites_count": 422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185827884763471877/ZQQ6-815_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185827884763471877/ZQQ6-815_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1046751526239141888/1570678954",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 413,
+		"favorite_count": 886,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190815 LA\n#희진 #이달의소녀 #HeeJin #LOONA #田姬振 #本月少女\n@loonatheworld\n\nhttps://t.co/PGQ13cKanw\nhttps://t.co/hueJawsXpm\nhttps://t.co/gjygkVSC7z https://t.co/FPnHYMCmCd"
+	},
+	{
 		"created_at": "Fri Jan 10 05:01:46 +0000 2020",
 		"id": 1214753326966853600,
 		"id_str": "1215498946514018304",
