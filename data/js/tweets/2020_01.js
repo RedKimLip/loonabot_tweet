@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 01:07:05 +0000 2020",
+		"id": 1217798059536474000,
+		"id_str": "1218338988362088448",
+		"full_text": "200107\ngoodbye 금발 👋🏼👩🏼\n#고원 #Gowon #이달의소녀 #LOONA https://t.co/5Ew5AFZ6fu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "Gowon",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217798047939231700,
+					"id_str": "1217798047939231744",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZ831eVAAA_db2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZ831eVAAA_db2.jpg",
+					"url": "https://t.co/5Ew5AFZ6fu",
+					"display_url": "pic.twitter.com/5Ew5AFZ6fu",
+					"expanded_url": "https://twitter.com/LoneEden12/status/1217798059536474113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1581,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 90,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 326,
+									"h": 555,
+									"w": 555
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 317,
+									"y": 160,
+									"h": 272,
+									"w": 272
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 273,
+									"h": 465,
+									"w": 465
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217798047939231700,
+					"id_str": "1217798047939231744",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZ831eVAAA_db2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZ831eVAAA_db2.jpg",
+					"url": "https://t.co/5Ew5AFZ6fu",
+					"display_url": "pic.twitter.com/5Ew5AFZ6fu",
+					"expanded_url": "https://twitter.com/LoneEden12/status/1217798059536474113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1581,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 90,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 326,
+									"h": 555,
+									"w": 555
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 317,
+									"y": 160,
+									"h": 272,
+									"w": 272
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 273,
+									"h": 465,
+									"w": 465
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1217798047947559000,
+					"id_str": "1217798047947558913",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZ831gUEAEFW7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZ831gUEAEFW7I.jpg",
+					"url": "https://t.co/5Ew5AFZ6fu",
+					"display_url": "pic.twitter.com/5Ew5AFZ6fu",
+					"expanded_url": "https://twitter.com/LoneEden12/status/1217798059536474113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 929,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1586,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "770959712791597056",
+									"screen_name": "loonatheworld",
+									"name": "이달의 소녀(LOOΠΔ)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 191,
+									"h": 297,
+									"w": 297
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 691,
+									"y": 384,
+									"h": 595,
+									"w": 595
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 589,
+									"y": 327,
+									"h": 507,
+									"w": 507
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 195,
+									"y": 108,
+									"h": 168,
+									"w": 168
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181778014729728000,
+			"id_str": "1181778014729728000",
+			"name": "Lone Eden",
+			"screen_name": "LoneEden12",
+			"location": "❌crop, edit, repost no credit❌",
+			"description": "Lone Eden for canis morpho 🐺🦋 #이달의소녀 LOONA #올리비아혜 Olivia Hye 🎮 + #고원 Gowon 👑",
+			"url": "https://t.co/IM8bPspCUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IM8bPspCUh",
+							"expanded_url": "http://instagram.com/loneeden12",
+							"display_url": "instagram.com/loneeden12",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4277,
+			"friends_count": 2,
+			"listed_count": 453,
+			"created_at": "Wed Oct 09 03:46:59 +0000 2019",
+			"favourites_count": 148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191303551374413824/oo_B1xxt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191303551374413824/oo_B1xxt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 446,
+		"favorite_count": 1407,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200107\ngoodbye 금발 👋🏼👩🏼\n#고원 #Gowon #이달의소녀 #LOONA https://t.co/5Ew5AFZ6fu"
+	},
+	{
 		"created_at": "Sat Jan 18 01:04:15 +0000 2020",
 		"id": 1217315114434486300,
 		"id_str": "1218338278010568705",
