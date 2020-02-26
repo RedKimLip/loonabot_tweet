@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 00:52:18 +0000 2020",
+		"id": 1232348468460449800,
+		"id_str": "1232468395653619714",
+		"full_text": "200222 HQ\nShot My Heart\n#이달의소녀 #올리비아혜\n#LOONA #OliviaHye https://t.co/xfjvyubWvi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232348387585839000,
+					"id_str": "1232348387585839104",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ERouVEmUUAAcbUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERouVEmUUAAcbUj.jpg",
+					"url": "https://t.co/xfjvyubWvi",
+					"display_url": "pic.twitter.com/xfjvyubWvi",
+					"expanded_url": "https://twitter.com/Obliviate011113/status/1232348468460449792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232348387585839000,
+					"id_str": "1232348387585839104",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ERouVEmUUAAcbUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERouVEmUUAAcbUj.jpg",
+					"url": "https://t.co/xfjvyubWvi",
+					"display_url": "pic.twitter.com/xfjvyubWvi",
+					"expanded_url": "https://twitter.com/Obliviate011113/status/1232348468460449792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232348387585884200,
+					"id_str": "1232348387585884160",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ERouVEmVAAAARo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERouVEmVAAAARo9.jpg",
+					"url": "https://t.co/xfjvyubWvi",
+					"display_url": "pic.twitter.com/xfjvyubWvi",
+					"expanded_url": "https://twitter.com/Obliviate011113/status/1232348468460449792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232348387573301200,
+					"id_str": "1232348387573301249",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ERouVEjVAAEtxZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERouVEjVAAEtxZj.jpg",
+					"url": "https://t.co/xfjvyubWvi",
+					"display_url": "pic.twitter.com/xfjvyubWvi",
+					"expanded_url": "https://twitter.com/Obliviate011113/status/1232348468460449792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1202171303479795700,
+			"id_str": "1202171303479795712",
+			"name": "Obliviate",
+			"screen_name": "Obliviate011113",
+			"location": "",
+			"description": "#올리비아혜 #OliviaHye 로고크롭, 2차 가공❌",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3509,
+			"friends_count": 6,
+			"listed_count": 393,
+			"created_at": "Wed Dec 04 10:22:49 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202173681406898177/-k6ZPRDh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202173681406898177/-k6ZPRDh_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 772,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "200222 HQ\nShot My Heart\n#이달의소녀 #올리비아혜\n#LOONA #OliviaHye https://t.co/xfjvyubWvi"
+	},
+	{
+		"created_at": "Wed Feb 26 00:51:35 +0000 2020",
+		"id": 1232228742233231400,
+		"id_str": "1232468218058461184",
+		"full_text": "200222 고원\n\nhttps://t.co/HebH1Kz6pI\nhttps://t.co/OvyNNdl3m0\nhttps://t.co/39GBs9MM5U\n\n#이달의소녀 #LOONA #고원 #GoWon https://t.co/eIZO1IFU1K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						102,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HebH1Kz6pI",
+					"expanded_url": "https://bit.ly/2PoehHj",
+					"display_url": "bit.ly/2PoehHj",
+					"indices": [
+						11,
+						34
+					]
+				},
+				{
+					"url": "https://t.co/OvyNNdl3m0",
+					"expanded_url": "https://bit.ly/38XFQz2",
+					"display_url": "bit.ly/38XFQz2",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/39GBs9MM5U",
+					"expanded_url": "https://bit.ly/38UUYNG",
+					"display_url": "bit.ly/38UUYNG",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1232178902807670800,
+					"id_str": "1232178902807670784",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ERmULwmU8AAosj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERmULwmU8AAosj_.jpg",
+					"url": "https://t.co/eIZO1IFU1K",
+					"display_url": "pic.twitter.com/eIZO1IFU1K",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1232228742233231360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232178902807670800,
+					"id_str": "1232178902807670784",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ERmULwmU8AAosj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERmULwmU8AAosj_.jpg",
+					"url": "https://t.co/eIZO1IFU1K",
+					"display_url": "pic.twitter.com/eIZO1IFU1K",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1232228742233231360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232178918217568300,
+					"id_str": "1232178918217568256",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ERmUMqAVUAAJtki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERmUMqAVUAAJtki.jpg",
+					"url": "https://t.co/eIZO1IFU1K",
+					"display_url": "pic.twitter.com/eIZO1IFU1K",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1232228742233231360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232178931509284900,
+					"id_str": "1232178931509284864",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ERmUNbhU0AAeeva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERmUNbhU0AAeeva.jpg",
+					"url": "https://t.co/eIZO1IFU1K",
+					"display_url": "pic.twitter.com/eIZO1IFU1K",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1232228742233231360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1056454208268906500,
+			"id_str": "1056454208268906496",
+			"name": "6시 내고원",
+			"screen_name": "My_Gowon",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6504,
+			"friends_count": 0,
+			"listed_count": 963,
+			"created_at": "Sun Oct 28 07:54:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112733736867528705/Nimx6FQS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112733736867528705/Nimx6FQS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056454208268906496/1569934873",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 317,
+		"favorite_count": 697,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200222 고원\n\nhttps://t.co/HebH1Kz6pI\nhttps://t.co/OvyNNdl3m0\nhttps://t.co/39GBs9MM5U\n\n#이달의소녀 #LOONA #고원 #GoWon https://t.co/eIZO1IFU1K"
+	},
+	{
 		"created_at": "Tue Feb 25 21:41:27 +0000 2020",
 		"id": 1232289163241607200,
 		"id_str": "1232420369169928192",
