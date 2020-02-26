@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 02:50:43 +0000 2020",
+		"id": 1232233768292761600,
+		"id_str": "1232498196007407616",
+		"full_text": "200224 주간아이돌 녹화 수고했단다😍 #이달의소녀 #LOONA #츄 #Chuu\n@loonatheworld https://t.co/mqEawtGvBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						37,
+						39
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232233556820185000,
+					"id_str": "1232233556820185088",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ERnF5CqVUAAQyZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERnF5CqVUAAQyZm.jpg",
+					"url": "https://t.co/mqEawtGvBb",
+					"display_url": "pic.twitter.com/mqEawtGvBb",
+					"expanded_url": "https://twitter.com/peachcream_chuu/status/1232233768292761600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 1497,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232233556820185000,
+					"id_str": "1232233556820185088",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ERnF5CqVUAAQyZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERnF5CqVUAAQyZm.jpg",
+					"url": "https://t.co/mqEawtGvBb",
+					"display_url": "pic.twitter.com/mqEawtGvBb",
+					"expanded_url": "https://twitter.com/peachcream_chuu/status/1232233768292761600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 1497,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232233556820119600,
+					"id_str": "1232233556820119553",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ERnF5CqUUAEvFpL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERnF5CqUUAEvFpL.jpg",
+					"url": "https://t.co/mqEawtGvBb",
+					"display_url": "pic.twitter.com/mqEawtGvBb",
+					"expanded_url": "https://twitter.com/peachcream_chuu/status/1232233768292761600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 1497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941556432121425900,
+			"id_str": "941556432121425920",
+			"name": "peach and cream 🍑",
+			"screen_name": "peachcream_chuu",
+			"location": "HQ / CAM = 💗",
+			"description": "#이달의소녀 #츄  피치앤크림 🍑",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20929,
+			"friends_count": 4,
+			"listed_count": 2168,
+			"created_at": "Fri Dec 15 06:32:01 +0000 2017",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118147440497106944/QMUHQ_Bn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118147440497106944/QMUHQ_Bn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941556432121425920/1514961396",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 599,
+		"favorite_count": 1263,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200224 주간아이돌 녹화 수고했단다😍 #이달의소녀 #LOONA #츄 #Chuu\n@loonatheworld https://t.co/mqEawtGvBb"
+	},
+	{
 		"created_at": "Wed Feb 26 00:52:18 +0000 2020",
 		"id": 1232348468460449800,
 		"id_str": "1232468395653619714",
