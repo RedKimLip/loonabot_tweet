@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 11:00:34 +0000 2020",
+		"id": 1245048430608519200,
+		"id_str": "1245305046079647744",
+		"full_text": "#이달의소녀 #LOONA #진솔 #JinSoul https://t.co/X6FZMf3GS7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245048418222792700,
+					"id_str": "1245048418222792709",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EUdM8JhU4AUswUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUdM8JhU4AUswUj.jpg",
+					"url": "https://t.co/X6FZMf3GS7",
+					"display_url": "pic.twitter.com/X6FZMf3GS7",
+					"expanded_url": "https://twitter.com/bluemoon_js/status/1245048430608519170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245048418222792700,
+					"id_str": "1245048418222792709",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EUdM8JhU4AUswUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUdM8JhU4AUswUj.jpg",
+					"url": "https://t.co/X6FZMf3GS7",
+					"display_url": "pic.twitter.com/X6FZMf3GS7",
+					"expanded_url": "https://twitter.com/bluemoon_js/status/1245048430608519170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245048418726117400,
+					"id_str": "1245048418726117376",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EUdM8LZVAAAUNJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUdM8LZVAAAUNJI.jpg",
+					"url": "https://t.co/X6FZMf3GS7",
+					"display_url": "pic.twitter.com/X6FZMf3GS7",
+					"expanded_url": "https://twitter.com/bluemoon_js/status/1245048430608519170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245048419392974800,
+					"id_str": "1245048419392974848",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EUdM8N4UcAAArys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUdM8N4UcAAArys.jpg",
+					"url": "https://t.co/X6FZMf3GS7",
+					"display_url": "pic.twitter.com/X6FZMf3GS7",
+					"expanded_url": "https://twitter.com/bluemoon_js/status/1245048430608519170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906707918459826200,
+			"id_str": "906707918459826177",
+			"name": "blond moon",
+			"screen_name": "bluemoon_js",
+			"location": "HQ=💙",
+			"description": "이달의 소녀 진솔",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14598,
+			"friends_count": 0,
+			"listed_count": 2049,
+			"created_at": "Sun Sep 10 02:36:28 +0000 2017",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245047818944798721/oFn90if9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245047818944798721/oFn90if9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906707918459826177/1534932819",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 728,
+		"favorite_count": 2003,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#이달의소녀 #LOONA #진솔 #JinSoul https://t.co/X6FZMf3GS7"
+	},
+	{
 		"created_at": "Wed Apr 01 06:54:35 +0000 2020",
 		"id": 1245231606836547600,
 		"id_str": "1245243142334373891",
