@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 05:43:23 +0000 2020",
+		"id": 1246151229454999600,
+		"id_str": "1246312390234267648",
+		"full_text": "190924\n\n#HeeJin #희진 #이달의소녀 #LOONA #LOOΠΔ https://t.co/ePAgT0dMiF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HeeJin",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						34,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246151195544055800,
+					"id_str": "1246151195544055808",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EUs36PLU8AANCo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUs36PLU8AANCo-.jpg",
+					"url": "https://t.co/ePAgT0dMiF",
+					"display_url": "pic.twitter.com/ePAgT0dMiF",
+					"expanded_url": "https://twitter.com/_SugarSweet12/status/1246151229454999552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1404,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246151195544055800,
+					"id_str": "1246151195544055808",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EUs36PLU8AANCo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUs36PLU8AANCo-.jpg",
+					"url": "https://t.co/ePAgT0dMiF",
+					"display_url": "pic.twitter.com/ePAgT0dMiF",
+					"expanded_url": "https://twitter.com/_SugarSweet12/status/1246151229454999552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1404,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246151195544060000,
+					"id_str": "1246151195544059904",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EUs36PLVAAAcXKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUs36PLVAAAcXKQ.jpg",
+					"url": "https://t.co/ePAgT0dMiF",
+					"display_url": "pic.twitter.com/ePAgT0dMiF",
+					"expanded_url": "https://twitter.com/_SugarSweet12/status/1246151229454999552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1404,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1197049607030632400,
+			"id_str": "1197049607030632448",
+			"name": "SUGAR SWEET",
+			"screen_name": "_SugarSweet12",
+			"location": "❌crop logo ⭕️profile ⭕️header",
+			"description": "for the group that’s sweet like sugar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3017,
+			"friends_count": 5,
+			"listed_count": 422,
+			"created_at": "Wed Nov 20 07:11:39 +0000 2019",
+			"favourites_count": 530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228602934423777281/F_C7YtpT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228602934423777281/F_C7YtpT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1197049607030632448/1581756829",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 480,
+		"favorite_count": 1442,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190924\n\n#HeeJin #희진 #이달의소녀 #LOONA #LOOΠΔ https://t.co/ePAgT0dMiF"
+	},
+	{
 		"created_at": "Fri Apr 03 04:20:49 +0000 2020",
 		"id": 1245680107970113500,
 		"id_str": "1245929222658355202",
