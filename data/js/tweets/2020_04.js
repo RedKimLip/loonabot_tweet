@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 12:31:25 +0000 2020",
+		"id": 1248940995565109200,
+		"id_str": "1248951787173761024",
+		"full_text": "#로켓펀치(#Rocket_Punch) \n\n이달의 소녀 - So What\n\n#수윤 아육대때 이달소 이브언니랑 번호교환 하려고 했는데 미성년자라서 일찍 퇴근하는바람에 교환 못했다구..ㅠㅠㅠ https://t.co/epmlUjygG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로켓펀치",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"text": "수윤",
+					"indices": [
+						41,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248940753075593200,
+					"id_str": "1248940753075593219",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248940753075593219/pu/img/KWqP3MXxc7Vjjk-E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248940753075593219/pu/img/KWqP3MXxc7Vjjk-E.jpg",
+					"url": "https://t.co/epmlUjygG3",
+					"display_url": "pic.twitter.com/epmlUjygG3",
+					"expanded_url": "https://twitter.com/Shaytyen_Th_2/status/1248940995565109249/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248940753075593200,
+					"id_str": "1248940753075593219",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248940753075593219/pu/img/KWqP3MXxc7Vjjk-E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248940753075593219/pu/img/KWqP3MXxc7Vjjk-E.jpg",
+					"url": "https://t.co/epmlUjygG3",
+					"display_url": "pic.twitter.com/epmlUjygG3",
+					"expanded_url": "https://twitter.com/Shaytyen_Th_2/status/1248940995565109249/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 553,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							128,
+							59
+						],
+						"duration_millis": 101700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248940753075593219/pu/pl/B5-RP6KWqXOj-7HX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248940753075593219/pu/vid/584x270/kSR4U0-9CgzLIUgo.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248940753075593219/pu/vid/1280x590/h7SugWHKuX2401iE.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248940753075593219/pu/vid/780x360/WV2CZwQ-ajdt1sis.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1239512543158128600,
+			"id_str": "1239512543158128640",
+			"name": "Shaytyen(샤이티엔)_18",
+			"screen_name": "Shaytyen_Th_2",
+			"location": "",
+			"description": "이쁜여돌♡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2596,
+			"friends_count": 0,
+			"listed_count": 29,
+			"created_at": "Mon Mar 16 11:23:27 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239512736343588864/3NkILLqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239512736343588864/3NkILLqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239512543158128640/1584358009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#로켓펀치(#Rocket_Punch) \n\n이달의 소녀 - So What\n\n#수윤 아육대때 이달소 이브언니랑 번호교환 하려고 했는데 미성년자라서 일찍 퇴근하는바람에 교환 못했다구..ㅠㅠㅠ https://t.co/epmlUjygG3"
+	},
+	{
 		"created_at": "Tue Apr 07 03:09:29 +0000 2020",
 		"id": 1247200406662340600,
 		"id_str": "1247360823128817664",
