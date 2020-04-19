@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 15:38:36 +0000 2020",
+		"id": 1251880003555307500,
+		"id_str": "1251897999317274624",
+		"full_text": "191005\n\n#이달의소녀 #최리 #올리비아혜 #LOONA #Choerry #OliviaHye https://t.co/28bsknQE4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251878951560949800,
+					"id_str": "1251878951560949762",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-RRhGUMAISKq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-RRhGUMAISKq3.jpg",
+					"url": "https://t.co/28bsknQE4H",
+					"display_url": "pic.twitter.com/28bsknQE4H",
+					"expanded_url": "https://twitter.com/gsknot_01/status/1251880003555307520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251878951560949800,
+					"id_str": "1251878951560949762",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-RRhGUMAISKq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-RRhGUMAISKq3.jpg",
+					"url": "https://t.co/28bsknQE4H",
+					"display_url": "pic.twitter.com/28bsknQE4H",
+					"expanded_url": "https://twitter.com/gsknot_01/status/1251880003555307520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251878965314121700,
+					"id_str": "1251878965314121728",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-RSUVU8AAUzgs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-RSUVU8AAUzgs.jpg",
+					"url": "https://t.co/28bsknQE4H",
+					"display_url": "pic.twitter.com/28bsknQE4H",
+					"expanded_url": "https://twitter.com/gsknot_01/status/1251880003555307520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1208788282387001300,
+			"id_str": "1208788282387001344",
+			"name": "grayscale knot",
+			"screen_name": "gsknot_01",
+			"location": "프로필 용도 크롭 O 2차가공 X 상업적 용도 X",
+			"description": "#이달의소녀 #최리 #올리비아혜\n🖤💜",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2245,
+			"friends_count": 1,
+			"listed_count": 373,
+			"created_at": "Sun Dec 22 16:36:07 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208791632117555202/BoH6ehdD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208791632117555202/BoH6ehdD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1208788282387001344/1577034527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 936,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "191005\n\n#이달의소녀 #최리 #올리비아혜 #LOONA #Choerry #OliviaHye https://t.co/28bsknQE4H"
+	},
+	{
+		"created_at": "Sun Apr 19 15:09:08 +0000 2020",
+		"id": 1251803130691387400,
+		"id_str": "1251890583825604608",
+		"full_text": "#이달의소녀(#LOONA) #츄\n\n감상모드 https://t.co/pY8Aji3RGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						15,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251803100609822700,
+					"id_str": "1251803100609822723",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251803100609822723/pu/img/dHqxSQNExS-Tmanj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251803100609822723/pu/img/dHqxSQNExS-Tmanj.jpg",
+					"url": "https://t.co/pY8Aji3RGJ",
+					"display_url": "pic.twitter.com/pY8Aji3RGJ",
+					"expanded_url": "https://twitter.com/Shaytyen_Th_2/status/1251803130691387397/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251803100609822700,
+					"id_str": "1251803100609822723",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251803100609822723/pu/img/dHqxSQNExS-Tmanj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251803100609822723/pu/img/dHqxSQNExS-Tmanj.jpg",
+					"url": "https://t.co/pY8Aji3RGJ",
+					"display_url": "pic.twitter.com/pY8Aji3RGJ",
+					"expanded_url": "https://twitter.com/Shaytyen_Th_2/status/1251803130691387397/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							9
+						],
+						"duration_millis": 2200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251803100609822723/pu/vid/440x360/la5T6hjyAM9ERMm7.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251803100609822723/pu/vid/880x720/TUiib-se6MXVR7ys.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251803100609822723/pu/pl/jNLjh-YKGbFhyc0T.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251803100609822723/pu/vid/330x270/WLHlOq_J8SV9jroc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1239512543158128600,
+			"id_str": "1239512543158128640",
+			"name": "Shaytyen(샤이티엔)_18",
+			"screen_name": "Shaytyen_Th_2",
+			"location": "",
+			"description": "이쁜여돌♡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3058,
+			"friends_count": 0,
+			"listed_count": 33,
+			"created_at": "Mon Mar 16 11:23:27 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239512736343588864/3NkILLqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239512736343588864/3NkILLqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239512543158128640/1584358009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀(#LOONA) #츄\n\n감상모드 https://t.co/pY8Aji3RGJ"
+	},
+	{
 		"created_at": "Sun Apr 19 14:50:24 +0000 2020",
 		"id": 1251824250740072400,
 		"id_str": "1251885867691458562",
