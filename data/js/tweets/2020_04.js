@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 10:06:50 +0000 2020",
+		"id": 1251821857558298600,
+		"id_str": "1252176893526171648",
+		"full_text": "191124 ICN =3=\n#이달의소녀 #올리비아혜 #LOONA #OliviaHye https://t.co/LopHC7zLp6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251820780767174700,
+					"id_str": "1251820780767174669",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9cXiAUYA0J9dG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9cXiAUYA0J9dG.jpg",
+					"url": "https://t.co/LopHC7zLp6",
+					"display_url": "pic.twitter.com/LopHC7zLp6",
+					"expanded_url": "https://twitter.com/offbeat1113/status/1251821857558298624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251820780767174700,
+					"id_str": "1251820780767174669",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9cXiAUYA0J9dG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9cXiAUYA0J9dG.jpg",
+					"url": "https://t.co/LopHC7zLp6",
+					"display_url": "pic.twitter.com/LopHC7zLp6",
+					"expanded_url": "https://twitter.com/offbeat1113/status/1251821857558298624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251820780767162400,
+					"id_str": "1251820780767162373",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9cXiAUMAUTJrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9cXiAUMAUTJrs.jpg",
+					"url": "https://t.co/LopHC7zLp6",
+					"display_url": "pic.twitter.com/LopHC7zLp6",
+					"expanded_url": "https://twitter.com/offbeat1113/status/1251821857558298624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251820781295726600,
+					"id_str": "1251820781295726592",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9cXj-VcAAol4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9cXj-VcAAol4r.jpg",
+					"url": "https://t.co/LopHC7zLp6",
+					"display_url": "pic.twitter.com/LopHC7zLp6",
+					"expanded_url": "https://twitter.com/offbeat1113/status/1251821857558298624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251820781954203600,
+					"id_str": "1251820781954203648",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9cXmbVAAAvlPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9cXmbVAAAvlPC.jpg",
+					"url": "https://t.co/LopHC7zLp6",
+					"display_url": "pic.twitter.com/LopHC7zLp6",
+					"expanded_url": "https://twitter.com/offbeat1113/status/1251821857558298624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074780731077910500,
+			"id_str": "1074780731077910528",
+			"name": "offbeat",
+			"screen_name": "offbeat1113",
+			"location": "",
+			"description": "늑깅이🖤 #이달의소녀 #올리비아혜",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15129,
+			"friends_count": 2,
+			"listed_count": 1382,
+			"created_at": "Mon Dec 17 21:37:49 +0000 2018",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230143119967977472/a3wHy5tt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230143119967977472/a3wHy5tt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074780731077910528/1582121769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1283,
+		"favorite_count": 3116,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "191124 ICN =3=\n#이달의소녀 #올리비아혜 #LOONA #OliviaHye https://t.co/LopHC7zLp6"
+	},
+	{
+		"created_at": "Mon Apr 20 10:06:22 +0000 2020",
+		"id": 1251859411359826000,
+		"id_str": "1252176778329681920",
+		"full_text": "190924 🍒🍎❤\n#이달의소녀 #Loona #이브 #Yves https://t.co/YSiYcf7NCp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "Loona",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						29,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251859377897631700,
+					"id_str": "1251859377897631748",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9_eLhUcAQzgpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9_eLhUcAQzgpU.jpg",
+					"url": "https://t.co/YSiYcf7NCp",
+					"display_url": "pic.twitter.com/YSiYcf7NCp",
+					"expanded_url": "https://twitter.com/LoveYves_0524/status/1251859411359825926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251859377897631700,
+					"id_str": "1251859377897631748",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9_eLhUcAQzgpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9_eLhUcAQzgpU.jpg",
+					"url": "https://t.co/YSiYcf7NCp",
+					"display_url": "pic.twitter.com/YSiYcf7NCp",
+					"expanded_url": "https://twitter.com/LoveYves_0524/status/1251859411359825926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251859397187301400,
+					"id_str": "1251859397187301383",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EV9_fTYVcAcTJBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV9_fTYVcAcTJBi.jpg",
+					"url": "https://t.co/YSiYcf7NCp",
+					"display_url": "pic.twitter.com/YSiYcf7NCp",
+					"expanded_url": "https://twitter.com/LoveYves_0524/status/1251859411359825926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1199107800816734200,
+			"id_str": "1199107800816734208",
+			"name": "MY LOVE",
+			"screen_name": "LoveYves_0524",
+			"location": "🅈🅅🄴🅂🍎",
+			"description": "#이브 #하수영",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1,
+			"listed_count": 408,
+			"created_at": "Mon Nov 25 23:29:47 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251458282989907968/_kKaSsc1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251458282989907968/_kKaSsc1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199107800816734208/1587273503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 1167,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190924 🍒🍎❤\n#이달의소녀 #Loona #이브 #Yves https://t.co/YSiYcf7NCp"
+	},
+	{
 		"created_at": "Sun Apr 19 15:38:36 +0000 2020",
 		"id": 1251880003555307500,
 		"id_str": "1251897999317274624",
