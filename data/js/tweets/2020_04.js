@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 10:21:31 +0000 2020",
+		"id": 1252508122326773800,
+		"id_str": "1252542978972762114",
+		"full_text": "이달의 소녀❤ #희진 #이브 #츄\n칼.군.무 'So What'♪ 무대!!\n\n이쁘고 귀엽고 춤까지 잘 추는\n댄스부 언니들로 기억 조작 뚝딱뚝딱💥\n\n#아는형님 #이달의소녀 #이달소 #SoWhat https://t.co/PF2Fyc8RTz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						16,
+						18
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252501062054850600,
+					"id_str": "1252501062054850560",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1252501062054850560/img/YN0YqAv7C7EWY8SR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1252501062054850560/img/YN0YqAv7C7EWY8SR.jpg",
+					"url": "https://t.co/PF2Fyc8RTz",
+					"display_url": "pic.twitter.com/PF2Fyc8RTz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1252508122326773760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252501062054850600,
+					"id_str": "1252501062054850560",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1252501062054850560/img/YN0YqAv7C7EWY8SR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1252501062054850560/img/YN0YqAv7C7EWY8SR.jpg",
+					"url": "https://t.co/PF2Fyc8RTz",
+					"display_url": "pic.twitter.com/PF2Fyc8RTz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1252508122326773760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47447,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1252501062054850560/vid/480x270/J7ayJs2NyJVAUoDY.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1252501062054850560/pl/hbvHxgbab7IwkTh-.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1252501062054850560/vid/640x360/HZGYvPhhdnabWuP6.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1252501062054850560/vid/1280x720/c9rKqb9sCnsodewm.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[아는 형님] 일단 무조건 봐야 되는 이달의 소녀의 'So What'♪",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10010392/pm10032711/vo10365964/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 434932,
+			"friends_count": 111,
+			"listed_count": 752,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1581469262",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀❤ #희진 #이브 #츄\n칼.군.무 'So What'♪ 무대!!\n\n이쁘고 귀엽고 춤까지 잘 추는\n댄스부 언니들로 기억 조작 뚝딱뚝딱💥\n\n#아는형님 #이달의소녀 #이달소 #SoWhat https://t.co/PF2Fyc8RTz"
+	},
+	{
 		"created_at": "Mon Apr 20 10:06:50 +0000 2020",
 		"id": 1251821857558298600,
 		"id_str": "1252176893526171648",
