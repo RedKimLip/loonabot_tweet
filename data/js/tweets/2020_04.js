@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 05:04:53 +0000 2020",
+		"id": 1253229851261075500,
+		"id_str": "1253550458527838208",
+		"full_text": "200220\n#이달의소녀 #LOONA #진솔 #JINSOUL \n\nYou are the cause of my euphoria https://t.co/UsmCLtCbHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "JINSOUL",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253229293796094000,
+					"id_str": "1253229293796093953",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRdZx7UcAE0FJD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRdZx7UcAE0FJD.jpg",
+					"url": "https://t.co/UsmCLtCbHP",
+					"display_url": "pic.twitter.com/UsmCLtCbHP",
+					"expanded_url": "https://twitter.com/BlackVoid613/status/1253229851261075457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253229293796094000,
+					"id_str": "1253229293796093953",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRdZx7UcAE0FJD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRdZx7UcAE0FJD.jpg",
+					"url": "https://t.co/UsmCLtCbHP",
+					"display_url": "pic.twitter.com/UsmCLtCbHP",
+					"expanded_url": "https://twitter.com/BlackVoid613/status/1253229851261075457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253229307238871000,
+					"id_str": "1253229307238871041",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRdakAU8AEiclQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRdakAU8AEiclQ.jpg",
+					"url": "https://t.co/UsmCLtCbHP",
+					"display_url": "pic.twitter.com/UsmCLtCbHP",
+					"expanded_url": "https://twitter.com/BlackVoid613/status/1253229851261075457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198999942515191800,
+			"id_str": "1198999942515191809",
+			"name": "𝐁𝐥𝐚𝐜𝐤 𝐕𝐨𝐢𝐝",
+			"screen_name": "BlackVoid613",
+			"location": "2차 가공 X/secondary processing X",
+			"description": "#진솔 You made me fall into the Void of Black",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8338,
+			"friends_count": 2,
+			"listed_count": 781,
+			"created_at": "Mon Nov 25 16:20:46 +0000 2019",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205142726863278081/sE2jD3wA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205142726863278081/sE2jD3wA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198999942515191809/1574707198",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1105,
+		"favorite_count": 3357,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "200220\n#이달의소녀 #LOONA #진솔 #JINSOUL \n\nYou are the cause of my euphoria https://t.co/UsmCLtCbHP"
+	},
+	{
 		"created_at": "Fri Apr 24 04:56:00 +0000 2020",
 		"id": 1253491862989672400,
 		"id_str": "1253548221017686022",
