@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 16:52:45 +0000 2020",
+		"id": 1253715650511585300,
+		"id_str": "1253728599388991488",
+		"full_text": "#CHOERRY #최리 @loonatheworld https://t.co/YmhWcHisXY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHOERRY",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						9,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253715648821301200,
+					"id_str": "1253715648821301256",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYXvXlXkAgmuct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYXvXlXkAgmuct.jpg",
+					"url": "https://t.co/YmhWcHisXY",
+					"display_url": "pic.twitter.com/YmhWcHisXY",
+					"expanded_url": "https://twitter.com/hourlychoerry/status/1253715650511585280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253715648821301200,
+					"id_str": "1253715648821301256",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYXvXlXkAgmuct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYXvXlXkAgmuct.jpg",
+					"url": "https://t.co/YmhWcHisXY",
+					"display_url": "pic.twitter.com/YmhWcHisXY",
+					"expanded_url": "https://twitter.com/hourlychoerry/status/1253715650511585280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253715648871620600,
+					"id_str": "1253715648871620608",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYXvXxXYAA3rIP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYXvXxXYAA3rIP.jpg",
+					"url": "https://t.co/YmhWcHisXY",
+					"display_url": "pic.twitter.com/YmhWcHisXY",
+					"expanded_url": "https://twitter.com/hourlychoerry/status/1253715650511585280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1246441594905075700,
+			"id_str": "1246441594905075712",
+			"name": "hourly choerry",
+			"screen_name": "hourlychoerry",
+			"location": "PICS ARENT MINE!",
+			"description": "#최리",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 1,
+			"listed_count": 21,
+			"created_at": "Sat Apr 04 14:16:56 +0000 2020",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246442435640770567/NwqFbQnc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246442435640770567/NwqFbQnc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1246441594905075712/1586010696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#CHOERRY #최리 @loonatheworld https://t.co/YmhWcHisXY"
+	},
+	{
 		"created_at": "Fri Apr 24 05:04:53 +0000 2020",
 		"id": 1253229851261075500,
 		"id_str": "1253550458527838208",
