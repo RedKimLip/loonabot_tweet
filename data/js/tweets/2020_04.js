@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 06:09:53 +0000 2020",
+		"id": 1253556687652319200,
+		"id_str": "1253929202698432517",
+		"full_text": "🐺 200209 TCC 아트센터 팬사인회\n\n#이달의소녀 #LOONA #올리비아혜 #OliviaHye https://t.co/PqQRzD4dc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253556192917336000,
+					"id_str": "1253556192917336065",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWGt0DUMAEjJjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWGt0DUMAEjJjZ.jpg",
+					"url": "https://t.co/PqQRzD4dc4",
+					"display_url": "pic.twitter.com/PqQRzD4dc4",
+					"expanded_url": "https://twitter.com/rosypit_kr/status/1253556687652319233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253556192917336000,
+					"id_str": "1253556192917336065",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWGt0DUMAEjJjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWGt0DUMAEjJjZ.jpg",
+					"url": "https://t.co/PqQRzD4dc4",
+					"display_url": "pic.twitter.com/PqQRzD4dc4",
+					"expanded_url": "https://twitter.com/rosypit_kr/status/1253556687652319233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253556192917377000,
+					"id_str": "1253556192917377024",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWGt0DU0AA97VY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWGt0DU0AA97VY.jpg",
+					"url": "https://t.co/PqQRzD4dc4",
+					"display_url": "pic.twitter.com/PqQRzD4dc4",
+					"expanded_url": "https://twitter.com/rosypit_kr/status/1253556687652319233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220029250230636500,
+			"id_str": "1220029250230636545",
+			"name": "𝐑𝐨𝐬𝐲 𝐩𝐢𝐭.",
+			"screen_name": "rosypit_kr",
+			"location": "1위 가수 팬페이지",
+			"description": "#이달의소녀 #김립 #올리비아혜",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1,
+			"listed_count": 294,
+			"created_at": "Wed Jan 22 17:04:05 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245159745746591746/kOvoaZtr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245159745746591746/kOvoaZtr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220029250230636545/1581286903",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 354,
+		"favorite_count": 1023,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐺 200209 TCC 아트센터 팬사인회\n\n#이달의소녀 #LOONA #올리비아혜 #OliviaHye https://t.co/PqQRzD4dc4"
+	},
+	{
 		"created_at": "Fri Apr 24 16:52:45 +0000 2020",
 		"id": 1253715650511585300,
 		"id_str": "1253728599388991488",
