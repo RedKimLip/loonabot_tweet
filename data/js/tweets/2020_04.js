@@ -1,6 +1,791 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 14:03:24 +0000 2020",
+		"id": 1245353229367431200,
+		"id_str": "1254048365404319746",
+		"full_text": "https://t.co/mqfcHvVzzM\nhttps://t.co/ppfvYl9pS4\nhttps://t.co/ytu0nGfoBW https://t.co/Xrlp7JucQP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqfcHvVzzM",
+					"expanded_url": "https://bit.ly/2wVyq1j",
+					"display_url": "bit.ly/2wVyq1j",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/ppfvYl9pS4",
+					"expanded_url": "https://bit.ly/2Jx4sne",
+					"display_url": "bit.ly/2Jx4sne",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/ytu0nGfoBW",
+					"expanded_url": "https://bit.ly/3aAQnRw",
+					"display_url": "bit.ly/3aAQnRw",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245353181900488700,
+					"id_str": "1245353181900488705",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhiHusUwAE1fh5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhiHusUwAE1fh5.jpg",
+					"url": "https://t.co/Xrlp7JucQP",
+					"display_url": "pic.twitter.com/Xrlp7JucQP",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1245353229367431173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245353181900488700,
+					"id_str": "1245353181900488705",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhiHusUwAE1fh5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhiHusUwAE1fh5.jpg",
+					"url": "https://t.co/Xrlp7JucQP",
+					"display_url": "pic.twitter.com/Xrlp7JucQP",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1245353229367431173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245353197952069600,
+					"id_str": "1245353197952069638",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhiIqfUcAY5mRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhiIqfUcAY5mRz.jpg",
+					"url": "https://t.co/Xrlp7JucQP",
+					"display_url": "pic.twitter.com/Xrlp7JucQP",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1245353229367431173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245353209968726000,
+					"id_str": "1245353209968726017",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhiJXQUEAEhYzx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhiJXQUEAEhYzx.jpg",
+					"url": "https://t.co/Xrlp7JucQP",
+					"display_url": "pic.twitter.com/Xrlp7JucQP",
+					"expanded_url": "https://twitter.com/My_Gowon/status/1245353229367431173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1056454208268906500,
+			"id_str": "1056454208268906496",
+			"name": "6시 내고원",
+			"screen_name": "My_Gowon",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6662,
+			"friends_count": 0,
+			"listed_count": 972,
+			"created_at": "Sun Oct 28 07:54:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245349751416995840/fC_X1VXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245349751416995840/fC_X1VXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056454208268906496/1585749470",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 676,
+		"favorite_count": 1229,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/mqfcHvVzzM\nhttps://t.co/ppfvYl9pS4\nhttps://t.co/ytu0nGfoBW https://t.co/Xrlp7JucQP"
+	},
+	{
+		"created_at": "Sat Apr 25 14:01:08 +0000 2020",
+		"id": 1238998095951790000,
+		"id_str": "1254047798598631426",
+		"full_text": "200217 \n현진이에게 틱-택-토 배우는 중☝️✌️👌\n#희진 #이달의소녀 #LOONA #HeeJin https://t.co/hPAc24pfw9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238867417758969900,
+					"id_str": "1238867417758969858",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFXWkdUMAICTdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFXWkdUMAICTdK.jpg",
+					"url": "https://t.co/hPAc24pfw9",
+					"display_url": "pic.twitter.com/hPAc24pfw9",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1238998095951790080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238867417758969900,
+					"id_str": "1238867417758969858",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFXWkdUMAICTdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFXWkdUMAICTdK.jpg",
+					"url": "https://t.co/hPAc24pfw9",
+					"display_url": "pic.twitter.com/hPAc24pfw9",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1238998095951790080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238867417775800300,
+					"id_str": "1238867417775800320",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFXWkhVAAA2sCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFXWkhVAAA2sCq.jpg",
+					"url": "https://t.co/hPAc24pfw9",
+					"display_url": "pic.twitter.com/hPAc24pfw9",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1238998095951790080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238867417779933200,
+					"id_str": "1238867417779933185",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFXWkiUEAEA9jh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFXWkiUEAEA9jh.jpg",
+					"url": "https://t.co/hPAc24pfw9",
+					"display_url": "pic.twitter.com/hPAc24pfw9",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1238998095951790080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238867417800953900,
+					"id_str": "1238867417800953856",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFXWknU0AAICbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFXWknU0AAICbX.jpg",
+					"url": "https://t.co/hPAc24pfw9",
+					"display_url": "pic.twitter.com/hPAc24pfw9",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1238998095951790080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140982093435961300,
+			"id_str": "1140982093435961344",
+			"name": "라희진썬",
+			"screen_name": "rising_sun1019",
+			"location": "",
+			"description": "#희진 넌 나의 태양☀️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3941,
+			"friends_count": 1,
+			"listed_count": 574,
+			"created_at": "Tue Jun 18 13:58:24 +0000 2019",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150577394245197824/RVkmyJNB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150577394245197824/RVkmyJNB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140982093435961344/1563154002",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 735,
+		"favorite_count": 1233,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200217 \n현진이에게 틱-택-토 배우는 중☝️✌️👌\n#희진 #이달의소녀 #LOONA #HeeJin https://t.co/hPAc24pfw9"
+	},
+	{
+		"created_at": "Sat Apr 25 14:00:58 +0000 2020",
+		"id": 1241534811052871700,
+		"id_str": "1254047756412309504",
+		"full_text": "200215 \n#희진 #이달의소녀 #LOONA #HeeJin https://t.co/SYCKzy9Jju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241425401949253600,
+					"id_str": "1241425401949253633",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/ETpt02JU8AEgJ3w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETpt02JU8AEgJ3w.jpg",
+					"url": "https://t.co/SYCKzy9Jju",
+					"display_url": "pic.twitter.com/SYCKzy9Jju",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1241534811052871681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241425401949253600,
+					"id_str": "1241425401949253633",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/ETpt02JU8AEgJ3w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETpt02JU8AEgJ3w.jpg",
+					"url": "https://t.co/SYCKzy9Jju",
+					"display_url": "pic.twitter.com/SYCKzy9Jju",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1241534811052871681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1241425411315126300,
+					"id_str": "1241425411315126272",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/ETpt1ZCU0AA_S0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETpt1ZCU0AA_S0d.jpg",
+					"url": "https://t.co/SYCKzy9Jju",
+					"display_url": "pic.twitter.com/SYCKzy9Jju",
+					"expanded_url": "https://twitter.com/rising_sun1019/status/1241534811052871681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140982093435961300,
+			"id_str": "1140982093435961344",
+			"name": "라희진썬",
+			"screen_name": "rising_sun1019",
+			"location": "",
+			"description": "#희진 넌 나의 태양☀️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3941,
+			"friends_count": 1,
+			"listed_count": 574,
+			"created_at": "Tue Jun 18 13:58:24 +0000 2019",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150577394245197824/RVkmyJNB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150577394245197824/RVkmyJNB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140982093435961344/1563154002",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 598,
+		"favorite_count": 1382,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "200215 \n#희진 #이달의소녀 #LOONA #HeeJin https://t.co/SYCKzy9Jju"
+	},
+	{
 		"created_at": "Sat Apr 25 06:09:53 +0000 2020",
 		"id": 1253556687652319200,
 		"id_str": "1253929202698432517",
