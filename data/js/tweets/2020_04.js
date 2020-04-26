@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 18:31:46 +0000 2020",
+		"id": 1254355134605168600,
+		"id_str": "1254478292213612544",
+		"full_text": "#이달의소녀(#LOONA) #츄 #현진\n\n섹시한 남자 리액션컷(너무 긔여워서 따로 컷)ㅠㅠㅠ https://t.co/cCmRVgh1NV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						15,
+						17
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						18,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254355071006998500,
+					"id_str": "1254355071006998530",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254355071006998530/pu/img/qTrOwatw64tyTcvr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254355071006998530/pu/img/qTrOwatw64tyTcvr.jpg",
+					"url": "https://t.co/cCmRVgh1NV",
+					"display_url": "pic.twitter.com/cCmRVgh1NV",
+					"expanded_url": "https://twitter.com/Shaytyen_Th_2/status/1254355134605168640/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1012,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254355071006998500,
+					"id_str": "1254355071006998530",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254355071006998530/pu/img/qTrOwatw64tyTcvr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254355071006998530/pu/img/qTrOwatw64tyTcvr.jpg",
+					"url": "https://t.co/cCmRVgh1NV",
+					"display_url": "pic.twitter.com/cCmRVgh1NV",
+					"expanded_url": "https://twitter.com/Shaytyen_Th_2/status/1254355134605168640/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1012,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							253,
+							180
+						],
+						"duration_millis": 18067,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1254355071006998530/pu/vid/378x270/VN-Di_GEb97zkL24.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1254355071006998530/pu/pl/r5KzdccjFaGv6qqg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1254355071006998530/pu/vid/1012x720/0n3xa3T129-d4Hkf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1254355071006998530/pu/vid/506x360/zLbrFQQyEmqdxRxv.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1239512543158128600,
+			"id_str": "1239512543158128640",
+			"name": "Shaytyen(샤이티엔)_18",
+			"screen_name": "Shaytyen_Th_2",
+			"location": "",
+			"description": "이쁜여돌♡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3686,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Mon Mar 16 11:23:27 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239512736343588864/3NkILLqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239512736343588864/3NkILLqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239512543158128640/1584358009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 451,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀(#LOONA) #츄 #현진\n\n섹시한 남자 리액션컷(너무 긔여워서 따로 컷)ㅠㅠㅠ https://t.co/cCmRVgh1NV"
+	},
+	{
 		"created_at": "Sat Apr 25 14:31:53 +0000 2020",
 		"id": 1250738895068688400,
 		"id_str": "1254055534254153730",
