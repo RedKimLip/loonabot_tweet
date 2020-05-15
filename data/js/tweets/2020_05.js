@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 23:12:35 +0000 2020",
+		"id": 1260967631487512600,
+		"id_str": "1261071943790325766",
+		"full_text": "200511 팩트인스타 이브\n\n#이달의소녀 #LOONA #이브 #Yves https://t.co/xdo7ynnKUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						35,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260967521907171300,
+					"id_str": "1260967521907171330",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_bR8CU4AIojqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX_bR8CU4AIojqW.jpg",
+					"url": "https://t.co/xdo7ynnKUN",
+					"display_url": "pic.twitter.com/xdo7ynnKUN",
+					"expanded_url": "https://twitter.com/_WindCloudRain/status/1260967631487512577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260967521907171300,
+					"id_str": "1260967521907171330",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_bR8CU4AIojqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX_bR8CU4AIojqW.jpg",
+					"url": "https://t.co/xdo7ynnKUN",
+					"display_url": "pic.twitter.com/xdo7ynnKUN",
+					"expanded_url": "https://twitter.com/_WindCloudRain/status/1260967631487512577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260967521915551700,
+					"id_str": "1260967521915551744",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_bR8EUwAAr-ep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX_bR8EUwAAr-ep.jpg",
+					"url": "https://t.co/xdo7ynnKUN",
+					"display_url": "pic.twitter.com/xdo7ynnKUN",
+					"expanded_url": "https://twitter.com/_WindCloudRain/status/1260967631487512577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968171651253719000,
+			"id_str": "968171651253719040",
+			"name": "비와 구름 그리고 바람",
+			"screen_name": "_WindCloudRain",
+			"location": "",
+			"description": "#이달의소녀 #LOONA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2411,
+			"friends_count": 13,
+			"listed_count": 420,
+			"created_at": "Mon Feb 26 17:11:24 +0000 2018",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230820686341369862/V-qXlMyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230820686341369862/V-qXlMyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968171651253719040/1582226522",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 764,
+		"favorite_count": 2167,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200511 팩트인스타 이브\n\n#이달의소녀 #LOONA #이브 #Yves https://t.co/xdo7ynnKUN"
+	},
+	{
 		"created_at": "Wed May 13 23:26:28 +0000 2020",
 		"id": 1260615005336072200,
 		"id_str": "1260713048664244225",
