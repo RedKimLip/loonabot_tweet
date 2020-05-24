@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 08:03:37 +0000 2020",
+		"id": 1263722053946839000,
+		"id_str": "1264467072597159936",
+		"full_text": "너무 행복해 보이는 지하철에서 \n닌텐도 하고 있는 츄 사진! 나중에 \n사진 보고 엄청 놀랐다고함.. https://t.co/gTETqVmQbD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263722036343365600,
+					"id_str": "1263722036343365632",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EYmkfx8UYAA_VDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYmkfx8UYAA_VDg.jpg",
+					"url": "https://t.co/gTETqVmQbD",
+					"display_url": "pic.twitter.com/gTETqVmQbD",
+					"expanded_url": "https://twitter.com/Panzer_vowel/status/1263722053946839040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263722036343365600,
+					"id_str": "1263722036343365632",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EYmkfx8UYAA_VDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYmkfx8UYAA_VDg.jpg",
+					"url": "https://t.co/gTETqVmQbD",
+					"display_url": "pic.twitter.com/gTETqVmQbD",
+					"expanded_url": "https://twitter.com/Panzer_vowel/status/1263722053946839040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263722046493622300,
+					"id_str": "1263722046493622280",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EYmkgXwVAAgYALY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYmkgXwVAAgYALY.jpg",
+					"url": "https://t.co/gTETqVmQbD",
+					"display_url": "pic.twitter.com/gTETqVmQbD",
+					"expanded_url": "https://twitter.com/Panzer_vowel/status/1263722053946839040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 669,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 1507,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192014273490256000,
+			"id_str": "1192014273490255872",
+			"name": "내 취향 팬아저 모음",
+			"screen_name": "Panzer_vowel",
+			"location": "↓ 그동안 올렸던 트윗 정리 타래 ↓",
+			"description": "좋아하는거 이것저것 올립니다!",
+			"url": "https://t.co/UPWMaP0UN7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UPWMaP0UN7",
+							"expanded_url": "https://twitter.com/Panzer_Chatter/status/1216540184788914176?s=19",
+							"display_url": "twitter.com/Panzer_Chatter…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19615,
+			"friends_count": 2,
+			"listed_count": 40,
+			"created_at": "Wed Nov 06 09:43:04 +0000 2019",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210100201991458816/3d98ebws_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210100201991458816/3d98ebws_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6987,
+		"favorite_count": 3008,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너무 행복해 보이는 지하철에서 \n닌텐도 하고 있는 츄 사진! 나중에 \n사진 보고 엄청 놀랐다고함.. https://t.co/gTETqVmQbD"
+	},
+	{
+		"created_at": "Sun May 24 08:03:17 +0000 2020",
+		"id": 1263727101745610800,
+		"id_str": "1264466987041697794",
+		"full_text": "200521\n@loonatheworld\n#김립 #KIMLIP #이달의소녀 #LOONA https://t.co/njCafGBhgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "KIMLIP",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263725259515035600,
+					"id_str": "1263725259515035653",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EYmnbZMVAAUTdAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYmnbZMVAAUTdAt.jpg",
+					"url": "https://t.co/njCafGBhgs",
+					"display_url": "pic.twitter.com/njCafGBhgs",
+					"expanded_url": "https://twitter.com/whatloveis0210/status/1263727101745610755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263725259515035600,
+					"id_str": "1263725259515035653",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EYmnbZMVAAUTdAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYmnbZMVAAUTdAt.jpg",
+					"url": "https://t.co/njCafGBhgs",
+					"display_url": "pic.twitter.com/njCafGBhgs",
+					"expanded_url": "https://twitter.com/whatloveis0210/status/1263727101745610755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263726172820521000,
+					"id_str": "1263726172820520960",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EYmoQjhUwAAUDLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYmoQjhUwAAUDLA.jpg",
+					"url": "https://t.co/njCafGBhgs",
+					"display_url": "pic.twitter.com/njCafGBhgs",
+					"expanded_url": "https://twitter.com/whatloveis0210/status/1263727101745610755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1206877545313890300,
+			"id_str": "1206877545313890304",
+			"name": "what love is",
+			"screen_name": "whatloveis0210",
+			"location": "",
+			"description": "For LOONA Kim Lip\n❌Edit /❌Crop Logo /⭕️Crop for profile /⭕️Fanart\n#김립 #KIMLIP #이달의소녀 #LOONA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6643,
+			"friends_count": 3,
+			"listed_count": 489,
+			"created_at": "Tue Dec 17 10:04:17 +0000 2019",
+			"favourites_count": 812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261207587183185920/LH6WnCfl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261207587183185920/LH6WnCfl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1206877545313890304/1589530250",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 676,
+		"favorite_count": 2169,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "200521\n@loonatheworld\n#김립 #KIMLIP #이달의소녀 #LOONA https://t.co/njCafGBhgs"
+	},
+	{
 		"created_at": "Fri May 22 22:52:08 +0000 2020",
 		"id": 1263874008161726500,
 		"id_str": "1263965900635439104",
