@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 08:23:01 +0000 2020",
+		"id": 1266217049954480000,
+		"id_str": "1266283893746880514",
+		"full_text": "200209 TCC 팬 사인회🐰🐰\n\n 너무 귀엽지 않아요？ㅠㅠㅠㅠ\n\n#이달의소녀 #LOONA \n#희진 #HeeJin https://t.co/alcSYoXSUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266217020594348000,
+					"id_str": "1266217020594348034",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKBq-kUYAIAUcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKBq-kUYAIAUcD.jpg",
+					"url": "https://t.co/alcSYoXSUq",
+					"display_url": "pic.twitter.com/alcSYoXSUq",
+					"expanded_url": "https://twitter.com/Angelheejin1019/status/1266217049954480130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266217020594348000,
+					"id_str": "1266217020594348034",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKBq-kUYAIAUcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKBq-kUYAIAUcD.jpg",
+					"url": "https://t.co/alcSYoXSUq",
+					"display_url": "pic.twitter.com/alcSYoXSUq",
+					"expanded_url": "https://twitter.com/Angelheejin1019/status/1266217049954480130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266217033194041300,
+					"id_str": "1266217033194041344",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKBrtgUcAAiRX_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKBrtgUcAAiRX_.jpg",
+					"url": "https://t.co/alcSYoXSUq",
+					"display_url": "pic.twitter.com/alcSYoXSUq",
+					"expanded_url": "https://twitter.com/Angelheejin1019/status/1266217049954480130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1227454454905081900,
+			"id_str": "1227454454905081856",
+			"name": "MellifluousAngel",
+			"screen_name": "Angelheejin1019",
+			"location": "",
+			"description": "For heejin only💖💖#이달의소녀 #희진 로고크롭 상업적이용을 위한 2차가공 금지❌",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2206,
+			"friends_count": 7,
+			"listed_count": 265,
+			"created_at": "Wed Feb 12 04:48:51 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227455268704964611/WV6oA1p6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227455268704964611/WV6oA1p6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227454454905081856/1588153923",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 472,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200209 TCC 팬 사인회🐰🐰\n\n 너무 귀엽지 않아요？ㅠㅠㅠㅠ\n\n#이달의소녀 #LOONA \n#희진 #HeeJin https://t.co/alcSYoXSUq"
+	},
+	{
 		"created_at": "Sun May 24 08:06:08 +0000 2020",
 		"id": 1264139196781883400,
 		"id_str": "1264467707438587905",
