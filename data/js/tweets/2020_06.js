@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 03:40:28 +0000 2020",
+		"id": 1271012656820842500,
+		"id_str": "1271648606764666881",
+		"full_text": "181115\n\n 애기 병아리🐤\n\n#이달의소녀 #LOONA #전희진 #희진 #heejin\n@loonatheworld https://t.co/9BvWFpXahi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "전희진",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "heejin",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271012599832797200,
+					"id_str": "1271012599832797184",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOLObYUYAA_qL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOLObYUYAA_qL4.jpg",
+					"url": "https://t.co/9BvWFpXahi",
+					"display_url": "pic.twitter.com/9BvWFpXahi",
+					"expanded_url": "https://twitter.com/secreta_hj/status/1271012656820842496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271012599832797200,
+					"id_str": "1271012599832797184",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOLObYUYAA_qL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOLObYUYAA_qL4.jpg",
+					"url": "https://t.co/9BvWFpXahi",
+					"display_url": "pic.twitter.com/9BvWFpXahi",
+					"expanded_url": "https://twitter.com/secreta_hj/status/1271012656820842496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271012599828643800,
+					"id_str": "1271012599828643841",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOLObXVAAE6Zie.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOLObXVAAE6Zie.jpg",
+					"url": "https://t.co/9BvWFpXahi",
+					"display_url": "pic.twitter.com/9BvWFpXahi",
+					"expanded_url": "https://twitter.com/secreta_hj/status/1271012656820842496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271012599828607000,
+					"id_str": "1271012599828606976",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOLObXUcAAjUm_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOLObXUcAAjUm_.jpg",
+					"url": "https://t.co/9BvWFpXahi",
+					"display_url": "pic.twitter.com/9BvWFpXahi",
+					"expanded_url": "https://twitter.com/secreta_hj/status/1271012656820842496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1199369361024147500,
+			"id_str": "1199369361024147456",
+			"name": "𝘀𝗲𝗰𝗿𝗲𝘁𝗮.",
+			"screen_name": "secreta_hj",
+			"location": "",
+			"description": "#전희진 🐰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3444,
+			"friends_count": 1,
+			"listed_count": 417,
+			"created_at": "Tue Nov 26 16:48:39 +0000 2019",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251129818793439232/MFBElXjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251129818793439232/MFBElXjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199369361024147456/1584276895",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 616,
+		"favorite_count": 1737,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "181115\n\n 애기 병아리🐤\n\n#이달의소녀 #LOONA #전희진 #희진 #heejin\n@loonatheworld https://t.co/9BvWFpXahi"
+	},
+	{
 		"created_at": "Wed Jun 10 20:32:15 +0000 2020",
 		"id": 1270188039667499000,
 		"id_str": "1270816066881503232",
