@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 05:05:58 +0000 2020",
+		"id": 1308203666294235100,
+		"id_str": "1308271298003570688",
+		"full_text": "전 세계에서 가장 빠른 성장을 보인 '라이징 아티스트 TOP10' 중 어느 아티스트를 가장 좋아하시나요? #KpopTwitter https://t.co/bvlNeOOYme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KpopTwitter",
+					"indices": [
+						59,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308203402166374400,
+					"id_str": "1308203402166374400",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EiesECgVkAAE-6G.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiesECgVkAAE-6G.png",
+					"url": "https://t.co/bvlNeOOYme",
+					"display_url": "pic.twitter.com/bvlNeOOYme",
+					"expanded_url": "https://twitter.com/TwitterKorea/status/1308203666294235137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308203402166374400,
+					"id_str": "1308203402166374400",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EiesECgVkAAE-6G.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiesECgVkAAE-6G.png",
+					"url": "https://t.co/bvlNeOOYme",
+					"display_url": "pic.twitter.com/bvlNeOOYme",
+					"expanded_url": "https://twitter.com/TwitterKorea/status/1308203666294235137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308203664142512000,
+		"in_reply_to_status_id_str": "1308203664142512128",
+		"in_reply_to_user_id": 216531294,
+		"in_reply_to_user_id_str": "216531294",
+		"in_reply_to_screen_name": "TwitterKorea",
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "#KpopTwitter",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "#KpopTwitter is one of the largest and most entertaining conversation around the world!",
+			"url": "https://t.co/SvWUEpsmUj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvWUEpsmUj",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1204349,
+			"friends_count": 285,
+			"listed_count": 1971,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 2879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308081980802695170/pOxQSQC7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308081980802695170/pOxQSQC7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1520581920",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8001,
+		"favorite_count": 34682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전 세계에서 가장 빠른 성장을 보인 '라이징 아티스트 TOP10' 중 어느 아티스트를 가장 좋아하시나요? #KpopTwitter https://t.co/bvlNeOOYme"
+	},
+	{
 		"created_at": "Mon Sep 21 15:06:07 +0000 2020",
 		"id": 1308058938663813000,
 		"id_str": "1308059943514365952",
