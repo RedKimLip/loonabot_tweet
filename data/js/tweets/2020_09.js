@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 06:05:58 +0000 2020",
+		"id": 1308186747944292400,
+		"id_str": "1308286396306796545",
+		"full_text": "[KCON:TACT ALL-ACCESS]\n\n전 세계 팬들이 시간과 장소에 구애 받지 않고 K컬쳐를 즐길 수 있는 새로운 장이 마련되었다.\n7일간의 여정을 함께한 정상급 K-POP 아티스트들의 꿈과 열정에 대한 이야기가 시작된다.\n\nhttps://t.co/eaaDJdfa5G\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/00KULzDkwF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTALLACCESS",
+					"indices": [
+						154,
+						172
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						173,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eaaDJdfa5G",
+					"expanded_url": "https://youtu.be/UNw0E6CsM_g",
+					"display_url": "youtu.be/UNw0E6CsM_g",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1307909792992694300,
+					"id_str": "1307909792992694272",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307909792992694272/pu/img/00_GCCuHpdhLaFJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307909792992694272/pu/img/00_GCCuHpdhLaFJ6.jpg",
+					"url": "https://t.co/00KULzDkwF",
+					"display_url": "pic.twitter.com/00KULzDkwF",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1308186747944292352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307909792992694300,
+					"id_str": "1307909792992694272",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307909792992694272/pu/img/00_GCCuHpdhLaFJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307909792992694272/pu/img/00_GCCuHpdhLaFJ6.jpg",
+					"url": "https://t.co/00KULzDkwF",
+					"display_url": "pic.twitter.com/00KULzDkwF",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1308186747944292352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 121747,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307909792992694272/pu/vid/480x270/5eNSdVLP18rJbhH-.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307909792992694272/pu/vid/1280x720/NdR0IXjL5T0nfxXz.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307909792992694272/pu/vid/640x360/CkBVK0ZRSGn4OmnR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1307909792992694272/pu/pl/22qJqRBHAwH9J9Ze.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/oapPjcm602",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oapPjcm602",
+							"expanded_url": "https://www.youtube.com/Mnet",
+							"display_url": "youtube.com/Mnet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279035,
+			"friends_count": 128,
+			"listed_count": 872,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7596,
+		"favorite_count": 32217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT ALL-ACCESS]\n\n전 세계 팬들이 시간과 장소에 구애 받지 않고 K컬쳐를 즐길 수 있는 새로운 장이 마련되었다.\n7일간의 여정을 함께한 정상급 K-POP 아티스트들의 꿈과 열정에 대한 이야기가 시작된다.\n\nhttps://t.co/eaaDJdfa5G\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/00KULzDkwF"
+	},
+	{
 		"created_at": "Tue Sep 22 05:05:58 +0000 2020",
 		"id": 1308203666294235100,
 		"id_str": "1308271298003570688",
