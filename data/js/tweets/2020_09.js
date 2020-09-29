@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 14:05:58 +0000 2020",
+		"id": 1310942536534503400,
+		"id_str": "1310943906968858634",
+		"full_text": "#Orbit, have you received our invitation to the #이달의소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : Midnight Festival]? 📃👀\n\nIt is time to secure yours NOW! 💕\n\nTickets to the Midnight Festival are available here 🔗 https://t.co/9wpnCmqT8G\n\n#LOONA #Midnight #LOONA_Midnight #MyMusicTaste https://t.co/yqYTUjxhYh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						241,
+						256
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						257,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmqT8G",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310942532327690200,
+					"id_str": "1310942532327690240",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EjFnSZhX0AAnYYn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjFnSZhX0AAnYYn.jpg",
+					"url": "https://t.co/yqYTUjxhYh",
+					"display_url": "pic.twitter.com/yqYTUjxhYh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1310942536534503425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310942532327690200,
+					"id_str": "1310942532327690240",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EjFnSZhX0AAnYYn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjFnSZhX0AAnYYn.jpg",
+					"url": "https://t.co/yqYTUjxhYh",
+					"display_url": "pic.twitter.com/yqYTUjxhYh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1310942536534503425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125692,
+			"friends_count": 111,
+			"listed_count": 251,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1656,
+		"favorite_count": 6580,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit, have you received our invitation to the #이달의소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : Midnight Festival]? 📃👀\n\nIt is time to secure yours NOW! 💕\n\nTickets to the Midnight Festival are available here 🔗 https://t.co/9wpnCmqT8G\n\n#LOONA #Midnight #LOONA_Midnight #MyMusicTaste https://t.co/yqYTUjxhYh"
+	},
+	{
 		"created_at": "Tue Sep 29 13:05:58 +0000 2020",
 		"id": 1310927379552821200,
 		"id_str": "1310928807323488256",
