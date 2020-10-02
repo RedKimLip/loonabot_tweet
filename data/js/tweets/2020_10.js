@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 08:05:58 +0000 2020",
+		"id": 1311939062370955300,
+		"id_str": "1311940473678897152",
+		"full_text": "잠시 후 오후 6시(KST) #희진 #최리 가 출연하는 MBC ‘2020 추석특집 아이돌 멍멍 선수권대회’가 방송됩니다🐾 품에 쏙 들어오는 사랑스러운 토리와 행운이의 활약도 기대해 주세요🐶\n\n#이달의소녀 #LOONA #HeeJin #Choerry https://t.co/ORoD31BYLH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311939029202423800,
+					"id_str": "1311939029202423809",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTxmJqU0AEysvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTxmJqU0AEysvx.jpg",
+					"url": "https://t.co/ORoD31BYLH",
+					"display_url": "pic.twitter.com/ORoD31BYLH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1311939062370955264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311939029202423800,
+					"id_str": "1311939029202423809",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTxmJqU0AEysvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTxmJqU0AEysvx.jpg",
+					"url": "https://t.co/ORoD31BYLH",
+					"display_url": "pic.twitter.com/ORoD31BYLH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1311939062370955264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311939029219209200,
+					"id_str": "1311939029219209217",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTxmJuU8AESc1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTxmJuU8AESc1O.jpg",
+					"url": "https://t.co/ORoD31BYLH",
+					"display_url": "pic.twitter.com/ORoD31BYLH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1311939062370955264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544198,
+			"friends_count": 0,
+			"listed_count": 5677,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4315,
+		"favorite_count": 11538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 오후 6시(KST) #희진 #최리 가 출연하는 MBC ‘2020 추석특집 아이돌 멍멍 선수권대회’가 방송됩니다🐾 품에 쏙 들어오는 사랑스러운 토리와 행운이의 활약도 기대해 주세요🐶\n\n#이달의소녀 #LOONA #HeeJin #Choerry https://t.co/ORoD31BYLH"
+	},
+	{
 		"created_at": "Fri Oct 02 03:05:58 +0000 2020",
 		"id": 1311863479435886600,
 		"id_str": "1311864976613744640",
