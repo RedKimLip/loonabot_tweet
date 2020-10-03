@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 08:05:58 +0000 2020",
+		"id": 1312293881086578700,
+		"id_str": "1312302862249209856",
+		"full_text": "잠시 후 오후 5시(KST) 방송되는 MBC ‘백파더 : 요리를 멈추지 마!’에 맛.잘.알 #여진 #이브 #츄 #고원 이 출격합니다! 오늘은 또 어떤 꿀조합으로 맛있는 저녁을 오빛에게 선사할까요~🍽\n\n#이달의소녀 #LOONA #YeoJin #Yves #Chuu #GoWon https://t.co/rvwC6MYHhi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						59,
+						61
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312293861717205000,
+					"id_str": "1312293861717204992",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjY0UHyUYAANRd2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjY0UHyUYAANRd2.jpg",
+					"url": "https://t.co/rvwC6MYHhi",
+					"display_url": "pic.twitter.com/rvwC6MYHhi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1312293881086578691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312293861717205000,
+					"id_str": "1312293861717204992",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjY0UHyUYAANRd2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjY0UHyUYAANRd2.jpg",
+					"url": "https://t.co/rvwC6MYHhi",
+					"display_url": "pic.twitter.com/rvwC6MYHhi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1312293881086578691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1312293861935345700,
+					"id_str": "1312293861935345666",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjY0UImU8AII1Re.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjY0UImU8AII1Re.jpg",
+					"url": "https://t.co/rvwC6MYHhi",
+					"display_url": "pic.twitter.com/rvwC6MYHhi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1312293881086578691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544568,
+			"friends_count": 0,
+			"listed_count": 5674,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7073,
+		"favorite_count": 18009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 오후 5시(KST) 방송되는 MBC ‘백파더 : 요리를 멈추지 마!’에 맛.잘.알 #여진 #이브 #츄 #고원 이 출격합니다! 오늘은 또 어떤 꿀조합으로 맛있는 저녁을 오빛에게 선사할까요~🍽\n\n#이달의소녀 #LOONA #YeoJin #Yves #Chuu #GoWon https://t.co/rvwC6MYHhi"
+	},
+	{
 		"created_at": "Fri Oct 02 08:05:58 +0000 2020",
 		"id": 1311939062370955300,
 		"id_str": "1311940473678897152",
