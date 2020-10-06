@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 15:06:13 +0000 2020",
+		"id": 1313494723919716400,
+		"id_str": "1313495785921744902",
+		"full_text": "3rd Concept Photo - \"Olivia Hye\"\n⠀\nLOOПΔ 3rd Mini Album [12:00]\n2020.10.19 pm6 (KST) Release\n⠀\n#이달의소녀 #LOONA #OliviaHye #Midnight #Why_Not\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/PMHIBa5PkQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXI886V",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313418483430903800,
+					"id_str": "1313418483430903809",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EjozJuJU0AE8cmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjozJuJU0AE8cmP.jpg",
+					"url": "https://t.co/PMHIBa5PkQ",
+					"display_url": "pic.twitter.com/PMHIBa5PkQ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1313494723919716353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1413,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313418483430903800,
+					"id_str": "1313418483430903809",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EjozJuJU0AE8cmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjozJuJU0AE8cmP.jpg",
+					"url": "https://t.co/PMHIBa5PkQ",
+					"display_url": "pic.twitter.com/PMHIBa5PkQ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1313494723919716353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1413,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 547726,
+			"friends_count": 0,
+			"listed_count": 5702,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16369,
+		"favorite_count": 33637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3rd Concept Photo - \"Olivia Hye\"\n⠀\nLOOПΔ 3rd Mini Album [12:00]\n2020.10.19 pm6 (KST) Release\n⠀\n#이달의소녀 #LOONA #OliviaHye #Midnight #Why_Not\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/PMHIBa5PkQ"
+	},
+	{
+		"created_at": "Tue Oct 06 15:06:07 +0000 2020",
+		"id": 1313494472223789000,
+		"id_str": "1313495760164597760",
+		"full_text": "3rd Concept Photo - \"HeeJin\"\n⠀\nLOOПΔ 3rd Mini Album [12:00]\n2020.10.19 pm6 (KST) Release\n⠀\n#이달의소녀 #희진 #LOONA #HeeJin #Midnight #Why_Not\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/JVMcqqsrrW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXHQxfn",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313418274562949000,
+					"id_str": "1313418274562949122",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejoy9kDUwAIFPP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejoy9kDUwAIFPP7.jpg",
+					"url": "https://t.co/JVMcqqsrrW",
+					"display_url": "pic.twitter.com/JVMcqqsrrW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1313494472223789059/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1413,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313418274562949000,
+					"id_str": "1313418274562949122",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejoy9kDUwAIFPP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejoy9kDUwAIFPP7.jpg",
+					"url": "https://t.co/JVMcqqsrrW",
+					"display_url": "pic.twitter.com/JVMcqqsrrW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1313494472223789059/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1413,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 547726,
+			"friends_count": 0,
+			"listed_count": 5702,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17246,
+		"favorite_count": 35478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3rd Concept Photo - \"HeeJin\"\n⠀\nLOOПΔ 3rd Mini Album [12:00]\n2020.10.19 pm6 (KST) Release\n⠀\n#이달의소녀 #희진 #LOONA #HeeJin #Midnight #Why_Not\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/JVMcqqsrrW"
+	},
+	{
 		"created_at": "Tue Oct 06 03:06:36 +0000 2020",
 		"id": 1313313031724716000,
 		"id_str": "1313314688390901760",
