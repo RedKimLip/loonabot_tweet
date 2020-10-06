@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 02:05:58 +0000 2020",
+		"id": 1313026268741300200,
+		"id_str": "1313299428799901696",
+		"full_text": "[📢] #B_side2 Coming Soon \n\n‼️비사이드 시즌2 스포.jpg‼️\n\nQ. 비사이드 다음 출연 아티스트는 누구?\nㄴ Hint: #딸기벽돌엔터 https://t.co/a3IzbTWuR9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "B_side2",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "딸기벽돌엔터",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313026251326582800,
+					"id_str": "1313026251326582784",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EjjOazsVcAAB3TR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjjOazsVcAAB3TR.jpg",
+					"url": "https://t.co/a3IzbTWuR9",
+					"display_url": "pic.twitter.com/a3IzbTWuR9",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1313026268741300224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313026251326582800,
+					"id_str": "1313026251326582784",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EjjOazsVcAAB3TR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjjOazsVcAAB3TR.jpg",
+					"url": "https://t.co/a3IzbTWuR9",
+					"display_url": "pic.twitter.com/a3IzbTWuR9",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1313026268741300224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "👇 KPOP Full Video👇 💜PLAY YOUR MUSIC💜",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16173,
+			"friends_count": 58,
+			"listed_count": 27,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1124,
+		"favorite_count": 4595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📢] #B_side2 Coming Soon \n\n‼️비사이드 시즌2 스포.jpg‼️\n\nQ. 비사이드 다음 출연 아티스트는 누구?\nㄴ Hint: #딸기벽돌엔터 https://t.co/a3IzbTWuR9"
+	},
+	{
 		"created_at": "Mon Oct 05 15:06:12 +0000 2020",
 		"id": 1313132335961841700,
 		"id_str": "1313133393966751748",
