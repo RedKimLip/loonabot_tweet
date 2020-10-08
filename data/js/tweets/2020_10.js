@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 08:05:58 +0000 2020",
+		"id": 1313479123403112400,
+		"id_str": "1314114800339881984",
+		"full_text": "[KCON:TACT season 2] LIVE KCON-ers now recruiting\n\n#KCONTACT DAY10\n\n#CLC\n#GHOST9\n#LOONA\n#MAMAMOO\n#TOO\n\nApply now to get a chance!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n\n#KCON #KCON2020 https://t.co/xotxnAPyb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "CLC",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "TOO",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313170916809961500,
+					"id_str": "1313170916809961473",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EjlR_cnU8AEugrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjlR_cnU8AEugrl.jpg",
+					"url": "https://t.co/xotxnAPyb9",
+					"display_url": "pic.twitter.com/xotxnAPyb9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313479123403112448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313170916809961500,
+					"id_str": "1313170916809961473",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EjlR_cnU8AEugrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjlR_cnU8AEugrl.jpg",
+					"url": "https://t.co/xotxnAPyb9",
+					"display_url": "pic.twitter.com/xotxnAPyb9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313479123403112448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284750,
+			"friends_count": 67,
+			"listed_count": 883,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1134,
+		"favorite_count": 4053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE KCON-ers now recruiting\n\n#KCONTACT DAY10\n\n#CLC\n#GHOST9\n#LOONA\n#MAMAMOO\n#TOO\n\nApply now to get a chance!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n\n#KCON #KCON2020 https://t.co/xotxnAPyb9"
+	},
+	{
 		"created_at": "Thu Oct 08 03:05:58 +0000 2020",
 		"id": 1314037804066893800,
 		"id_str": "1314039304038035457",
