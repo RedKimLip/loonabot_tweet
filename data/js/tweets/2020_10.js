@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 14:05:58 +0000 2020",
+		"id": 1316000857922719700,
+		"id_str": "1316017337422680069",
+		"full_text": "#Orbit, don’t you wish to witness #LOONA’s preparations for their 1st online show?👀\nGuess what?!\nLOONA will go live on Oct. 16, 10PM KST for the show rehearsal!💣\n\nAll ticket purchasers will get access to this live session!\n🎫 https://t.co/9wpnCmqT8G\n\n#LOONA_Midnight #이달의소녀 https://t.co/JZ69gnOQKh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						250,
+						265
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						266,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmqT8G",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316000856018387000,
+					"id_str": "1316000856018386944",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"url": "https://t.co/JZ69gnOQKh",
+					"display_url": "pic.twitter.com/JZ69gnOQKh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316000857922719746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316000856018387000,
+					"id_str": "1316000856018386944",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"url": "https://t.co/JZ69gnOQKh",
+					"display_url": "pic.twitter.com/JZ69gnOQKh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316000857922719746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126435,
+			"friends_count": 111,
+			"listed_count": 252,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1374,
+		"favorite_count": 5546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit, don’t you wish to witness #LOONA’s preparations for their 1st online show?👀\nGuess what?!\nLOONA will go live on Oct. 16, 10PM KST for the show rehearsal!💣\n\nAll ticket purchasers will get access to this live session!\n🎫 https://t.co/9wpnCmqT8G\n\n#LOONA_Midnight #이달의소녀 https://t.co/JZ69gnOQKh"
+	},
+	{
 		"created_at": "Tue Oct 13 03:05:58 +0000 2020",
 		"id": 1315849744774762500,
 		"id_str": "1315851243793928192",
