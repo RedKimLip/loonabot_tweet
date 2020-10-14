@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 04:05:57 +0000 2020",
+		"id": 1316219678595768300,
+		"id_str": "1316228728633151488",
+		"full_text": "🌕 LOOΠΔ is sending the invitation to their first online show to all #Orbit around the globe! 💌\n\n이달의 소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : Midnight Festival] is happening soon! 🤗\n\nSo hurry up! Secure your tickets 🎫 https://t.co/9wpnCmIu0e\n\n#LOONA_Midnight #LOONA #이달의소녀 https://t.co/xrcQI27zVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						235,
+						250
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						251,
+						257
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						258,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmIu0e",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316218570544570400,
+					"id_str": "1316218570544570368",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316218570544570368/pu/img/TV5beQaDtHCMYBc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316218570544570368/pu/img/TV5beQaDtHCMYBc1.jpg",
+					"url": "https://t.co/xrcQI27zVb",
+					"display_url": "pic.twitter.com/xrcQI27zVb",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316219678595768321/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316218570544570400,
+					"id_str": "1316218570544570368",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316218570544570368/pu/img/TV5beQaDtHCMYBc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316218570544570368/pu/img/TV5beQaDtHCMYBc1.jpg",
+					"url": "https://t.co/xrcQI27zVb",
+					"display_url": "pic.twitter.com/xrcQI27zVb",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316219678595768321/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 9033,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316218570544570368/pu/vid/360x270/OIPpHgqa9TWv1qRL.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316218570544570368/pu/vid/480x360/4XnN9wHQeZ-hfJwO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316218570544570368/pu/vid/960x720/nhd8fsaDcC5xgSPo.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316218570544570368/pu/pl/ihTasy6SKOt4wT0q.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126563,
+			"friends_count": 111,
+			"listed_count": 252,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2183,
+		"favorite_count": 6587,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌕 LOOΠΔ is sending the invitation to their first online show to all #Orbit around the globe! 💌\n\n이달의 소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : Midnight Festival] is happening soon! 🤗\n\nSo hurry up! Secure your tickets 🎫 https://t.co/9wpnCmIu0e\n\n#LOONA_Midnight #LOONA #이달의소녀 https://t.co/xrcQI27zVb"
+	},
+	{
 		"created_at": "Wed Oct 14 03:05:57 +0000 2020",
 		"id": 1316212130991964200,
 		"id_str": "1316213629352542208",
