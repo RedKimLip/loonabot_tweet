@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 16:05:58 +0000 2020",
+		"id": 1316755719924985900,
+		"id_str": "1316772311383584768",
+		"full_text": "#Orbit, are you ready to see these talented members of #LOONA on stage with their electrifying performances?! ⚡\n\nGet your tickets to #이달의소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : Midnight Festival] now 🎟️ https://t.co/9wpnCmqT8G\n\nThis is going to be impressive! 💥\n\n#LOONA_Midnight https://t.co/gNPUd8ZCpE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						257,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmqT8G",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316695479963451400,
+					"id_str": "1316695479963451393",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXXkBiVgAEz7k_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXXkBiVgAEz7k_.jpg",
+					"url": "https://t.co/gNPUd8ZCpE",
+					"display_url": "pic.twitter.com/gNPUd8ZCpE",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316755719924985856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316695479963451400,
+					"id_str": "1316695479963451393",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXXkBiVgAEz7k_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXXkBiVgAEz7k_.jpg",
+					"url": "https://t.co/gNPUd8ZCpE",
+					"display_url": "pic.twitter.com/gNPUd8ZCpE",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316755719924985856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126808,
+			"friends_count": 111,
+			"listed_count": 257,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2242,
+		"favorite_count": 7944,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit, are you ready to see these talented members of #LOONA on stage with their electrifying performances?! ⚡\n\nGet your tickets to #이달의소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : Midnight Festival] now 🎟️ https://t.co/9wpnCmqT8G\n\nThis is going to be impressive! 💥\n\n#LOONA_Midnight https://t.co/gNPUd8ZCpE"
+	},
+	{
 		"created_at": "Thu Oct 15 15:06:00 +0000 2020",
 		"id": 1316756055418830800,
 		"id_str": "1316757220474978304",
