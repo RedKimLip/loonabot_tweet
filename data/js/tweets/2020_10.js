@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 14:05:57 +0000 2020",
+		"id": 1316741107552845800,
+		"id_str": "1316742111333621761",
+		"full_text": "LOOΠΔ is reading #Orbit’s Midnight comments! 👀\nHave they checked yours? ⚡ Find out by watching the full video! ⬇️\n\nCan’t get enough of them? 😍\n\n🌕 Get your tickets to #LOONA's first online show 🎫 https://t.co/9wpnCmqT8G\n\n#LOONA_Midnight #MyMusicTaste\nhttps://t.co/t3H7Z9jYQ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						220,
+						235
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						236,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmqT8G",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						195,
+						218
+					]
+				},
+				{
+					"url": "https://t.co/t3H7Z9jYQ7",
+					"expanded_url": "https://youtu.be/npsLs_gAuEA",
+					"display_url": "youtu.be/npsLs_gAuEA",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126754,
+			"friends_count": 111,
+			"listed_count": 257,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1440,
+		"favorite_count": 4322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOOΠΔ is reading #Orbit’s Midnight comments! 👀\nHave they checked yours? ⚡ Find out by watching the full video! ⬇️\n\nCan’t get enough of them? 😍\n\n🌕 Get your tickets to #LOONA's first online show 🎫 https://t.co/9wpnCmqT8G\n\n#LOONA_Midnight #MyMusicTaste\nhttps://t.co/t3H7Z9jYQ7"
+	},
+	{
 		"created_at": "Thu Oct 15 09:05:57 +0000 2020",
 		"id": 1316665114783813600,
 		"id_str": "1316666614041980929",
