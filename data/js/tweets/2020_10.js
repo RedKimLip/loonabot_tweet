@@ -1,6 +1,1369 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 05:06:26 +0000 2020",
+		"id": 1316385775756488700,
+		"id_str": "1316606336763912194",
+		"full_text": "[🎥 무빙 사원증] #이브 #Yves\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/m48fEtuKWY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315962452664676400,
+					"id_str": "1315962452664676352",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM-Q2DU4AAiks_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM-Q2DU4AAiks_.jpg",
+					"url": "https://t.co/m48fEtuKWY",
+					"display_url": "pic.twitter.com/m48fEtuKWY",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316385775756488710/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315962452664676400,
+					"id_str": "1315962452664676352",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM-Q2DU4AAiks_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM-Q2DU4AAiks_.jpg",
+					"url": "https://t.co/m48fEtuKWY",
+					"display_url": "pic.twitter.com/m48fEtuKWY",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316385775756488710/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							160
+						],
+						"duration_millis": 5906,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962452664676352/vid/320x506/J8hZ51twRvETlXS_.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315962452664676352/pl/wiQuSwSC_w-gFpQq.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962452664676352/vid/720x1140/RSOaAhku2jBW_ggX.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962452664676352/vid/360x570/e1kanSvi74o0kphX.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/LBtNjC1e4BI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18073,
+			"friends_count": 58,
+			"listed_count": 30,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1984,
+		"favorite_count": 5549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥 무빙 사원증] #이브 #Yves\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/m48fEtuKWY"
+	},
+	{
+		"created_at": "Thu Oct 15 05:06:21 +0000 2020",
+		"id": 1316378228102238200,
+		"id_str": "1316606315242946560",
+		"full_text": "[🎥 무빙 사원증] #고원 #GoWon\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/6CvmW902Th",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						151,
+						165
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315962398516207600,
+					"id_str": "1315962398516207616",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM-K80U4AAMSU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM-K80U4AAMSU3.jpg",
+					"url": "https://t.co/6CvmW902Th",
+					"display_url": "pic.twitter.com/6CvmW902Th",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316378228102238212/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315962398516207600,
+					"id_str": "1315962398516207616",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM-K80U4AAMSU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM-K80U4AAMSU3.jpg",
+					"url": "https://t.co/6CvmW902Th",
+					"display_url": "pic.twitter.com/6CvmW902Th",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316378228102238212/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							160
+						],
+						"duration_millis": 4671,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315962398516207616/pl/q6wi3rxrK0bevlh0.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962398516207616/vid/320x506/GhiCXfRmBavTBU2V.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962398516207616/vid/360x570/Bo4FRLPyJlqwqCFW.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962398516207616/vid/720x1140/TqYquLT5cKTjiAp-.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/LBtNjC1e4BI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18073,
+			"friends_count": 58,
+			"listed_count": 30,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1858,
+		"favorite_count": 5170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥 무빙 사원증] #고원 #GoWon\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/6CvmW902Th"
+	},
+	{
+		"created_at": "Thu Oct 15 05:06:15 +0000 2020",
+		"id": 1316370676094324700,
+		"id_str": "1316606289515089920",
+		"full_text": "[🎥 무빙 사원증] #여진 #YeoJin\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/0VJc8NsUNE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						142,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						152,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315962344191586300,
+					"id_str": "1315962344191586305",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM9YHkUwAA6zlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM9YHkUwAA6zlG.jpg",
+					"url": "https://t.co/0VJc8NsUNE",
+					"display_url": "pic.twitter.com/0VJc8NsUNE",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316370676094324738/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315962344191586300,
+					"id_str": "1315962344191586305",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM9YHkUwAA6zlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM9YHkUwAA6zlG.jpg",
+					"url": "https://t.co/0VJc8NsUNE",
+					"display_url": "pic.twitter.com/0VJc8NsUNE",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316370676094324738/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							160
+						],
+						"duration_millis": 6206,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962344191586305/vid/720x1140/3U3hMK0eitiYz91h.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962344191586305/vid/320x506/6iDNMICmiUGlAHjJ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315962344191586305/pl/dSReXb8mxuRc8VZa.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315962344191586305/vid/360x570/6YMXvua09Fmpfy11.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/LBtNjC1e4BI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18073,
+			"friends_count": 58,
+			"listed_count": 30,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1912,
+		"favorite_count": 5630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥 무빙 사원증] #여진 #YeoJin\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/0VJc8NsUNE"
+	},
+	{
+		"created_at": "Thu Oct 15 05:06:12 +0000 2020",
+		"id": 1316363129765474300,
+		"id_str": "1316606276416212992",
+		"full_text": "[🎥 무빙 사원증] #현진 #HyunJin\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/e9la4dirqv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						143,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						153,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315961359255834600,
+					"id_str": "1315961359255834626",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM-EqQUwAAkU8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM-EqQUwAAkU8i.jpg",
+					"url": "https://t.co/e9la4dirqv",
+					"display_url": "pic.twitter.com/e9la4dirqv",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316363129765474315/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315961359255834600,
+					"id_str": "1315961359255834626",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM-EqQUwAAkU8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM-EqQUwAAkU8i.jpg",
+					"url": "https://t.co/e9la4dirqv",
+					"display_url": "pic.twitter.com/e9la4dirqv",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316363129765474315/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 570,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							160
+						],
+						"duration_millis": 4004,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315961359255834626/pl/0zSiAwPUYhoM2kXY.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315961359255834626/vid/360x570/WYTUwEKREeDCCGKX.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315961359255834626/vid/320x506/eegXMc3qZ6mfTqL-.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315961359255834626/vid/720x1140/n9XQJkPopMavNX8e.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/LBtNjC1e4BI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18073,
+			"friends_count": 58,
+			"listed_count": 30,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1992,
+		"favorite_count": 5491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥 무빙 사원증] #현진 #HyunJin\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/e9la4dirqv"
+	},
+	{
+		"created_at": "Thu Oct 15 05:06:04 +0000 2020",
+		"id": 1316355575421177900,
+		"id_str": "1316606242329104385",
+		"full_text": "[🎥 무빙 사원증] #ViVi\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/0XqnMYXcqX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315960944749473800,
+					"id_str": "1315960944749473792",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1315960944749473792/img/m2tI_skQYi3OqQNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1315960944749473792/img/m2tI_skQYi3OqQNN.jpg",
+					"url": "https://t.co/0XqnMYXcqX",
+					"display_url": "pic.twitter.com/0XqnMYXcqX",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316355575421177856/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 808,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315960944749473800,
+					"id_str": "1315960944749473792",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1315960944749473792/img/m2tI_skQYi3OqQNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1315960944749473792/img/m2tI_skQYi3OqQNN.jpg",
+					"url": "https://t.co/0XqnMYXcqX",
+					"display_url": "pic.twitter.com/0XqnMYXcqX",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1316355575421177856/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 808,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							160
+						],
+						"duration_millis": 5606,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315960944749473792/vid/360x570/-Y07I1YV4Kg4TF3D.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315960944749473792/vid/320x506/WNDCIL1Z-i6lL8wz.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315960944749473792/pl/ZOS-Jy3wfro36-6-.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315960944749473792/vid/720x1140/nknoiHaUtaehJQOI.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/LBtNjC1e4BI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18073,
+			"friends_count": 58,
+			"listed_count": 30,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2407,
+		"favorite_count": 6812,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥 무빙 사원증] #ViVi\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\nㄴ 두 번째 티저, 바로 내일 17시 공개😎\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/0XqnMYXcqX"
+	},
+	{
 		"created_at": "Thu Oct 15 04:06:23 +0000 2020",
 		"id": 1316000739949310000,
 		"id_str": "1316591225231888384",
