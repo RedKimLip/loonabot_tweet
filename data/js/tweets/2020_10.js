@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 15:05:58 +0000 2020",
+		"id": 1317027507795710000,
+		"id_str": "1317119599389888513",
+		"full_text": "Hola, #Orbit!\n\nWe thought the girls did so well inviting you to their online concert in Spanish, that we decided to share the video here.❤️\n\nWhat do you think, haven’t #LOONA invented Spanish too? Comment below!💬\n\nhttps://t.co/9wpnCmIu0e\nGet your tickets now!🙌\n\n#LOONA_Midnight https://t.co/Z7zhc6EC29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						262,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmIu0e",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317017617077395500,
+					"id_str": "1317017617077395457",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317017617077395457/pu/img/aJaGLNUtt54Yy5us.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317017617077395457/pu/img/aJaGLNUtt54Yy5us.jpg",
+					"url": "https://t.co/Z7zhc6EC29",
+					"display_url": "pic.twitter.com/Z7zhc6EC29",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1317027507795709953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317017617077395500,
+					"id_str": "1317017617077395457",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317017617077395457/pu/img/aJaGLNUtt54Yy5us.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317017617077395457/pu/img/aJaGLNUtt54Yy5us.jpg",
+					"url": "https://t.co/Z7zhc6EC29",
+					"display_url": "pic.twitter.com/Z7zhc6EC29",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1317027507795709953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 13046,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317017617077395457/pu/vid/480x360/_uAkqn6plOLl_l8y.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317017617077395457/pu/vid/960x720/Nh5WH0BrikFwpYxY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1317017617077395457/pu/pl/4NgGQAVFbu3q5CnV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317017617077395457/pu/vid/360x270/5pWwefsoUOOiyfH-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127076,
+			"friends_count": 111,
+			"listed_count": 256,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3131,
+		"favorite_count": 9850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hola, #Orbit!\n\nWe thought the girls did so well inviting you to their online concert in Spanish, that we decided to share the video here.❤️\n\nWhat do you think, haven’t #LOONA invented Spanish too? Comment below!💬\n\nhttps://t.co/9wpnCmIu0e\nGet your tickets now!🙌\n\n#LOONA_Midnight https://t.co/Z7zhc6EC29"
+	},
+	{
 		"created_at": "Fri Oct 16 12:05:57 +0000 2020",
 		"id": 1317072816240353300,
 		"id_str": "1317074300680241152",
