@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 12:05:57 +0000 2020",
+		"id": 1317072816240353300,
+		"id_str": "1317074300680241152",
+		"full_text": "연습실 리허설 송출 1시간 전!\n \n#LOONA 의 리허설 현장! 벌써부터 기대가 되는데요!\n전 세계 #Orbit 들과의 실시간 채팅도 참여할 수 있습니다.\n▶️\nhttps://t.co/YRHrkhIQT1\n \n#LOONA_Midnight https://t.co/L51cwZ3b2F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "Orbit",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YRHrkhIQT1",
+					"expanded_url": "https://mmt.fans/ismN",
+					"display_url": "mmt.fans/ismN",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317072810108358700,
+					"id_str": "1317072810108358656",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekcuvh3VkAAZxkD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekcuvh3VkAAZxkD.jpg",
+					"url": "https://t.co/L51cwZ3b2F",
+					"display_url": "pic.twitter.com/L51cwZ3b2F",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1317072816240353280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317072810108358700,
+					"id_str": "1317072810108358656",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekcuvh3VkAAZxkD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekcuvh3VkAAZxkD.jpg",
+					"url": "https://t.co/L51cwZ3b2F",
+					"display_url": "pic.twitter.com/L51cwZ3b2F",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1317072816240353280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1317072810108317700,
+					"id_str": "1317072810108317698",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekcuvh3U8AI7D4A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekcuvh3U8AI7D4A.jpg",
+					"url": "https://t.co/L51cwZ3b2F",
+					"display_url": "pic.twitter.com/L51cwZ3b2F",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1317072816240353280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554165,
+			"friends_count": 0,
+			"listed_count": 5706,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6162,
+		"favorite_count": 15781,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연습실 리허설 송출 1시간 전!\n \n#LOONA 의 리허설 현장! 벌써부터 기대가 되는데요!\n전 세계 #Orbit 들과의 실시간 채팅도 참여할 수 있습니다.\n▶️\nhttps://t.co/YRHrkhIQT1\n \n#LOONA_Midnight https://t.co/L51cwZ3b2F"
+	},
+	{
 		"created_at": "Fri Oct 16 09:05:57 +0000 2020",
 		"id": 1317013873917010000,
 		"id_str": "1317029001995714560",
