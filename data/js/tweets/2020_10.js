@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 04:05:58 +0000 2020",
+		"id": 1317066440281710600,
+		"id_str": "1317315892607410176",
+		"full_text": "#WhosNext4TwitterBlueroom?\n\n#Ask_LOONA✨\n\nLOOПΔ #TwitterBlueroom LIVE Q&amp;A @LOONATHEWORLD \n\n📌 2020. 10. 20. 11PM (KST) \n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhosNext4TwitterBlueroom",
+					"indices": [
+						0,
+						25
+					]
+				},
+				{
+					"text": "Ask_LOONA",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "트위터 코리아의 공식 계정입니다. 트위터 서비스 관련 문의는 https://t.co/jTMg7YsLw5 을, 광고 관련 문의는 @TwitterMktgKR 계정을 이용해 주세요.",
+			"url": "https://t.co/SvWUEpsmUj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvWUEpsmUj",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jTMg7YsLw5",
+							"expanded_url": "https://support.twitter.com",
+							"display_url": "support.twitter.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1223591,
+			"friends_count": 298,
+			"listed_count": 1983,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 3027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1601419747",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1462,
+		"favorite_count": 5220,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#WhosNext4TwitterBlueroom?\n\n#Ask_LOONA✨\n\nLOOПΔ #TwitterBlueroom LIVE Q&amp;A @LOONATHEWORLD \n\n📌 2020. 10. 20. 11PM (KST) \n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Fri Oct 16 16:05:58 +0000 2020",
 		"id": 1317118271485870000,
 		"id_str": "1317134699005968385",
