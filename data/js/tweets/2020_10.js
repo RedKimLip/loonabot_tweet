@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 12:05:57 +0000 2020",
+		"id": 1317797807424561200,
+		"id_str": "1317799076264628224",
+		"full_text": "오빛! 드디어 내일 이달의 소녀 세 번째 미니앨범 [12:00]이 발매됩니다🥳 아직 앨범을 구매하지 못한 오빛은 아래의 블록베리크리에이티브샵과 이달의 소녀 US 사이트 내 샵을 통해 앨범을 구매하세요✨\n⠀⠀\n▶️ https://t.co/lGeeSDvoOo\n▶️ https://t.co/T9tqfh9IMs\n⠀\n#이달의소녀 #LOONA https://t.co/nu8fzFl7aA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						179,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lGeeSDvoOo",
+					"expanded_url": "http://blockberrycreativeshop.com",
+					"display_url": "blockberrycreativeshop.com",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/T9tqfh9IMs",
+					"expanded_url": "http://shop.loonatheworldus.com",
+					"display_url": "shop.loonatheworldus.com",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317797798968873000,
+					"id_str": "1317797798968872960",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EknCHb1U0AAnmIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknCHb1U0AAnmIb.jpg",
+					"url": "https://t.co/nu8fzFl7aA",
+					"display_url": "pic.twitter.com/nu8fzFl7aA",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1317797807424561152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 554,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 554,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317797798968873000,
+					"id_str": "1317797798968872960",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EknCHb1U0AAnmIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknCHb1U0AAnmIb.jpg",
+					"url": "https://t.co/nu8fzFl7aA",
+					"display_url": "pic.twitter.com/nu8fzFl7aA",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1317797807424561152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 554,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 554,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554918,
+			"friends_count": 0,
+			"listed_count": 5697,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4322,
+		"favorite_count": 11193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛! 드디어 내일 이달의 소녀 세 번째 미니앨범 [12:00]이 발매됩니다🥳 아직 앨범을 구매하지 못한 오빛은 아래의 블록베리크리에이티브샵과 이달의 소녀 US 사이트 내 샵을 통해 앨범을 구매하세요✨\n⠀⠀\n▶️ https://t.co/lGeeSDvoOo\n▶️ https://t.co/T9tqfh9IMs\n⠀\n#이달의소녀 #LOONA https://t.co/nu8fzFl7aA"
+	},
+	{
 		"created_at": "Sun Oct 18 10:05:58 +0000 2020",
 		"id": 1317752278942732300,
 		"id_str": "1317768877598789632",
