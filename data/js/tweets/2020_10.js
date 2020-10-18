@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 05:05:58 +0000 2020",
+		"id": 1317480619564302300,
+		"id_str": "1317693380021846016",
+		"full_text": "Don’t get yourself a Heart Attack by missing out on #LOONA’s online show! 💘\n\nJoin the girls as they mark such a meaningful moment in their career! ⭐️\n\nGet your ticket to the concert 🎟 https://t.co/9wpnCmqT8G\n\nShow your love! 🙌🏽\n\n#LOONA_Midnight #이달의소녀 https://t.co/FwBpkSX4Fh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						229,
+						244
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						245,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmqT8G",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317480615021826000,
+					"id_str": "1317480615021826049",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekiho5jW0AEXlBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekiho5jW0AEXlBL.jpg",
+					"url": "https://t.co/FwBpkSX4Fh",
+					"display_url": "pic.twitter.com/FwBpkSX4Fh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1317480619564302337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317480615021826000,
+					"id_str": "1317480615021826049",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekiho5jW0AEXlBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekiho5jW0AEXlBL.jpg",
+					"url": "https://t.co/FwBpkSX4Fh",
+					"display_url": "pic.twitter.com/FwBpkSX4Fh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1317480619564302337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127266,
+			"friends_count": 111,
+			"listed_count": 256,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2409,
+		"favorite_count": 8556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t get yourself a Heart Attack by missing out on #LOONA’s online show! 💘\n\nJoin the girls as they mark such a meaningful moment in their career! ⭐️\n\nGet your ticket to the concert 🎟 https://t.co/9wpnCmqT8G\n\nShow your love! 🙌🏽\n\n#LOONA_Midnight #이달의소녀 https://t.co/FwBpkSX4Fh"
+	},
+	{
 		"created_at": "Sat Oct 17 11:06:00 +0000 2020",
 		"id": 1317389891119042600,
 		"id_str": "1317421598929018880",
