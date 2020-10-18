@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 10:05:58 +0000 2020",
+		"id": 1317752278942732300,
+		"id_str": "1317768877598789632",
+		"full_text": "There is no limit to #LOONA’s talents! 🌟\nHere’s the proof! 📺\n\nWitness more yourself, get your ticket to their first online concert 🎫 https://t.co/9wpnCmqT8G\n\nهل اعجبتكم مهارات البنات باللغة العربية؟ لونا متحمسات للقائكم!\n\n#LOONA_Midnight #이달의소녀 https://t.co/fw803cYDre",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						222,
+						237
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						238,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmqT8G",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317663850829807600,
+					"id_str": "1317663850829807616",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317663850829807616/pu/img/qW36ThMfH7DP9qSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317663850829807616/pu/img/qW36ThMfH7DP9qSG.jpg",
+					"url": "https://t.co/fw803cYDre",
+					"display_url": "pic.twitter.com/fw803cYDre",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1317752278942732288/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317663850829807600,
+					"id_str": "1317663850829807616",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317663850829807616/pu/img/qW36ThMfH7DP9qSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317663850829807616/pu/img/qW36ThMfH7DP9qSG.jpg",
+					"url": "https://t.co/fw803cYDre",
+					"display_url": "pic.twitter.com/fw803cYDre",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1317752278942732288/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 13146,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1317663850829807616/pu/pl/v_7us6Jr4Twm6qE9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317663850829807616/pu/vid/480x360/w4JFSetat8F3lp3k.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317663850829807616/pu/vid/360x270/bdkvekU8VdQGfopj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317663850829807616/pu/vid/960x720/Mvet6EzUNCWnSpCa.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127305,
+			"friends_count": 111,
+			"listed_count": 256,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1172,
+		"favorite_count": 4283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "There is no limit to #LOONA’s talents! 🌟\nHere’s the proof! 📺\n\nWitness more yourself, get your ticket to their first online concert 🎫 https://t.co/9wpnCmqT8G\n\nهل اعجبتكم مهارات البنات باللغة العربية؟ لونا متحمسات للقائكم!\n\n#LOONA_Midnight #이달의소녀 https://t.co/fw803cYDre"
+	},
+	{
 		"created_at": "Sun Oct 18 05:05:58 +0000 2020",
 		"id": 1317480619564302300,
 		"id_str": "1317693380021846016",
