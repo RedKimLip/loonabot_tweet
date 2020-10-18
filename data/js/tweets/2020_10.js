@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 15:05:58 +0000 2020",
+		"id": 1317842908360237000,
+		"id_str": "1317844375729307650",
+		"full_text": "#이달의소녀 단군토끼 #희진 이의 생일을 축하합니다🎂\n셀 수 없이 반짝이는 별들보다 더 빛나는 희진이가 있어 행복해💕\n\n#LOONA #HeeJin https://t.co/7vYntUxkpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						74,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317842901464838100,
+					"id_str": "1317842901464838147",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EknrIvuU8AMSVuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknrIvuU8AMSVuV.jpg",
+					"url": "https://t.co/7vYntUxkpm",
+					"display_url": "pic.twitter.com/7vYntUxkpm",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1317842908360237056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 634,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 634,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317842901464838100,
+					"id_str": "1317842901464838147",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EknrIvuU8AMSVuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknrIvuU8AMSVuV.jpg",
+					"url": "https://t.co/7vYntUxkpm",
+					"display_url": "pic.twitter.com/7vYntUxkpm",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1317842908360237056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 634,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 634,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555166,
+			"friends_count": 0,
+			"listed_count": 5704,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15223,
+		"favorite_count": 27839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 단군토끼 #희진 이의 생일을 축하합니다🎂\n셀 수 없이 반짝이는 별들보다 더 빛나는 희진이가 있어 행복해💕\n\n#LOONA #HeeJin https://t.co/7vYntUxkpm"
+	},
+	{
 		"created_at": "Sun Oct 18 12:05:57 +0000 2020",
 		"id": 1317797807424561200,
 		"id_str": "1317799076264628224",
