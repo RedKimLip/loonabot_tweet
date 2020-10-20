@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 16:05:58 +0000 2020",
+		"id": 1318583492813283300,
+		"id_str": "1318584250543779845",
+		"full_text": "이달의 소녀와 함께한 #TwitterBlueroomLIVE !\n오빛들과 소통할 수 있어서 즐거웠어요😆\n이달의 소녀도 #WhyNot? 도 앞으로도 많이 많이 사랑해주세요💕 https://t.co/23HutYWp8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterBlueroomLIVE",
+					"indices": [
+						12,
+						32
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318583430343372800,
+					"id_str": "1318583430343372800",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318583430343372800/pu/img/ZY6JLY9gufOyaZND.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318583430343372800/pu/img/ZY6JLY9gufOyaZND.jpg",
+					"url": "https://t.co/23HutYWp8c",
+					"display_url": "pic.twitter.com/23HutYWp8c",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1318583492813283334/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318583430343372800,
+					"id_str": "1318583430343372800",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318583430343372800/pu/img/ZY6JLY9gufOyaZND.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318583430343372800/pu/img/ZY6JLY9gufOyaZND.jpg",
+					"url": "https://t.co/23HutYWp8c",
+					"display_url": "pic.twitter.com/23HutYWp8c",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1318583492813283334/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21022,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318583430343372800/pu/vid/720x720/yQEJCAfvzx3YC5Fe.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318583430343372800/pu/vid/480x480/M_CVDmP_l1aFaA3U.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318583430343372800/pu/vid/320x320/UbTtS1_FxsDn6RJb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1318583430343372800/pu/pl/pPyqFATD0ZxHj5eE.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559178,
+			"friends_count": 0,
+			"listed_count": 5714,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4985,
+		"favorite_count": 14496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀와 함께한 #TwitterBlueroomLIVE !\n오빛들과 소통할 수 있어서 즐거웠어요😆\n이달의 소녀도 #WhyNot? 도 앞으로도 많이 많이 사랑해주세요💕 https://t.co/23HutYWp8c"
+	},
+	{
 		"created_at": "Tue Oct 20 14:39:16 +0000 2020",
 		"id": 1318562432818716700,
 		"id_str": "1318562432818716672",
