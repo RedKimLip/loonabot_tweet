@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 14:39:16 +0000 2020",
+		"id": 1318562432818716700,
+		"id_str": "1318562432818716672",
+		"full_text": "#ASK_LOONA 다들 귀여워 ㅠㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ASK_LOONA",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027943210419548200,
+			"id_str": "1027943210419548161",
+			"name": "레드립 💋",
+			"screen_name": "redkimlip",
+			"location": "",
+			"description": "#이달의소녀 #LOONA @loonatheworld \n#김립 #KimLip #레드립 #RedKimLip\n\n📧 E-mail: redkimlip@gmail.com\n\n이달의 소녀 봇 @loonabot 관리자",
+			"url": "https://t.co/tsUAIkbb8I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tsUAIkbb8I",
+							"expanded_url": "http://bit.ly/LOONA_LINK",
+							"display_url": "bit.ly/LOONA_LINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 132,
+			"listed_count": 2,
+			"created_at": "Fri Aug 10 15:42:14 +0000 2018",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027943210419548161/1573886512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "#ASK_LOONA 다들 귀여워 ㅠㅠㅠㅠ"
+	},
+	{
+		"created_at": "Tue Oct 20 14:37:48 +0000 2020",
+		"id": 1318562065431212000,
+		"id_str": "1318562065431212032",
+		"full_text": "#ASK_LOONA 김립조아 😍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ASK_LOONA",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027943210419548200,
+			"id_str": "1027943210419548161",
+			"name": "레드립 💋",
+			"screen_name": "redkimlip",
+			"location": "",
+			"description": "#이달의소녀 #LOONA @loonatheworld \n#김립 #KimLip #레드립 #RedKimLip\n\n📧 E-mail: redkimlip@gmail.com\n\n이달의 소녀 봇 @loonabot 관리자",
+			"url": "https://t.co/tsUAIkbb8I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tsUAIkbb8I",
+							"expanded_url": "http://bit.ly/LOONA_LINK",
+							"display_url": "bit.ly/LOONA_LINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 132,
+			"listed_count": 2,
+			"created_at": "Fri Aug 10 15:42:14 +0000 2018",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195643754020888577/05vapBWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027943210419548161/1573886512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "#ASK_LOONA 김립조아 😍"
+	},
+	{
+		"created_at": "Tue Oct 20 14:06:00 +0000 2020",
+		"id": 1318549334200184800,
+		"id_str": "1318554060522426368",
+		"full_text": "#LOONA #이달의소녀 와 함께 하는 특별한 #TwitterBlueroom LIVE Q&amp;A😆잠시후 만나요~!!💕\n\n#Ask_LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"text": "Ask_LOONA",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558995,
+			"friends_count": 0,
+			"listed_count": 5712,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2963,
+		"favorite_count": 10228,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#LOONA #이달의소녀 와 함께 하는 특별한 #TwitterBlueroom LIVE Q&amp;A😆잠시후 만나요~!!💕\n\n#Ask_LOONA"
+	},
+	{
 		"created_at": "Mon Oct 19 15:06:04 +0000 2020",
 		"id": 1318205271915688000,
 		"id_str": "1318206788324495360",
