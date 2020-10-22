@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 15:05:57 +0000 2020",
+		"id": 1319292488239071200,
+		"id_str": "1319293926243766272",
+		"full_text": "오는 10월 24일 8시(KST) #이달의소녀 가 틱톡 라이브로 오빛을 찾아갑니다! 미드나잇 페스티벌의 화려함을 담은 ‘Why Not?’ 들으면서 조금만 기다려 주세요😘 이달의 소녀 틱톡 공식 채널에서 만나요🎵\n\n▶️ https://t.co/rqRHmiImh8\n\n#LOONA https://t.co/hQQNlmJq36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rqRHmiImh8",
+					"expanded_url": "https://vt.tiktok.com/ZSQYT19X/",
+					"display_url": "vt.tiktok.com/ZSQYT19X/",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319292472539840500,
+					"id_str": "1319292472539840515",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8Rg4yVgAMtrCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8Rg4yVgAMtrCe.jpg",
+					"url": "https://t.co/hQQNlmJq36",
+					"display_url": "pic.twitter.com/hQQNlmJq36",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1319292488239071235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319292472539840500,
+					"id_str": "1319292472539840515",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8Rg4yVgAMtrCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8Rg4yVgAMtrCe.jpg",
+					"url": "https://t.co/hQQNlmJq36",
+					"display_url": "pic.twitter.com/hQQNlmJq36",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1319292488239071235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 562051,
+			"friends_count": 0,
+			"listed_count": 5753,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5126,
+		"favorite_count": 17669,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오는 10월 24일 8시(KST) #이달의소녀 가 틱톡 라이브로 오빛을 찾아갑니다! 미드나잇 페스티벌의 화려함을 담은 ‘Why Not?’ 들으면서 조금만 기다려 주세요😘 이달의 소녀 틱톡 공식 채널에서 만나요🎵\n\n▶️ https://t.co/rqRHmiImh8\n\n#LOONA https://t.co/hQQNlmJq36"
+	},
+	{
 		"created_at": "Thu Oct 22 14:05:58 +0000 2020",
 		"id": 1319269865346101200,
 		"id_str": "1319278827944566785",
