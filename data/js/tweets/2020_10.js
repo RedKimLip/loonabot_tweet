@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 09:05:57 +0000 2020",
+		"id": 1319549119023566800,
+		"id_str": "1319565717218480129",
+		"full_text": "🎥 컴백 전 살벌한(?) 안무 연습실 상황 (Ep.2)\nㄴ https://t.co/n58PI8YioF\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓매주 금요일 저녁 5시 절찬 방영🍓\n \n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight #Why_Not\n@loonatheworld https://t.co/4kOUndZ8zm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						162,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n58PI8YioF",
+					"expanded_url": "https://youtu.be/DT5qgJ7L9Ec",
+					"display_url": "youtu.be/DT5qgJ7L9Ec",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319542146832101400,
+					"id_str": "1319542146832101377",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek_0x5TVMAI6Trs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek_0x5TVMAI6Trs.jpg",
+					"url": "https://t.co/4kOUndZ8zm",
+					"display_url": "pic.twitter.com/4kOUndZ8zm",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1319549119023566848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319542146832101400,
+					"id_str": "1319542146832101377",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek_0x5TVMAI6Trs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek_0x5TVMAI6Trs.jpg",
+					"url": "https://t.co/4kOUndZ8zm",
+					"display_url": "pic.twitter.com/4kOUndZ8zm",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1319549119023566848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20680,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1319542146832101377/pl/yziaPa6a_eCQhu2C.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1319542146832101377/vid/1280x720/ndUVb0RVSo_r82Wz.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1319542146832101377/vid/480x270/4CdszaChssJZI687.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1319542146832101377/vid/640x360/3gbAqmfSq68bnblq.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 매주 금요일 저녁 5시 절찬 방영!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 매주 금요일 저녁 5시 절찬 방영!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/DT5qgJ7L9Ec"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18707,
+			"friends_count": 59,
+			"listed_count": 34,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1586,
+		"favorite_count": 4239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎥 컴백 전 살벌한(?) 안무 연습실 상황 (Ep.2)\nㄴ https://t.co/n58PI8YioF\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓매주 금요일 저녁 5시 절찬 방영🍓\n \n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight #Why_Not\n@loonatheworld https://t.co/4kOUndZ8zm"
+	},
+	{
 		"created_at": "Fri Oct 23 08:05:57 +0000 2020",
 		"id": 1319539067126608000,
 		"id_str": "1319550617602396160",
