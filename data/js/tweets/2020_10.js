@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 12:06:02 +0000 2020",
+		"id": 1319602199509430300,
+		"id_str": "1319611033254830080",
+		"full_text": "Thank you so much @Jeff__Benjamin for putting us on the cover of @TIDAL 's K-Pop Queens playlist🎉 Listen to 'Why Not?' and more here🥳\n\n▶ https://t.co/mBZhei2Sh9\n\n#이달의소녀 #LOONA #Midnight #Why_Not https://t.co/pR6eTvpogw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						186,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jeff__Benjamin",
+					"name": "Jeff Benjamin",
+					"id": 21621886,
+					"id_str": "21621886",
+					"indices": [
+						18,
+						33
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mBZhei2Sh9",
+					"expanded_url": "http://tidal.link/KPopQueens",
+					"display_url": "tidal.link/KPopQueens",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319602119368867800,
+					"id_str": "1319602119368867841",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/ElArItHVgAEckkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElArItHVgAEckkA.jpg",
+					"url": "https://t.co/pR6eTvpogw",
+					"display_url": "pic.twitter.com/pR6eTvpogw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1319602199509430274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319602119368867800,
+					"id_str": "1319602119368867841",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/ElArItHVgAEckkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElArItHVgAEckkA.jpg",
+					"url": "https://t.co/pR6eTvpogw",
+					"display_url": "pic.twitter.com/pR6eTvpogw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1319602199509430274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1319602086930100200,
+		"in_reply_to_status_id_str": "1319602086930100229",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 562706,
+			"friends_count": 0,
+			"listed_count": 5764,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 556,
+		"favorite_count": 2728,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you so much @Jeff__Benjamin for putting us on the cover of @TIDAL 's K-Pop Queens playlist🎉 Listen to 'Why Not?' and more here🥳\n\n▶ https://t.co/mBZhei2Sh9\n\n#이달의소녀 #LOONA #Midnight #Why_Not https://t.co/pR6eTvpogw"
+	},
+	{
 		"created_at": "Fri Oct 23 11:05:57 +0000 2020",
 		"id": 1319579066530369500,
 		"id_str": "1319595915754262528",
