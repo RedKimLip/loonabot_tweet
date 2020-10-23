@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 11:05:57 +0000 2020",
+		"id": 1319579066530369500,
+		"id_str": "1319595915754262528",
+		"full_text": "EP.1 열 세번째 멤버 딘딘과 2+2댄스를 췄다고? \n[팬의점24 이달의 소녀점] | 308KPOP \n이달의 소녀와 딘딘의 칼군무! \n상체와 하체를 따로 붙여도 가능! \nWhy Not?은 물론이고 BTS 안무에서 \n지하철 환승 음악까지 모두 다 가능! \n이 소녀들 안되는 게 도대체 뭐야뭐야♥ https://t.co/gXRANvuYHX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319579059827822600,
+					"id_str": "1319579059827822592",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ElAWKdoU0AAToAl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElAWKdoU0AAToAl.jpg",
+					"url": "https://t.co/gXRANvuYHX",
+					"display_url": "pic.twitter.com/gXRANvuYHX",
+					"expanded_url": "https://twitter.com/fanijeom24/status/1319579066530369537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319579059827822600,
+					"id_str": "1319579059827822592",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ElAWKdoU0AAToAl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElAWKdoU0AAToAl.jpg",
+					"url": "https://t.co/gXRANvuYHX",
+					"display_url": "pic.twitter.com/gXRANvuYHX",
+					"expanded_url": "https://twitter.com/fanijeom24/status/1319579066530369537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1253561750508548000,
+			"id_str": "1253561750508548097",
+			"name": "fanijeom24.official",
+			"screen_name": "fanijeom24",
+			"location": "",
+			"description": "팬의점24 점장 공식계정 아이돌이 퇴근 후 들리는 곳 ☺︎팬의점24☺︎ ☻ 좋아요💙 구독💙 알림설정💙",
+			"url": "https://t.co/4LDuhecF1y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4LDuhecF1y",
+							"expanded_url": "https://www.youtube.com/channel/UC3b03x7bpOH8hAYoSmE-DAA",
+							"display_url": "youtube.com/channel/UC3b03…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1470,
+			"friends_count": 10,
+			"listed_count": 4,
+			"created_at": "Fri Apr 24 05:49:55 +0000 2020",
+			"favourites_count": 4067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254657565612367872/ZkbZ68nj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254657565612367872/ZkbZ68nj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253561750508548097/1602493389",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1024,
+		"favorite_count": 3765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EP.1 열 세번째 멤버 딘딘과 2+2댄스를 췄다고? \n[팬의점24 이달의 소녀점] | 308KPOP \n이달의 소녀와 딘딘의 칼군무! \n상체와 하체를 따로 붙여도 가능! \nWhy Not?은 물론이고 BTS 안무에서 \n지하철 환승 음악까지 모두 다 가능! \n이 소녀들 안되는 게 도대체 뭐야뭐야♥ https://t.co/gXRANvuYHX"
+	},
+	{
 		"created_at": "Fri Oct 23 10:05:58 +0000 2020",
 		"id": 1319569508617449500,
 		"id_str": "1319580817421729792",
