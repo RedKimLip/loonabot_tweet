@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 24 11:05:58 +0000 2020",
+		"id": 1319949316761350100,
+		"id_str": "1319958304500711425",
+		"full_text": "오빛! 잠시 후 오후 8시(KST) #이달의소녀 와 함께하는 틱톡 '이달의 소녀 Why Not? 라이브'가 시작됩니다🎵 최초 공개 예정인 #와이낫챌린지 기대 많이해 주세요! 이따 이달의 소녀 틱톡 공식 채널에서 만나요🌙\n\n▶️ https://t.co/vIJ1CnI1Oq\n\n#LOONA #whynotchallenge https://t.co/5ItopyhyJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "와이낫챌린지",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "whynotchallenge",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vIJ1CnI1Oq",
+					"expanded_url": "https://vt.tiktok.com/ZSQLL8dF/",
+					"display_url": "vt.tiktok.com/ZSQLL8dF/",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319949281701154800,
+					"id_str": "1319949281701154816",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ElFm4NlUUAAMng7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElFm4NlUUAAMng7.jpg",
+					"url": "https://t.co/5ItopyhyJE",
+					"display_url": "pic.twitter.com/5ItopyhyJE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1319949316761350147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319949281701154800,
+					"id_str": "1319949281701154816",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ElFm4NlUUAAMng7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElFm4NlUUAAMng7.jpg",
+					"url": "https://t.co/5ItopyhyJE",
+					"display_url": "pic.twitter.com/5ItopyhyJE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1319949316761350147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563387,
+			"friends_count": 0,
+			"listed_count": 5770,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3525,
+		"favorite_count": 10955,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛! 잠시 후 오후 8시(KST) #이달의소녀 와 함께하는 틱톡 '이달의 소녀 Why Not? 라이브'가 시작됩니다🎵 최초 공개 예정인 #와이낫챌린지 기대 많이해 주세요! 이따 이달의 소녀 틱톡 공식 채널에서 만나요🌙\n\n▶️ https://t.co/vIJ1CnI1Oq\n\n#LOONA #whynotchallenge https://t.co/5ItopyhyJE"
+	},
+	{
 		"created_at": "Sat Oct 24 09:05:58 +0000 2020",
 		"id": 1319911507493150700,
 		"id_str": "1319928105310560257",
