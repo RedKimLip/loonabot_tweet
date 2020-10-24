@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 24 09:05:58 +0000 2020",
+		"id": 1319911507493150700,
+		"id_str": "1319928105310560257",
+		"full_text": "🎥 맨손으로 수박 찢는 걸그룹 ㅎㄷㄷ\nㄴ https://t.co/kv3rhnNV05\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓매주 금요일 저녁 5시 절찬 방영🍓\n \n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight #Why_Not\n@loonatheworld https://t.co/YqqY9hFrNV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kv3rhnNV05",
+					"expanded_url": "https://youtu.be/jd2TVs9Uo9c",
+					"display_url": "youtu.be/jd2TVs9Uo9c",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319823517316083700,
+					"id_str": "1319823517316083714",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ElD0fwvU8AIrgz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElD0fwvU8AIrgz4.jpg",
+					"url": "https://t.co/YqqY9hFrNV",
+					"display_url": "pic.twitter.com/YqqY9hFrNV",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1319911507493150720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319823517316083700,
+					"id_str": "1319823517316083714",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ElD0fwvU8AIrgz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElD0fwvU8AIrgz4.jpg",
+					"url": "https://t.co/YqqY9hFrNV",
+					"display_url": "pic.twitter.com/YqqY9hFrNV",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1319911507493150720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18726,
+			"friends_count": 59,
+			"listed_count": 34,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1235,
+		"favorite_count": 3696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎥 맨손으로 수박 찢는 걸그룹 ㅎㄷㄷ\nㄴ https://t.co/kv3rhnNV05\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓매주 금요일 저녁 5시 절찬 방영🍓\n \n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight #Why_Not\n@loonatheworld https://t.co/YqqY9hFrNV"
+	},
+	{
 		"created_at": "Sat Oct 24 07:05:58 +0000 2020",
 		"id": 1319885273807745000,
 		"id_str": "1319897906892210176",
