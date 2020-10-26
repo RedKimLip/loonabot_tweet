@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 02:05:58 +0000 2020",
+		"id": 1320357303527329800,
+		"id_str": "1320547185788936194",
+		"full_text": "[#딩고봇] #이달의소녀 멤버 중 마피아가 누군지.araboza 🚨위기의 99즈?🚨촬영장에선 대체 무슨 일이?!🤔 그리고,,아직도 시민회의가 계속되고 있다고 합니다😨 너무 오래 기다리게 해서 미안해요! 26일(월) 밤 11시에 만나요!\n@loonatheworld\n\n\n#딩고 #dingo #마피아댄스\n#LOONA #Midnight #Why_Not https://t.co/xApulzw7Xl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고봇",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "딩고",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "dingo",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "마피아댄스",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						132,
+						146
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320356424988328000,
+					"id_str": "1320356424988327937",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320356424988327937/pu/img/ADKvzlKDfsXczvLd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320356424988327937/pu/img/ADKvzlKDfsXczvLd.jpg",
+					"url": "https://t.co/xApulzw7Xl",
+					"display_url": "pic.twitter.com/xApulzw7Xl",
+					"expanded_url": "https://twitter.com/dingo_official/status/1320357303527329794/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320356424988328000,
+					"id_str": "1320356424988327937",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320356424988327937/pu/img/ADKvzlKDfsXczvLd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320356424988327937/pu/img/ADKvzlKDfsXczvLd.jpg",
+					"url": "https://t.co/xApulzw7Xl",
+					"display_url": "pic.twitter.com/xApulzw7Xl",
+					"expanded_url": "https://twitter.com/dingo_official/status/1320357303527329794/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47447,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1320356424988327937/pu/pl/01Kae4vxFCgDze8N.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320356424988327937/pu/vid/480x270/ARnOYVzk0wbo0AHI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320356424988327937/pu/vid/640x360/v3h8YdzC7ZLlZC6w.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320356424988327937/pu/vid/1280x720/fu7JV4POtr4ws18n.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119254,
+			"friends_count": 0,
+			"listed_count": 114,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1607,
+		"favorite_count": 5322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고봇] #이달의소녀 멤버 중 마피아가 누군지.araboza 🚨위기의 99즈?🚨촬영장에선 대체 무슨 일이?!🤔 그리고,,아직도 시민회의가 계속되고 있다고 합니다😨 너무 오래 기다리게 해서 미안해요! 26일(월) 밤 11시에 만나요!\n@loonatheworld\n\n\n#딩고 #dingo #마피아댄스\n#LOONA #Midnight #Why_Not https://t.co/xApulzw7Xl"
+	},
+	{
 		"created_at": "Sun Oct 25 13:05:57 +0000 2020",
 		"id": 1320344202366967800,
 		"id_str": "1320350890398748674",
