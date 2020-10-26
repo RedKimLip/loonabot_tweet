@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 14:05:57 +0000 2020",
+		"id": 1320726893771960300,
+		"id_str": "1320728378316640257",
+		"full_text": "[#딩고봇] 안녕하세요. 무릎 꿇고 트윗 작성하는 딩고입니다,,, &lt;마피아댄스&gt; 이달의 소녀 본편 연기 소식을 알립니다ㅠㅠ 연달아 편성이 미뤄진 점, 오늘도 늦은 시간까지 기다리셨을 분들 정말 죄송합니다. 최대한 빠른 시간 내에 본편 공개 시간을 공지하겠습니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고봇",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119377,
+			"friends_count": 0,
+			"listed_count": 114,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 455,
+		"favorite_count": 2593,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#딩고봇] 안녕하세요. 무릎 꿇고 트윗 작성하는 딩고입니다,,, &lt;마피아댄스&gt; 이달의 소녀 본편 연기 소식을 알립니다ㅠㅠ 연달아 편성이 미뤄진 점, 오늘도 늦은 시간까지 기다리셨을 분들 정말 죄송합니다. 최대한 빠른 시간 내에 본편 공개 시간을 공지하겠습니다!"
+	},
+	{
 		"created_at": "Mon Oct 26 13:05:58 +0000 2020",
 		"id": 1320681583477690400,
 		"id_str": "1320713279652544512",
