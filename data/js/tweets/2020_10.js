@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 13:05:58 +0000 2020",
+		"id": 1320681583477690400,
+		"id_str": "1320713279652544512",
+		"full_text": "GUEST | 이달의 소녀 (LOONA)\n@loonatheworld\n\n이달소와 함께 기분 따라 느낌 따라 🔥Why Not?🔥 Do it! 🕺🎶\n\n#낰낰낰 17th 열쇠의 주인공🔑\n❗❗ 10/28(수) PM 8:00 OPEN ❗❗\n\n#이달의소녀 #LOONA\n#Midnight #Why_Not https://t.co/hiM0QOQhX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "낰낰낰",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320661678841737200,
+					"id_str": "1320661678841737217",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ElPvmf6VcAUb9Ub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElPvmf6VcAUb9Ub.jpg",
+					"url": "https://t.co/hiM0QOQhX5",
+					"display_url": "pic.twitter.com/hiM0QOQhX5",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1320681583477690369/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320661678841737200,
+					"id_str": "1320661678841737217",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ElPvmf6VcAUb9Ub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElPvmf6VcAUb9Ub.jpg",
+					"url": "https://t.co/hiM0QOQhX5",
+					"display_url": "pic.twitter.com/hiM0QOQhX5",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1320681583477690369/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51485,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1320661678841737217/pl/NlNyvAqzp_i463py.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320661678841737217/vid/320x320/5MCnPODtPHBZxCMc.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320661678841737217/vid/720x720/DhWFhsRvBWyTpp6a.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320661678841737217/vid/480x480/YoPwwrrqtLut0RE_.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<낰낰낰 : 이달의 소녀> 10/28 (수) 저녁 8시 !",
+						"description": "<낰낰낰 : 이달의 소녀> 10/28 (수) 저녁 8시 !",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/playlist?list=PLx7-jnie6BbKyPKxHW3wG8JhJKDFtIkX-"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18731,
+			"friends_count": 59,
+			"listed_count": 33,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1950,
+		"favorite_count": 6649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GUEST | 이달의 소녀 (LOONA)\n@loonatheworld\n\n이달소와 함께 기분 따라 느낌 따라 🔥Why Not?🔥 Do it! 🕺🎶\n\n#낰낰낰 17th 열쇠의 주인공🔑\n❗❗ 10/28(수) PM 8:00 OPEN ❗❗\n\n#이달의소녀 #LOONA\n#Midnight #Why_Not https://t.co/hiM0QOQhX5"
+	},
+	{
 		"created_at": "Mon Oct 26 02:05:58 +0000 2020",
 		"id": 1320357303527329800,
 		"id_str": "1320547185788936194",
