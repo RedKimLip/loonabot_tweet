@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 15:06:09 +0000 2020",
+		"id": 1321099683373088800,
+		"id_str": "1321105915387457536",
+		"full_text": "이달의 소녀 LOOΠΔ [12:00] Streaming Now🔥\n\n🌑 Melon : https://t.co/orzCthaQc2\n🌑 FLO : https://t.co/aAh3nstKie\n🌑 Genie : https://t.co/oZF7q469bg\n🌑 VIBE : https://t.co/w86K3yMS4Y\n🌑 Bugs : https://t.co/qZTykm7G6a\n\n#이달의소녀 #LOONA #Midnight #Why_Not",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						218,
+						227
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						228,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/orzCthaQc2",
+					"expanded_url": "http://kko.to/XdZNfAWDp",
+					"display_url": "kko.to/XdZNfAWDp",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/aAh3nstKie",
+					"expanded_url": "http://flomuz.io/s/a.BArM5",
+					"display_url": "flomuz.io/s/a.BArM5",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/oZF7q469bg",
+					"expanded_url": "http://genie.co.kr/6PTCJ3",
+					"display_url": "genie.co.kr/6PTCJ3",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/w86K3yMS4Y",
+					"expanded_url": "http://naver.me/xy2o0Kpg",
+					"display_url": "naver.me/xy2o0Kpg",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/qZTykm7G6a",
+					"expanded_url": "http://m.bugs.co.kr/album/998062",
+					"display_url": "m.bugs.co.kr/album/998062",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565412,
+			"friends_count": 0,
+			"listed_count": 5772,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2116,
+		"favorite_count": 7823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀 LOOΠΔ [12:00] Streaming Now🔥\n\n🌑 Melon : https://t.co/orzCthaQc2\n🌑 FLO : https://t.co/aAh3nstKie\n🌑 Genie : https://t.co/oZF7q469bg\n🌑 VIBE : https://t.co/w86K3yMS4Y\n🌑 Bugs : https://t.co/qZTykm7G6a\n\n#이달의소녀 #LOONA #Midnight #Why_Not"
+	},
+	{
+		"created_at": "Tue Oct 27 15:06:00 +0000 2020",
+		"id": 1321099516175511600,
+		"id_str": "1321105876963512321",
+		"full_text": "#LOONA 's [12:00] Thank you for listening and supporting us, Orbits! Let's do our best this week and stream together [12:00]🔥 LOONA! LOONA! Let's go🌹🌙\n\n▶️ https://t.co/Apuxd9AMyB\n\n#이달의소녀 #Midnight #Why_Not",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						197,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Apuxd9AMyB",
+					"expanded_url": "https://LOONAtheworld.lnk.to/1200TW",
+					"display_url": "LOONAtheworld.lnk.to/1200TW",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321099457849520000,
+		"in_reply_to_status_id_str": "1321099457849520130",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565412,
+			"friends_count": 0,
+			"listed_count": 5772,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 846,
+		"favorite_count": 3899,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LOONA 's [12:00] Thank you for listening and supporting us, Orbits! Let's do our best this week and stream together [12:00]🔥 LOONA! LOONA! Let's go🌹🌙\n\n▶️ https://t.co/Apuxd9AMyB\n\n#이달의소녀 #Midnight #Why_Not"
+	},
+	{
 		"created_at": "Tue Oct 27 11:06:04 +0000 2020",
 		"id": 1321044574928683000,
 		"id_str": "1321045493389156352",
