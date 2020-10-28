@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 08:06:02 +0000 2020",
+		"id": 1321330916065620000,
+		"id_str": "1321362574546477056",
+		"full_text": "[#딩고봇] 딩고는 임포스터가 ‘아닙니다’😨 마피아댄스 중 제일 긴 영상은 ‘맞습니다’🔥 10/29(목) 15시에 꼭 옵니다!\n\n\n\n&gt;&gt; [애옹이의 마피아 확인법] 먼저 보기!\n\n#딩고 #dingo #마피아댄스\n#LOONA #Midnight #Why_Not https://t.co/pFEHHaXult",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고봇",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "딩고",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "dingo",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "마피아댄스",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321327793523675100,
+					"id_str": "1321327793523675136",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1321327793523675136/pu/img/0YObIUaX1AzwPOjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1321327793523675136/pu/img/0YObIUaX1AzwPOjg.jpg",
+					"url": "https://t.co/pFEHHaXult",
+					"display_url": "pic.twitter.com/pFEHHaXult",
+					"expanded_url": "https://twitter.com/dingo_official/status/1321330916065619969/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321327793523675100,
+					"id_str": "1321327793523675136",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1321327793523675136/pu/img/0YObIUaX1AzwPOjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1321327793523675136/pu/img/0YObIUaX1AzwPOjg.jpg",
+					"url": "https://t.co/pFEHHaXult",
+					"display_url": "pic.twitter.com/pFEHHaXult",
+					"expanded_url": "https://twitter.com/dingo_official/status/1321330916065619969/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8442,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1321327793523675136/pu/pl/MdvS0a1CRQ8IyKtS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1321327793523675136/pu/vid/640x360/2ZcITX0-kNKQpAcg.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1321327793523675136/pu/vid/480x270/KzVbbxXj2jZxBRQx.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1321327793523675136/pu/vid/1280x720/lYoS8e2ysO5ZxqyG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120133,
+			"friends_count": 0,
+			"listed_count": 117,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1208,
+		"favorite_count": 4022,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고봇] 딩고는 임포스터가 ‘아닙니다’😨 마피아댄스 중 제일 긴 영상은 ‘맞습니다’🔥 10/29(목) 15시에 꼭 옵니다!\n\n\n\n&gt;&gt; [애옹이의 마피아 확인법] 먼저 보기!\n\n#딩고 #dingo #마피아댄스\n#LOONA #Midnight #Why_Not https://t.co/pFEHHaXult"
+	},
+	{
 		"created_at": "Tue Oct 27 15:06:09 +0000 2020",
 		"id": 1321099683373088800,
 		"id_str": "1321105915387457536",
