@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 07:24:38 +0000 2020",
+		"id": 1327131022937510000,
+		"id_str": "1327150364634779649",
+		"full_text": "[덕질캡쳐용♥CLEAN] 이달의 소녀 - Why Not (LOONA - Why Not)\n\n이달소 외않해?\n이달소.. 당신들.. 나의 꽃사슴..♡\n📹https://t.co/ZebfmjznM6\n\n#쇼챔피언 #이달의소녀 #WhyNot https://t.co/ooTAA6aRS1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZebfmjznM6",
+					"expanded_url": "https://youtu.be/2B9Mjzra0fo",
+					"display_url": "youtu.be/2B9Mjzra0fo",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327131009528246300,
+					"id_str": "1327131009528246272",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrqnylWMAA5S9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrqnylWMAA5S9D.jpg",
+					"url": "https://t.co/ooTAA6aRS1",
+					"display_url": "pic.twitter.com/ooTAA6aRS1",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1327131022937509888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327131009528246300,
+					"id_str": "1327131009528246272",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrqnylWMAA5S9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrqnylWMAA5S9D.jpg",
+					"url": "https://t.co/ooTAA6aRS1",
+					"display_url": "pic.twitter.com/ooTAA6aRS1",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1327131022937509888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62124,
+			"friends_count": 2494,
+			"listed_count": 245,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[덕질캡쳐용♥CLEAN] 이달의 소녀 - Why Not (LOONA - Why Not)\n\n이달소 외않해?\n이달소.. 당신들.. 나의 꽃사슴..♡\n📹https://t.co/ZebfmjznM6\n\n#쇼챔피언 #이달의소녀 #WhyNot https://t.co/ooTAA6aRS1"
+	},
+	{
 		"created_at": "Fri Nov 13 07:15:05 +0000 2020",
 		"id": 1327147958639489000,
 		"id_str": "1327147958639489026",
