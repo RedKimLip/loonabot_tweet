@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 11:47:43 +0000 2020",
+		"id": 1327446155635159000,
+		"id_str": "1329028507695923201",
+		"full_text": "이번 주 복면가수 힌트가 도착했습니당!🤩\n손 대면 터질 것 같은 귀여움! 쪼꼬미🎈 #풍선껌\n명랑하게 가왕석까지 따르릉 따르릉~🚴‍♂️ 리틀 #명랑만화\n그 정체는~?🤔\n#복면가왕 일요일 오후 6시 20분 https://t.co/8seZ2j1Udk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "풍선껌",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "명랑만화",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "복면가왕",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327174699487350800,
+					"id_str": "1327174699487350785",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSW4XUUAEe744.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSW4XUUAEe744.jpg",
+					"url": "https://t.co/8seZ2j1Udk",
+					"display_url": "pic.twitter.com/8seZ2j1Udk",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1327446155635159042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327174699487350800,
+					"id_str": "1327174699487350785",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSW4XUUAEe744.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSW4XUUAEe744.jpg",
+					"url": "https://t.co/8seZ2j1Udk",
+					"display_url": "pic.twitter.com/8seZ2j1Udk",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1327446155635159042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327174699487350800,
+					"id_str": "1327174699487350784",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSW4XUUAAZxmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSW4XUUAAZxmH.jpg",
+					"url": "https://t.co/8seZ2j1Udk",
+					"display_url": "pic.twitter.com/8seZ2j1Udk",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1327446155635159042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 852106,
+			"friends_count": 5,
+			"listed_count": 822,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 592,
+		"favorite_count": 2448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 복면가수 힌트가 도착했습니당!🤩\n손 대면 터질 것 같은 귀여움! 쪼꼬미🎈 #풍선껌\n명랑하게 가왕석까지 따르릉 따르릉~🚴‍♂️ 리틀 #명랑만화\n그 정체는~?🤔\n#복면가왕 일요일 오후 6시 20분 https://t.co/8seZ2j1Udk"
+	},
+	{
 		"created_at": "Fri Nov 13 07:26:40 +0000 2020",
 		"id": 1327130768146116600,
 		"id_str": "1327150876625166336",
